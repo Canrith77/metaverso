@@ -7,6 +7,30 @@
 	"items": [
 		
 			{
+				"id": "http://jlrevilla.micro.blog/2021/08/14/de-noche.html",
+				
+				"content_html": "<p>De noche</p>\n\n<p><img src=\"uploads/2021/b7cf3a8f1b.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "De noche\n\n<img src=\"uploads/2021/b7cf3a8f1b.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2021-08-14T20:38:49-05:00",
+				"url": "https://revilla.pe/2021/08/14/de-noche.html"
+			},
+			{
+				"id": "http://jlrevilla.micro.blog/2021/08/14/polarizacin-en-redes.html",
+				"title": "Polarización en redes",
+				"content_html": "<p>Un <a href=\"https://news.yale.edu/2021/08/13/likes-and-shares-teach-people-express-more-outrage-online\">estudio de la Universidad de Yale</a> comprueba lo que ya sospechábamos de forma empírica, la polarización extrema de la sociedad actual es causada por comportamientos que son reforzados por las redes sociales.</p>\n\n<p>Si ustedes también sienten que en los últimos años ninguna opinión parece tener matices intermedios y que aparentemente solo existen dos bandos extremos a los que se puede pertenecer, pues el tema parece venir por la ruta en la que la indignación moral va llevando a la polarización, así como el miedo lleva al lado oscuro de la fuerza, alimentada por la forma en que las redes recompensan las acciones de sus miembros.</p>\n\n<p>Del estudio: “The team found that the incentives of social media platforms like Twitter really do change how people post. Users who received more likes and retweets when they expressed outrage in a tweet were more likely to express outrage in later posts” y “this suggests a mechanism for how moderate groups can become politically radicalized over time — the rewards of social media create positive feedback loops that exacerbate outrage”.</p>\n\n<p>Y si a esto le sumamos los mecanismos de adicción que estas redes integran en su diseño, cada vez queda más claro que el balance final de estas tecnologías es negativo.</p>\n",
+				"content_text": "Un [estudio de la Universidad de Yale](https://news.yale.edu/2021/08/13/likes-and-shares-teach-people-express-more-outrage-online) comprueba lo que ya sospechábamos de forma empírica, la polarización extrema de la sociedad actual es causada por comportamientos que son reforzados por las redes sociales.\n\nSi ustedes también sienten que en los últimos años ninguna opinión parece tener matices intermedios y que aparentemente solo existen dos bandos extremos a los que se puede pertenecer, pues el tema parece venir por la ruta en la que la indignación moral va llevando a la polarización, así como el miedo lleva al lado oscuro de la fuerza, alimentada por la forma en que las redes recompensan las acciones de sus miembros.\n\nDel estudio: “The team found that the incentives of social media platforms like Twitter really do change how people post. Users who received more likes and retweets when they expressed outrage in a tweet were more likely to express outrage in later posts” y “this suggests a mechanism for how moderate groups can become politically radicalized over time — the rewards of social media create positive feedback loops that exacerbate outrage”.\n\nY si a esto le sumamos los mecanismos de adicción que estas redes integran en su diseño, cada vez queda más claro que el balance final de estas tecnologías es negativo.\n",
+				"date_published": "2021-08-14T09:46:08-05:00",
+				"url": "https://revilla.pe/2021/08/14/polarizacin-en-redes.html"
+			},
+			{
+				"id": "http://jlrevilla.micro.blog/2021/08/13/todo-lo-que.html",
+				
+				"content_html": "<p>Todo lo que sé sobre el Reino Unido viene de:\n- Doctor Who\n- Top Gear\n- La serie de libros de Rivers of London\n- Life in Mars</p>\n",
+				"content_text": "Todo lo que sé sobre el Reino Unido viene de:\n- Doctor Who\n- Top Gear\n- La serie de libros de Rivers of London\n- Life in Mars\n",
+				"date_published": "2021-08-13T20:08:11-05:00",
+				"url": "https://revilla.pe/2021/08/13/todo-lo-que.html"
+			},
+			{
 				"id": "http://jlrevilla.micro.blog/2021/08/07/siempre-a-la.html",
 				
 				"content_html": "<p>Siempre a la vanguardia</p>\n\n<p><img src=\"uploads/2021/07856b1678.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
