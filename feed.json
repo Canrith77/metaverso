@@ -7,10 +7,68 @@
 	"items": [
 		
 			{
+				"id": "http://jlrevilla.micro.blog/2021/08/18/la-vida-es.html",
+				"title": "La vida es información",
+				"content_html": "<blockquote>\n<p>“At one time, we thought that the way life came together was almost completely random, only needing an energy gradient to get going. But as we’ve moved into the information age, we’ve come to realize that life is more about information than energy. Fire has most of the characteristics of life. It eats, it grows, it reproduces. But fire retains no information. It doesn’t learn; it doesn’t adapt. The five millionth fire started by lightning will behave just like the first. But the five hundredth bacterial division will not be like the first one, especially if there is environmental pressure. That’s DNA. And RNA. That’s life.”</p>\n</blockquote>\n\n<p>— We Are Legion (We Are Bob) (Bobiverse Book 1) por Dennis Taylor</p>\n",
+				"content_text": "> “At one time, we thought that the way life came together was almost completely random, only needing an energy gradient to get going. But as we’ve moved into the information age, we’ve come to realize that life is more about information than energy. Fire has most of the characteristics of life. It eats, it grows, it reproduces. But fire retains no information. It doesn’t learn; it doesn’t adapt. The five millionth fire started by lightning will behave just like the first. But the five hundredth bacterial division will not be like the first one, especially if there is environmental pressure. That’s DNA. And RNA. That’s life.”\n\n— We Are Legion (We Are Bob) (Bobiverse Book 1) por Dennis Taylor\n",
+				"date_published": "2021-08-18T20:33:35-05:00",
+				"url": "https://revilla.pe/2021/08/18/la-vida-es.html"
+			},
+			{
+				"id": "http://jlrevilla.micro.blog/2021/08/18/rss-vive.html",
+				"title": "RSS vive",
+				"content_html": "<p>Actualización a mi <a href=\"https://revilla.pe/2021/02/14/de-regreso-a.html\">anterior post</a>: Ya he logrado dejar Twitter.</p>\n\n<p>Pude consolidar casi la totalidad de las fuentes interesantes que seguía en Twitter (Noticias, Fórmula 1, algunos web comics, actualizaciones de marcas que me gustan) hacia Feedly, pues con un poco de análisis me di cuenta que  todas tenían una versión en RSS desde su web principal. Y las pocas que no lo tenían, no las voy a extrañar.</p>\n\n<p>Gran paso en la desintoxicación de redes sociales.</p>\n",
+				"content_text": "Actualización a mi [anterior post](https://revilla.pe/2021/02/14/de-regreso-a.html): Ya he logrado dejar Twitter.\n\nPude consolidar casi la totalidad de las fuentes interesantes que seguía en Twitter (Noticias, Fórmula 1, algunos web comics, actualizaciones de marcas que me gustan) hacia Feedly, pues con un poco de análisis me di cuenta que  todas tenían una versión en RSS desde su web principal. Y las pocas que no lo tenían, no las voy a extrañar.\n\nGran paso en la desintoxicación de redes sociales.\n",
+				"date_published": "2021-08-18T20:27:54-05:00",
+				"url": "https://revilla.pe/2021/08/18/rss-vive.html"
+			},
+			{
+				"id": "http://jlrevilla.micro.blog/2021/08/17/viene-con-el.html",
+				
+				"content_html": "<p>Viene con el puesto de trabajo…</p>\n\n<p><img src=\"uploads/2021/9f146dbaf4.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Viene con el puesto de trabajo…\n\n<img src=\"uploads/2021/9f146dbaf4.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2021-08-17T18:43:58-05:00",
+				"url": "https://revilla.pe/2021/08/17/viene-con-el.html"
+			},
+			{
+				"id": "http://jlrevilla.micro.blog/2021/08/16/opciones.html",
+				
+				"content_html": "<p>Opciones</p>\n\n<p><img src=\"uploads/2021/ae75ad6f12.jpg\" width=\"550\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Opciones\n\n<img src=\"uploads/2021/ae75ad6f12.jpg\" width=\"550\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2021-08-16T09:56:25-05:00",
+				"url": "https://revilla.pe/2021/08/16/opciones.html"
+			},
+			{
+				"id": "http://jlrevilla.micro.blog/2021/08/15/doc-searls-autor.html",
+				
+				"content_html": "<p>Doc Searls (autor de “The Cluetrain Manifesto”) nos plantea <a href=\"http://blogs.harvard.edu/doc/2021/08/15/beyond-the-web/\">once preguntas</a> sobre la web que vale la pena revisar.</p>\n",
+				"content_text": "Doc Searls (autor de “The Cluetrain Manifesto”) nos plantea [once preguntas](http://blogs.harvard.edu/doc/2021/08/15/beyond-the-web/) sobre la web que vale la pena revisar.\n",
+				"date_published": "2021-08-15T18:53:00-05:00",
+				"url": "https://revilla.pe/2021/08/15/doc-searls-autor.html",
+				"tags": ["tech"]
+			},
+			{
+				"id": "http://jlrevilla.micro.blog/2021/08/15/echoes.html",
+				
+				"content_html": "<p>Echoes</p>\n\n<p><img src=\"https://revilla.pe/uploads/2021/d4403d87cc.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Echoes\n\n<img src=\"https://revilla.pe/uploads/2021/d4403d87cc.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2021-08-15T14:37:39-05:00",
+				"url": "https://revilla.pe/2021/08/15/echoes.html"
+			},
+			{
+				"id": "http://jlrevilla.micro.blog/2021/08/15/es-momento-de.html",
+				
+				"content_html": "<p>Es momento de empezar con una nueva serie: <a href=\"https://micro.blog/books/9781680680584\">We Are Legion (We Are Bob) (Bobiverse) (Volume 1)</a> por Dennis E. Taylor 📚</p>\n",
+				"content_text": "Es momento de empezar con una nueva serie: [We Are Legion (We Are Bob) (Bobiverse) (Volume 1)](https://micro.blog/books/9781680680584) por Dennis E. Taylor 📚\n",
+				"date_published": "2021-08-15T00:50:00-05:00",
+				"url": "https://revilla.pe/2021/08/15/es-momento-de.html",
+				"tags": ["personal"]
+			},
+			{
 				"id": "http://jlrevilla.micro.blog/2021/08/14/de-noche.html",
 				
-				"content_html": "<p>De noche</p>\n\n<p><img src=\"uploads/2021/b7cf3a8f1b.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "De noche\n\n<img src=\"uploads/2021/b7cf3a8f1b.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>De noche</p>\n\n<p><img src=\"https://revilla.pe/uploads/2021/b7cf3a8f1b.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "De noche\n\n<img src=\"https://revilla.pe/uploads/2021/b7cf3a8f1b.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-08-14T20:38:49-05:00",
 				"url": "https://revilla.pe/2021/08/14/de-noche.html"
 			},
@@ -19,8 +77,9 @@
 				"title": "Polarización en redes",
 				"content_html": "<p>Un <a href=\"https://news.yale.edu/2021/08/13/likes-and-shares-teach-people-express-more-outrage-online\">estudio de la Universidad de Yale</a> comprueba lo que ya sospechábamos de forma empírica, la polarización extrema de la sociedad actual es causada por comportamientos que son reforzados por las redes sociales.</p>\n\n<p>Si ustedes también sienten que en los últimos años ninguna opinión parece tener matices intermedios y que aparentemente solo existen dos bandos extremos a los que se puede pertenecer, pues el tema parece venir por la ruta en la que la indignación moral va llevando a la polarización, así como el miedo lleva al lado oscuro de la fuerza, alimentada por la forma en que las redes recompensan las acciones de sus miembros.</p>\n\n<p>Del estudio: “The team found that the incentives of social media platforms like Twitter really do change how people post. Users who received more likes and retweets when they expressed outrage in a tweet were more likely to express outrage in later posts” y “this suggests a mechanism for how moderate groups can become politically radicalized over time — the rewards of social media create positive feedback loops that exacerbate outrage”.</p>\n\n<p>Y si a esto le sumamos los mecanismos de adicción que estas redes integran en su diseño, cada vez queda más claro que el balance final de estas tecnologías es negativo.</p>\n",
 				"content_text": "Un [estudio de la Universidad de Yale](https://news.yale.edu/2021/08/13/likes-and-shares-teach-people-express-more-outrage-online) comprueba lo que ya sospechábamos de forma empírica, la polarización extrema de la sociedad actual es causada por comportamientos que son reforzados por las redes sociales.\n\nSi ustedes también sienten que en los últimos años ninguna opinión parece tener matices intermedios y que aparentemente solo existen dos bandos extremos a los que se puede pertenecer, pues el tema parece venir por la ruta en la que la indignación moral va llevando a la polarización, así como el miedo lleva al lado oscuro de la fuerza, alimentada por la forma en que las redes recompensan las acciones de sus miembros.\n\nDel estudio: “The team found that the incentives of social media platforms like Twitter really do change how people post. Users who received more likes and retweets when they expressed outrage in a tweet were more likely to express outrage in later posts” y “this suggests a mechanism for how moderate groups can become politically radicalized over time — the rewards of social media create positive feedback loops that exacerbate outrage”.\n\nY si a esto le sumamos los mecanismos de adicción que estas redes integran en su diseño, cada vez queda más claro que el balance final de estas tecnologías es negativo.\n",
-				"date_published": "2021-08-14T09:46:08-05:00",
-				"url": "https://revilla.pe/2021/08/14/polarizacin-en-redes.html"
+				"date_published": "2021-08-14T09:46:00-05:00",
+				"url": "https://revilla.pe/2021/08/14/polarizacin-en-redes.html",
+				"tags": ["meta"]
 			},
 			{
 				"id": "http://jlrevilla.micro.blog/2021/08/13/todo-lo-que.html",
@@ -33,25 +92,25 @@
 			{
 				"id": "http://jlrevilla.micro.blog/2021/08/07/siempre-a-la.html",
 				
-				"content_html": "<p>Siempre a la vanguardia</p>\n\n<p><img src=\"uploads/2021/07856b1678.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Siempre a la vanguardia\n\n<img src=\"uploads/2021/07856b1678.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Siempre a la vanguardia</p>\n\n<p><img src=\"https://revilla.pe/uploads/2021/07856b1678.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Siempre a la vanguardia\n\n<img src=\"https://revilla.pe/uploads/2021/07856b1678.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-08-07T12:21:18-05:00",
 				"url": "https://revilla.pe/2021/08/07/siempre-a-la.html"
 			},
 			{
 				"id": "http://jlrevilla.micro.blog/2021/08/05/solo-en-san.html",
 				
-				"content_html": "<p>Solo en San Borja una avenida se puede cruzar consigo misma…</p>\n\n<p><img src=\"uploads/2021/824f06cb6f.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Solo en San Borja una avenida se puede cruzar consigo misma…\n\n<img src=\"uploads/2021/824f06cb6f.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Solo en San Borja una avenida se puede cruzar consigo misma…</p>\n\n<p><img src=\"https://revilla.pe/uploads/2021/824f06cb6f.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Solo en San Borja una avenida se puede cruzar consigo misma…\n\n<img src=\"https://revilla.pe/uploads/2021/824f06cb6f.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-08-05T18:19:14-05:00",
 				"url": "https://revilla.pe/2021/08/05/solo-en-san.html"
 			},
 			{
 				"id": "http://jlrevilla.micro.blog/2021/08/04/hacking.html",
 				"title": "Hacking",
-				"content_html": "<p>To hack a system requires getting to know its rules better than the people who created it or are running it, and exploiting all the vulnerable distance between how those people had intended the system to work and how it actually works, or could be made to work. In capitalizing on these unintentional uses, hackers aren’t breaking the rules as much as debunking them.</p>\n\n<ul>\n<li>Permanent Record</li>\n</ul>\n",
-				"content_text": "To hack a system requires getting to know its rules better than the people who created it or are running it, and exploiting all the vulnerable distance between how those people had intended the system to work and how it actually works, or could be made to work. In capitalizing on these unintentional uses, hackers aren’t breaking the rules as much as debunking them.\n\n- Permanent Record\n",
-				"date_published": "2021-08-04T23:09:39-05:00",
+				"content_html": "<blockquote>\n<p>”To hack a system requires getting to know its rules better than the people who created it or are running it, and exploiting all the vulnerable distance between how those people had intended the system to work and how it actually works, or could be made to work. In capitalizing on these unintentional uses, hackers aren’t breaking the rules as much as debunking them.”</p>\n</blockquote>\n\n<p>— Permanent Record por Edward Snowden</p>\n",
+				"content_text": ">”To hack a system requires getting to know its rules better than the people who created it or are running it, and exploiting all the vulnerable distance between how those people had intended the system to work and how it actually works, or could be made to work. In capitalizing on these unintentional uses, hackers aren’t breaking the rules as much as debunking them.”\n\n— Permanent Record por Edward Snowden\n",
+				"date_published": "2021-08-04T23:09:00-05:00",
 				"url": "https://revilla.pe/2021/08/04/hacking.html"
 			},
 			{
@@ -59,22 +118,24 @@
 				
 				"content_html": "<p>Estoy leyendo: <a href=\"https://micro.blog/books/9780575132467\">Broken Homes</a> por Ben Aaronovitch 📚\nporque, a veces, lo mejor es seguir con la serie de libros que te ha gustado antes de buscar otros nuevos&hellip;</p>\n",
 				"content_text": "Estoy leyendo: [Broken Homes](https://micro.blog/books/9780575132467) por Ben Aaronovitch 📚\nporque, a veces, lo mejor es seguir con la serie de libros que te ha gustado antes de buscar otros nuevos...\n",
-				"date_published": "2021-08-03T20:31:08-05:00",
-				"url": "https://revilla.pe/2021/08/03/estoy-leyendo-broken.html"
+				"date_published": "2021-08-03T20:31:00-05:00",
+				"url": "https://revilla.pe/2021/08/03/estoy-leyendo-broken.html",
+				"tags": ["personal"]
 			},
 			{
 				"id": "http://jlrevilla.micro.blog/2021/08/02/esta-entrevista-a.html",
 				
 				"content_html": "<p>Esta entrevista a danah boyd es del 2014 y sigue siendo totalmente relevante:</p>\n\n<p><a href=\"https://www.theverge.com/2014/3/13/5488558/danah-boyd-interview-the-era-of-facebook-is-an-anomaly\">Facebook is an anomaly</a></p>\n",
 				"content_text": "Esta entrevista a danah boyd es del 2014 y sigue siendo totalmente relevante:\n\n[Facebook is an anomaly](https://www.theverge.com/2014/3/13/5488558/danah-boyd-interview-the-era-of-facebook-is-an-anomaly)\n",
-				"date_published": "2021-08-02T22:50:56-05:00",
-				"url": "https://revilla.pe/2021/08/02/esta-entrevista-a.html"
+				"date_published": "2021-08-02T22:50:00-05:00",
+				"url": "https://revilla.pe/2021/08/02/esta-entrevista-a.html",
+				"tags": ["meta","tech"]
 			},
 			{
 				"id": "http://jlrevilla.micro.blog/2021/07/31/hace-dos-aos.html",
 				
-				"content_html": "<p>Hace dos años, rock ‘n roll royalty</p>\n\n<p><img src=\"uploads/2021/e007a3a75c.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Hace dos años, rock ‘n roll royalty\n\n<img src=\"uploads/2021/e007a3a75c.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Hace dos años, rock ‘n roll royalty</p>\n\n<p><img src=\"https://revilla.pe/uploads/2021/e007a3a75c.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Hace dos años, rock ‘n roll royalty\n\n<img src=\"https://revilla.pe/uploads/2021/e007a3a75c.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-07-31T21:14:00-05:00",
 				"url": "https://revilla.pe/2021/07/31/hace-dos-aos.html",
 				"tags": ["personal"]
@@ -90,8 +151,8 @@
 			{
 				"id": "http://jlrevilla.micro.blog/2021/07/31/extra-viajar-pero.html",
 				
-				"content_html": "<p>Extrañé viajar pero no extrañé para nada los aeropuertos…</p>\n\n<p><img src=\"uploads/2021/4a4944b77c.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Extrañé viajar pero no extrañé para nada los aeropuertos…\n\n<img src=\"uploads/2021/4a4944b77c.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Extrañé viajar pero no extrañé para nada los aeropuertos…</p>\n\n<p><img src=\"https://jlrevilla.micro.blog/uploads/2021/4a4944b77c.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Extrañé viajar pero no extrañé para nada los aeropuertos…\n\n<img src=\"https://jlrevilla.micro.blog/uploads/2021/4a4944b77c.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-06-19T09:56:00-05:00",
 				"url": "https://revilla.pe/2021/07/31/extra-viajar-pero.html",
 				"tags": ["personal"]
