@@ -7,6 +7,38 @@
 	"items": [
 		
 			{
+				"id": "http://jlrevilla.micro.blog/2021/10/17/divertido-artculo-sobre.html",
+				
+				"content_html": "<p><a href=\"https://bigtechnology.substack.com/p/the-blowhard-curve-when-to-lead-thoughts\">Divertido artículo</a> sobre lo que el autor llama (a falta de mejor traducción) “La curva de la fanfarronería” y la importancia de mantenernos conscientes de lo que sabemos para no caer en ella.</p>\n",
+				"content_text": "[Divertido artículo](https://bigtechnology.substack.com/p/the-blowhard-curve-when-to-lead-thoughts) sobre lo que el autor llama (a falta de mejor traducción) “La curva de la fanfarronería” y la importancia de mantenernos conscientes de lo que sabemos para no caer en ella.\n",
+				"date_published": "2021-10-17T14:34:58-05:00",
+				"url": "https://revilla.pe/2021/10/17/divertido-artculo-sobre.html"
+			},
+			{
+				"id": "http://jlrevilla.micro.blog/2021/10/14/frikiando.html",
+				
+				"content_html": "<p>Frikiando</p>\n\n<p><img src=\"uploads/2021/cb96b9994f.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Frikiando\n\n<img src=\"uploads/2021/cb96b9994f.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2021-10-14T17:08:32-05:00",
+				"url": "https://revilla.pe/2021/10/14/frikiando.html"
+			},
+			{
+				"id": "http://jlrevilla.micro.blog/2021/10/11/yo-los-lunes.html",
+				
+				"content_html": "<p>Yo, los lunes…</p>\n\n<p><img src=\"uploads/2021/22cc4c8e45.jpg\" width=\"600\" height=\"599\" alt=\"\" /></p>\n",
+				"content_text": "Yo, los lunes…\n\n<img src=\"uploads/2021/22cc4c8e45.jpg\" width=\"600\" height=\"599\" alt=\"\" />\n",
+				"date_published": "2021-10-11T22:03:07-05:00",
+				"url": "https://revilla.pe/2021/10/11/yo-los-lunes.html"
+			},
+			{
+				"id": "http://jlrevilla.micro.blog/2021/10/10/ser-que-rss.html",
+				"title": "¿Será que RSS va regresando?",
+				"content_html": "<p>El lector RSS que mejor funciona para mí es Feedly, pero existe uno para todos los gustos y <a href=\"https://www.wired.com/story/best-rss-feed-readers/\">esta lista de Wired</a> está bastante incompleta… sin embargo es genial ver a publicaciones masivas hablar de RSS nuevamente y coincidir en que la redes sociales no son la manera de consumir internet.</p>\n",
+				"content_text": "El lector RSS que mejor funciona para mí es Feedly, pero existe uno para todos los gustos y [esta lista de Wired](https://www.wired.com/story/best-rss-feed-readers/) está bastante incompleta… sin embargo es genial ver a publicaciones masivas hablar de RSS nuevamente y coincidir en que la redes sociales no son la manera de consumir internet.\n",
+				"date_published": "2021-10-10T11:19:07-05:00",
+				"url": "https://revilla.pe/2021/10/10/ser-que-rss.html"
+			},
+			{
 				"id": "http://jlrevilla.micro.blog/2021/10/08/facebook-shouldnt-be.html",
 				
 				"content_html": "<p><a href=\"https://pluralistic.net/2021/10/08/unfollow-everything/#shut-the-zuck-up\">Facebook shouldn’t be in charge of how you use Facebook</a> (by Cory Doctorow)</p>\n",
