@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://jlrevilla.micro.blog/2021/11/06/minecraft-and-fortnite.html",
+				
+				"content_html": "<p>“<a href=\"https://debugger.medium.com/the-metaverse-is-already-here-its-minecraft-99c89ed8ba2\">Minecraft</a> and Fortnite are closer to the metaverse than anything Facebook has built, or frankly, is likely to build, unless we wind up getting really lucky.” - John Carmack</p>\n\n<p>Y yo agregaría Roblox a esa lista.</p>\n",
+				"content_text": "“[Minecraft](https://debugger.medium.com/the-metaverse-is-already-here-its-minecraft-99c89ed8ba2) and Fortnite are closer to the metaverse than anything Facebook has built, or frankly, is likely to build, unless we wind up getting really lucky.” - John Carmack\n\nY yo agregaría Roblox a esa lista.\n",
+				"date_published": "2021-11-06T12:03:39-05:00",
+				"url": "https://revilla.pe/2021/11/06/minecraft-and-fortnite.html"
+			},
+			{
 				"id": "http://jlrevilla.micro.blog/2021/10/27/por-un-lado.html",
 				
 				"content_html": "<p>Por un lado estoy totalmente de acuerdo con la <a href=\"https://www.fastcompany.com/90690440/what-is-an-independent-creator-vs-instagram-influencer\">tendencia que menciona Fortune</a> sobre el cambio hacia “Creadores Independientes”, pero por otro lado veo algo a medias… el movimiento debería darse a plataformas propias y federadas.</p>\n",
@@ -17,8 +25,8 @@
 			{
 				"id": "http://jlrevilla.micro.blog/2021/10/23/sbado.html",
 				
-				"content_html": "<p>Sábado</p>\n\n<p><img src=\"https://revilla.pe/uploads/2021/4b64f967f1.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Sábado\n\n<img src=\"https://revilla.pe/uploads/2021/4b64f967f1.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Sábado</p>\n\n<p><img src=\"uploads/2021/4b64f967f1.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Sábado\n\n<img src=\"uploads/2021/4b64f967f1.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-10-23T12:09:45-05:00",
 				"url": "https://revilla.pe/2021/10/23/sbado.html"
 			},
@@ -65,8 +73,8 @@
 			{
 				"id": "http://jlrevilla.micro.blog/2021/09/25/there-and-back.html",
 				
-				"content_html": "<p>There and back again…</p>\n\n<p><img src=\"https://revilla.pe/uploads/2021/d77432fd83.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "There and back again…\n\n<img src=\"https://revilla.pe/uploads/2021/d77432fd83.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>There and back again…</p>\n\n<p><img src=\"uploads/2021/d77432fd83.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "There and back again…\n\n<img src=\"uploads/2021/d77432fd83.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-09-25T00:06:44-05:00",
 				"url": "https://revilla.pe/2021/09/25/there-and-back.html"
 			},
@@ -81,8 +89,8 @@
 			{
 				"id": "http://jlrevilla.micro.blog/2021/09/19/el-primer-canal.html",
 				
-				"content_html": "<p>El primer canal de televisión peruano empezó a transmitir en 1958</p>\n\n<p><img src=\"https://revilla.pe/uploads/2021/971ec8e00b.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "El primer canal de televisión peruano empezó a transmitir en 1958\n\n<img src=\"https://revilla.pe/uploads/2021/971ec8e00b.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>El primer canal de televisión peruano empezó a transmitir en 1958</p>\n\n<p><img src=\"uploads/2021/971ec8e00b.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "El primer canal de televisión peruano empezó a transmitir en 1958\n\n<img src=\"uploads/2021/971ec8e00b.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-09-19T08:03:14-05:00",
 				"url": "https://revilla.pe/2021/09/19/el-primer-canal.html"
 			},
@@ -115,16 +123,16 @@
 			{
 				"id": "http://jlrevilla.micro.blog/2021/09/11/estos-mensajes-de.html",
 				
-				"content_html": "<p>Estos mensajes de galleta de la fortuna claramente fueron impresos antes de la pandemia…</p>\n\n<p><img src=\"https://revilla.pe/uploads/2021/8f7a31698c.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Estos mensajes de galleta de la fortuna claramente fueron impresos antes de la pandemia…\n\n<img src=\"https://revilla.pe/uploads/2021/8f7a31698c.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Estos mensajes de galleta de la fortuna claramente fueron impresos antes de la pandemia…</p>\n\n<p><img src=\"uploads/2021/8f7a31698c.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Estos mensajes de galleta de la fortuna claramente fueron impresos antes de la pandemia…\n\n<img src=\"uploads/2021/8f7a31698c.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-09-11T20:18:50-05:00",
 				"url": "https://revilla.pe/2021/09/11/estos-mensajes-de.html"
 			},
 			{
 				"id": "http://jlrevilla.micro.blog/2021/09/08/scriptorium.html",
 				
-				"content_html": "<p>Scriptorium</p>\n\n<p><img src=\"https://revilla.pe/uploads/2021/8c44952811.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Scriptorium\n\n<img src=\"https://revilla.pe/uploads/2021/8c44952811.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Scriptorium</p>\n\n<p><img src=\"uploads/2021/8c44952811.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Scriptorium\n\n<img src=\"uploads/2021/8c44952811.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-09-08T20:34:19-05:00",
 				"url": "https://revilla.pe/2021/09/08/scriptorium.html"
 			},
@@ -155,8 +163,8 @@
 			{
 				"id": "http://jlrevilla.micro.blog/2021/08/30/afortunadamente-es-feriado.html",
 				
-				"content_html": "<p>Afortunadamente es feriado mañana y no tengo que dormir temprano…</p>\n\n<p><img src=\"https://revilla.pe/uploads/2021/ff2080edc4.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Afortunadamente es feriado mañana y no tengo que dormir temprano…\n\n<img src=\"https://revilla.pe/uploads/2021/ff2080edc4.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Afortunadamente es feriado mañana y no tengo que dormir temprano…</p>\n\n<p><img src=\"uploads/2021/ff2080edc4.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Afortunadamente es feriado mañana y no tengo que dormir temprano…\n\n<img src=\"uploads/2021/ff2080edc4.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-08-30T00:57:30-05:00",
 				"url": "https://revilla.pe/2021/08/30/afortunadamente-es-feriado.html"
 			},
@@ -195,16 +203,16 @@
 			{
 				"id": "http://jlrevilla.micro.blog/2021/08/17/viene-con-el.html",
 				
-				"content_html": "<p>Viene con el puesto de trabajo…</p>\n\n<p><img src=\"https://revilla.pe/uploads/2021/9f146dbaf4.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Viene con el puesto de trabajo…\n\n<img src=\"https://revilla.pe/uploads/2021/9f146dbaf4.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Viene con el puesto de trabajo…</p>\n\n<p><img src=\"uploads/2021/9f146dbaf4.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Viene con el puesto de trabajo…\n\n<img src=\"uploads/2021/9f146dbaf4.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-08-17T18:43:58-05:00",
 				"url": "https://revilla.pe/2021/08/17/viene-con-el.html"
 			},
 			{
 				"id": "http://jlrevilla.micro.blog/2021/08/16/opciones.html",
 				
-				"content_html": "<p>Opciones</p>\n\n<p><img src=\"https://revilla.pe/uploads/2021/ae75ad6f12.jpg\" width=\"550\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Opciones\n\n<img src=\"https://revilla.pe/uploads/2021/ae75ad6f12.jpg\" width=\"550\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Opciones</p>\n\n<p><img src=\"uploads/2021/ae75ad6f12.jpg\" width=\"550\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Opciones\n\n<img src=\"uploads/2021/ae75ad6f12.jpg\" width=\"550\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-08-16T09:56:25-05:00",
 				"url": "https://revilla.pe/2021/08/16/opciones.html"
 			},
@@ -220,8 +228,8 @@
 			{
 				"id": "http://jlrevilla.micro.blog/2021/08/15/echoes.html",
 				
-				"content_html": "<p>Echoes</p>\n\n<p><img src=\"https://revilla.pe/uploads/2021/d4403d87cc.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Echoes\n\n<img src=\"https://revilla.pe/uploads/2021/d4403d87cc.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Echoes</p>\n\n<p><img src=\"uploads/2021/d4403d87cc.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Echoes\n\n<img src=\"uploads/2021/d4403d87cc.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-08-15T14:37:39-05:00",
 				"url": "https://revilla.pe/2021/08/15/echoes.html"
 			},
@@ -237,8 +245,8 @@
 			{
 				"id": "http://jlrevilla.micro.blog/2021/08/14/de-noche.html",
 				
-				"content_html": "<p>De noche</p>\n\n<p><img src=\"https://revilla.pe/uploads/2021/b7cf3a8f1b.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "De noche\n\n<img src=\"https://revilla.pe/uploads/2021/b7cf3a8f1b.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>De noche</p>\n\n<p><img src=\"uploads/2021/b7cf3a8f1b.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "De noche\n\n<img src=\"uploads/2021/b7cf3a8f1b.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-08-14T20:38:49-05:00",
 				"url": "https://revilla.pe/2021/08/14/de-noche.html"
 			},
@@ -262,16 +270,16 @@
 			{
 				"id": "http://jlrevilla.micro.blog/2021/08/07/siempre-a-la.html",
 				
-				"content_html": "<p>Siempre a la vanguardia</p>\n\n<p><img src=\"https://revilla.pe/uploads/2021/07856b1678.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Siempre a la vanguardia\n\n<img src=\"https://revilla.pe/uploads/2021/07856b1678.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Siempre a la vanguardia</p>\n\n<p><img src=\"uploads/2021/07856b1678.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Siempre a la vanguardia\n\n<img src=\"uploads/2021/07856b1678.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-08-07T12:21:18-05:00",
 				"url": "https://revilla.pe/2021/08/07/siempre-a-la.html"
 			},
 			{
 				"id": "http://jlrevilla.micro.blog/2021/08/05/solo-en-san.html",
 				
-				"content_html": "<p>Solo en San Borja una avenida se puede cruzar consigo misma…</p>\n\n<p><img src=\"https://revilla.pe/uploads/2021/824f06cb6f.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Solo en San Borja una avenida se puede cruzar consigo misma…\n\n<img src=\"https://revilla.pe/uploads/2021/824f06cb6f.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Solo en San Borja una avenida se puede cruzar consigo misma…</p>\n\n<p><img src=\"uploads/2021/824f06cb6f.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Solo en San Borja una avenida se puede cruzar consigo misma…\n\n<img src=\"uploads/2021/824f06cb6f.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-08-05T18:19:14-05:00",
 				"url": "https://revilla.pe/2021/08/05/solo-en-san.html"
 			},
@@ -304,8 +312,8 @@
 			{
 				"id": "http://jlrevilla.micro.blog/2021/07/31/hace-dos-aos.html",
 				
-				"content_html": "<p>Hace dos años, rock ‘n roll royalty</p>\n\n<p><img src=\"https://revilla.pe/uploads/2021/e007a3a75c.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Hace dos años, rock ‘n roll royalty\n\n<img src=\"https://revilla.pe/uploads/2021/e007a3a75c.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Hace dos años, rock ‘n roll royalty</p>\n\n<p><img src=\"uploads/2021/e007a3a75c.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Hace dos años, rock ‘n roll royalty\n\n<img src=\"uploads/2021/e007a3a75c.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-07-31T21:14:00-05:00",
 				"url": "https://revilla.pe/2021/07/31/hace-dos-aos.html",
 				"tags": ["personal"]
@@ -321,8 +329,8 @@
 			{
 				"id": "http://jlrevilla.micro.blog/2021/07/31/extra-viajar-pero.html",
 				
-				"content_html": "<p>Extrañé viajar pero no extrañé para nada los aeropuertos…</p>\n\n<p><img src=\"https://jlrevilla.micro.blog/uploads/2021/4a4944b77c.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Extrañé viajar pero no extrañé para nada los aeropuertos…\n\n<img src=\"https://jlrevilla.micro.blog/uploads/2021/4a4944b77c.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Extrañé viajar pero no extrañé para nada los aeropuertos…</p>\n\n<p><img src=\"uploads/2021/4a4944b77c.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Extrañé viajar pero no extrañé para nada los aeropuertos…\n\n<img src=\"uploads/2021/4a4944b77c.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-06-19T09:56:00-05:00",
 				"url": "https://revilla.pe/2021/07/31/extra-viajar-pero.html",
 				"tags": ["personal"]
