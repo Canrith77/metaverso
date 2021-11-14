@@ -7,12 +7,54 @@
 	"items": [
 		
 			{
+				"id": "http://jlrevilla.micro.blog/2021/11/14/cory-doctorow-nuevamente.html",
+				
+				"content_html": "<p><a href=\"https://pluralistic.net/2021/11/14/still-the-product/\">Cory Doctorow nuevamente</a>, como dicen en inglés, “spot on”</p>\n",
+				"content_text": "[Cory Doctorow nuevamente](https://pluralistic.net/2021/11/14/still-the-product/), como dicen en inglés, “spot on”\n",
+				"date_published": "2021-11-14T11:42:29-05:00",
+				"url": "https://revilla.pe/2021/11/14/cory-doctorow-nuevamente.html"
+			},
+			{
+				"id": "http://jlrevilla.micro.blog/2021/11/13/nada-ms-que.html",
+				"title": "Nada más que un tip para seguridad",
+				"content_html": "<p>Casi nunca recomiendo apps que uso porque, si algo he aprendido con los años, es que cada persona tiene circunstancias diferentes y es mejor recomendar algo personalizado.</p>\n\n<p>Pero no quería dejar de mencionar que con <a href=\"https://nextdns.io/\">NextDNS</a> me va súper bien hace un año en temas de seguridad, 100% de hosts bloqueados de acuerdo a <a href=\"https://d3ward.github.io/toolz/adblock.html\">esta herramienta</a> de d3ward que va muy bien.</p>\n\n<p>NextDNS no solo boquea los cookies de terceros y la publicidad, sino que también las herramientas de tracking de fabricantes y los dominios que acaban de ser creados (y probablemente sean falsos por ello), además de manejar logs. Recomendado.</p>\n",
+				"content_text": "Casi nunca recomiendo apps que uso porque, si algo he aprendido con los años, es que cada persona tiene circunstancias diferentes y es mejor recomendar algo personalizado. \n\nPero no quería dejar de mencionar que con [NextDNS](https://nextdns.io/) me va súper bien hace un año en temas de seguridad, 100% de hosts bloqueados de acuerdo a [esta herramienta](https://d3ward.github.io/toolz/adblock.html) de d3ward que va muy bien.\n\nNextDNS no solo boquea los cookies de terceros y la publicidad, sino que también las herramientas de tracking de fabricantes y los dominios que acaban de ser creados (y probablemente sean falsos por ello), además de manejar logs. Recomendado.\n",
+				"date_published": "2021-11-13T11:29:24-05:00",
+				"url": "https://revilla.pe/2021/11/13/nada-ms-que.html"
+			},
+			{
+				"id": "http://jlrevilla.micro.blog/2021/11/12/en-la-nube.html",
+				
+				"content_html": "<p>En la nube</p>\n\n<p><img src=\"uploads/2021/4e0e95450a.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "En la nube\n\n<img src=\"uploads/2021/4e0e95450a.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2021-11-12T21:17:58-05:00",
+				"url": "https://revilla.pe/2021/11/12/en-la-nube.html"
+			},
+			{
+				"id": "http://jlrevilla.micro.blog/2021/11/10/graffiti.html",
+				
+				"content_html": "<p>Graffiti</p>\n\n<p><img src=\"uploads/2021/117ad22d06.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Graffiti\n\n<img src=\"uploads/2021/117ad22d06.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2021-11-10T22:40:27-05:00",
+				"url": "https://revilla.pe/2021/11/10/graffiti.html"
+			},
+			{
+				"id": "http://jlrevilla.micro.blog/2021/11/07/ai-an-tiene.html",
+				"title": "AI aún tiene mucho por recorrer",
+				"content_html": "<p>Dos buenos artículos que ofrecen un punto de vista diferente contra el “hype” alrededor del AI.</p>\n\n<p><a href=\"https://thereader.mitpress.mit.edu/ai-insight-problems-quirks-human-intelligence/\">El primero es del MIT</a> y explica cómo un algoritmo no es capaz de replicar la forma en que los humanos resuelven problemas, el <a href=\"https://www.theverge.com/22734662/ai-language-artificial-intelligence-future-models-gpt-3-limitations-bias\">segundo de The Verge</a> reflexiona sobre los límites reales de un modelo pese a que se siga ampliando el set de datos que lo alimenta.</p>\n",
+				"content_text": "Dos buenos artículos que ofrecen un punto de vista diferente contra el “hype” alrededor del AI.\n\n[El primero es del MIT](https://thereader.mitpress.mit.edu/ai-insight-problems-quirks-human-intelligence/) y explica cómo un algoritmo no es capaz de replicar la forma en que los humanos resuelven problemas, el [segundo de The Verge](https://www.theverge.com/22734662/ai-language-artificial-intelligence-future-models-gpt-3-limitations-bias) reflexiona sobre los límites reales de un modelo pese a que se siga ampliando el set de datos que lo alimenta.\n",
+				"date_published": "2021-11-07T09:13:00-05:00",
+				"url": "https://revilla.pe/2021/11/07/ai-an-tiene.html",
+				"tags": ["tech"]
+			},
+			{
 				"id": "http://jlrevilla.micro.blog/2021/11/06/minecraft-and-fortnite.html",
 				
 				"content_html": "<p>“<a href=\"https://debugger.medium.com/the-metaverse-is-already-here-its-minecraft-99c89ed8ba2\">Minecraft</a> and Fortnite are closer to the metaverse than anything Facebook has built, or frankly, is likely to build, unless we wind up getting really lucky.” - John Carmack</p>\n\n<p>Y yo agregaría Roblox a esa lista.</p>\n",
 				"content_text": "“[Minecraft](https://debugger.medium.com/the-metaverse-is-already-here-its-minecraft-99c89ed8ba2) and Fortnite are closer to the metaverse than anything Facebook has built, or frankly, is likely to build, unless we wind up getting really lucky.” - John Carmack\n\nY yo agregaría Roblox a esa lista.\n",
-				"date_published": "2021-11-06T12:03:39-05:00",
-				"url": "https://revilla.pe/2021/11/06/minecraft-and-fortnite.html"
+				"date_published": "2021-11-06T12:03:00-05:00",
+				"url": "https://revilla.pe/2021/11/06/minecraft-and-fortnite.html",
+				"tags": ["meta"]
 			},
 			{
 				"id": "http://jlrevilla.micro.blog/2021/10/27/por-un-lado.html",
@@ -25,8 +67,8 @@
 			{
 				"id": "http://jlrevilla.micro.blog/2021/10/23/sbado.html",
 				
-				"content_html": "<p>Sábado</p>\n\n<p><img src=\"uploads/2021/4b64f967f1.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Sábado\n\n<img src=\"uploads/2021/4b64f967f1.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Sábado</p>\n\n<p><img src=\"https://revilla.pe/uploads/2021/4b64f967f1.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Sábado\n\n<img src=\"https://revilla.pe/uploads/2021/4b64f967f1.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-10-23T12:09:45-05:00",
 				"url": "https://revilla.pe/2021/10/23/sbado.html"
 			},
@@ -43,16 +85,18 @@
 				
 				"content_html": "<p>Frikiando</p>\n\n<p><img src=\"uploads/2021/cb96b9994f.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
 				"content_text": "Frikiando\n\n<img src=\"uploads/2021/cb96b9994f.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2021-10-14T17:08:32-05:00",
-				"url": "https://revilla.pe/2021/10/14/frikiando.html"
+				"date_published": "2021-10-14T17:08:00-05:00",
+				"url": "https://revilla.pe/2021/10/14/frikiando.html",
+				"tags": ["personal"]
 			},
 			{
 				"id": "http://jlrevilla.micro.blog/2021/10/11/yo-los-lunes.html",
 				
 				"content_html": "<p>Yo, los lunes…</p>\n\n<p><img src=\"uploads/2021/22cc4c8e45.jpg\" width=\"600\" height=\"599\" alt=\"\" /></p>\n",
 				"content_text": "Yo, los lunes…\n\n<img src=\"uploads/2021/22cc4c8e45.jpg\" width=\"600\" height=\"599\" alt=\"\" />\n",
-				"date_published": "2021-10-11T22:03:07-05:00",
-				"url": "https://revilla.pe/2021/10/11/yo-los-lunes.html"
+				"date_published": "2021-10-11T22:03:00-05:00",
+				"url": "https://revilla.pe/2021/10/11/yo-los-lunes.html",
+				"tags": ["personal"]
 			},
 			{
 				"id": "http://jlrevilla.micro.blog/2021/10/10/ser-que-rss.html",
@@ -73,8 +117,8 @@
 			{
 				"id": "http://jlrevilla.micro.blog/2021/09/25/there-and-back.html",
 				
-				"content_html": "<p>There and back again…</p>\n\n<p><img src=\"uploads/2021/d77432fd83.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "There and back again…\n\n<img src=\"uploads/2021/d77432fd83.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>There and back again…</p>\n\n<p><img src=\"https://revilla.pe/uploads/2021/d77432fd83.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "There and back again…\n\n<img src=\"https://revilla.pe/uploads/2021/d77432fd83.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-09-25T00:06:44-05:00",
 				"url": "https://revilla.pe/2021/09/25/there-and-back.html"
 			},
@@ -83,14 +127,15 @@
 				
 				"content_html": "<p>Un <a href=\"https://www.theverge.com/22684730/students-file-folder-directory-structure-education-gen-z\">buen artículo en The Verge</a> sobre cómo las nuevas generaciones no se manejan en un paradigma de carpetas y clasificación</p>\n",
 				"content_text": "Un [buen artículo en The Verge](https://www.theverge.com/22684730/students-file-folder-directory-structure-education-gen-z) sobre cómo las nuevas generaciones no se manejan en un paradigma de carpetas y clasificación\n",
-				"date_published": "2021-09-22T08:20:25-05:00",
-				"url": "https://revilla.pe/2021/09/22/un-buen-artculo.html"
+				"date_published": "2021-09-22T08:20:00-05:00",
+				"url": "https://revilla.pe/2021/09/22/un-buen-artculo.html",
+				"tags": ["meta"]
 			},
 			{
 				"id": "http://jlrevilla.micro.blog/2021/09/19/el-primer-canal.html",
 				
-				"content_html": "<p>El primer canal de televisión peruano empezó a transmitir en 1958</p>\n\n<p><img src=\"uploads/2021/971ec8e00b.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "El primer canal de televisión peruano empezó a transmitir en 1958\n\n<img src=\"uploads/2021/971ec8e00b.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>El primer canal de televisión peruano empezó a transmitir en 1958</p>\n\n<p><img src=\"https://revilla.pe/uploads/2021/971ec8e00b.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "El primer canal de televisión peruano empezó a transmitir en 1958\n\n<img src=\"https://revilla.pe/uploads/2021/971ec8e00b.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-09-19T08:03:14-05:00",
 				"url": "https://revilla.pe/2021/09/19/el-primer-canal.html"
 			},
@@ -123,16 +168,16 @@
 			{
 				"id": "http://jlrevilla.micro.blog/2021/09/11/estos-mensajes-de.html",
 				
-				"content_html": "<p>Estos mensajes de galleta de la fortuna claramente fueron impresos antes de la pandemia…</p>\n\n<p><img src=\"uploads/2021/8f7a31698c.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Estos mensajes de galleta de la fortuna claramente fueron impresos antes de la pandemia…\n\n<img src=\"uploads/2021/8f7a31698c.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Estos mensajes de galleta de la fortuna claramente fueron impresos antes de la pandemia…</p>\n\n<p><img src=\"https://revilla.pe/uploads/2021/8f7a31698c.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Estos mensajes de galleta de la fortuna claramente fueron impresos antes de la pandemia…\n\n<img src=\"https://revilla.pe/uploads/2021/8f7a31698c.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-09-11T20:18:50-05:00",
 				"url": "https://revilla.pe/2021/09/11/estos-mensajes-de.html"
 			},
 			{
 				"id": "http://jlrevilla.micro.blog/2021/09/08/scriptorium.html",
 				
-				"content_html": "<p>Scriptorium</p>\n\n<p><img src=\"uploads/2021/8c44952811.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Scriptorium\n\n<img src=\"uploads/2021/8c44952811.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Scriptorium</p>\n\n<p><img src=\"https://revilla.pe/uploads/2021/8c44952811.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Scriptorium\n\n<img src=\"https://revilla.pe/uploads/2021/8c44952811.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-09-08T20:34:19-05:00",
 				"url": "https://revilla.pe/2021/09/08/scriptorium.html"
 			},
@@ -147,8 +192,8 @@
 			{
 				"id": "http://jlrevilla.micro.blog/2021/09/01/si-esto-fuera.html",
 				
-				"content_html": "<p>Si esto fuera un juego de rol, aquí estaría el Thieves’ Guild</p>\n\n<p><img src=\"uploads/2021/c97a60ef70.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Si esto fuera un juego de rol, aquí estaría el Thieves’ Guild\n\n<img src=\"uploads/2021/c97a60ef70.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Si esto fuera un juego de rol, aquí estaría el Thieves’ Guild</p>\n\n<p><img src=\"https://revilla.pe/uploads/2021/c97a60ef70.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Si esto fuera un juego de rol, aquí estaría el Thieves’ Guild\n\n<img src=\"https://revilla.pe/uploads/2021/c97a60ef70.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-09-01T13:23:43-05:00",
 				"url": "https://revilla.pe/2021/09/01/si-esto-fuera.html"
 			},
@@ -163,8 +208,8 @@
 			{
 				"id": "http://jlrevilla.micro.blog/2021/08/30/afortunadamente-es-feriado.html",
 				
-				"content_html": "<p>Afortunadamente es feriado mañana y no tengo que dormir temprano…</p>\n\n<p><img src=\"uploads/2021/ff2080edc4.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Afortunadamente es feriado mañana y no tengo que dormir temprano…\n\n<img src=\"uploads/2021/ff2080edc4.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Afortunadamente es feriado mañana y no tengo que dormir temprano…</p>\n\n<p><img src=\"https://revilla.pe/uploads/2021/ff2080edc4.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Afortunadamente es feriado mañana y no tengo que dormir temprano…\n\n<img src=\"https://revilla.pe/uploads/2021/ff2080edc4.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-08-30T00:57:30-05:00",
 				"url": "https://revilla.pe/2021/08/30/afortunadamente-es-feriado.html"
 			},
@@ -173,8 +218,9 @@
 				"title": "Qué uso - Edición Pandemia",
 				"content_html": "<p>Hace años no hacia uno de estos resúmenes de las herramientas que uso, de hecho me di cuenta que en esta versión de blog no ha habido ningún post de este tipo. Por si fuera poco he realizado muchos cambios en el último año.</p>\n\n<p>Es por eso que creo que es momento de que mis followers (all three of you) tengan la versión actualizada:</p>\n\n<ul>\n<li><strong>Celular</strong>: iPhone 11 Pro, que según yo era una de las opciones mas privadas, aunque no estoy seguro que lo siga siendo luego de los últimos planes de Apple.</li>\n<li><strong>Notebook</strong>: Tengo una HP x360 que me dieron en la oficina a la que le he puesto Windows 11 porque no puedo resistirme a probar lo ultimo.</li>\n<li><strong>eReader</strong>: Estoy usando un iPad Mini de segunda generación que por su antigüedad cumple en temas de lectura pero ya no en mucho más.</li>\n<li><strong>Noticias</strong>: He consolidado todos los temas que me interesa seguir en Feedly via RSS. Luego de probar varias opciones, creo que nada supera a RSS y, en aquellos casos en los que algo solo se puede encontrar en Twitter (como alertas oficiales) Feedly soporta la suscripción a esos canales.</li>\n<li><strong>Blog</strong>: Este blog está hospedado en Micro.blog y estoy feliz.</li>\n<li><strong>Redes sociales</strong>: Mastodon y la comunidad interna de Micro.blog básicamente, lo demás está aquí en mi blog. Hace varios años no tengo Facebook, Instagram, Twitter, Pinterest, Tiktok o similares.</li>\n<li><strong>Correo</strong>: El personal está montado sobre ProtonMail, un servicio que puedo recomendar. En la oficina usamos (oh sorpresa) Office365.</li>\n<li><strong>Mensajería instantánea</strong>: Como podían esperar, dejé WhatsApp también hace años. Uso Signal y Telegram ahora sin problemas.</li>\n<li><strong>Notas rápidas</strong>: Luego de varias herramientas que terminan siendo siempre demasiado complicadas para lo que busco, estoy usando el app de Notas del iPhone mientras sigo buscando una alternativa interesante.</li>\n<li><strong>Musica</strong>: Mi familia usa Spotify así que me han otorgado una de sus cuentas familiares. Como pago por la suscripción de Apple tengo también Apple Music pero no me acostumbro.</li>\n<li><strong>Podcasts</strong>: Aquí también estoy usando el app predeterminada del iPhone porque mi estilo de uso no da para más.</li>\n<li><strong>Almacenamiento en nube</strong>: Aprovecho el espacio que me dan iCloud y OneDrive para hacer respaldo de mis fotos y documentos importantes.</li>\n<li><strong>Tareas</strong>: Finalmente el app ToDo de Microsoft es un reemplazo real para Wunderlist que fue descontinuada, así que me he quedado con eso.</li>\n<li><strong>Contraseñas</strong>: Me está resultando BitWarden en las pocas semanas que lo llevo usando, reportaré más adelante.</li>\n<li><strong>Notas de largo plazo</strong>: Una buena libreta Leuchtturm 1917 y varios lapiceros de tinta Sakura de múltiples grosores.</li>\n<li><strong>Audífonos</strong>: Me compré los Surface Headphones y no admitiré que fue mala decisión.</li>\n<li><strong>Gaming</strong>: Xbox One Series X.</li>\n<li><strong>WiFi</strong>: Sigo con mi mesh de Eero que espero siga funcionando bien siempre.</li>\n<li><strong>Meditación</strong>: Tengo Headspace y la verdad es que me va genial.</li>\n</ul>\n",
 				"content_text": "Hace años no hacia uno de estos resúmenes de las herramientas que uso, de hecho me di cuenta que en esta versión de blog no ha habido ningún post de este tipo. Por si fuera poco he realizado muchos cambios en el último año.\n\nEs por eso que creo que es momento de que mis followers (all three of you) tengan la versión actualizada:\n\n- **Celular**: iPhone 11 Pro, que según yo era una de las opciones mas privadas, aunque no estoy seguro que lo siga siendo luego de los últimos planes de Apple.\n- **Notebook**: Tengo una HP x360 que me dieron en la oficina a la que le he puesto Windows 11 porque no puedo resistirme a probar lo ultimo.\n- **eReader**: Estoy usando un iPad Mini de segunda generación que por su antigüedad cumple en temas de lectura pero ya no en mucho más.\n- **Noticias**: He consolidado todos los temas que me interesa seguir en Feedly via RSS. Luego de probar varias opciones, creo que nada supera a RSS y, en aquellos casos en los que algo solo se puede encontrar en Twitter (como alertas oficiales) Feedly soporta la suscripción a esos canales.\n- **Blog**: Este blog está hospedado en Micro.blog y estoy feliz.\n- **Redes sociales**: Mastodon y la comunidad interna de Micro.blog básicamente, lo demás está aquí en mi blog. Hace varios años no tengo Facebook, Instagram, Twitter, Pinterest, Tiktok o similares.\n- **Correo**: El personal está montado sobre ProtonMail, un servicio que puedo recomendar. En la oficina usamos (oh sorpresa) Office365.\n- **Mensajería instantánea**: Como podían esperar, dejé WhatsApp también hace años. Uso Signal y Telegram ahora sin problemas.\n- **Notas rápidas**: Luego de varias herramientas que terminan siendo siempre demasiado complicadas para lo que busco, estoy usando el app de Notas del iPhone mientras sigo buscando una alternativa interesante.\n- **Musica**: Mi familia usa Spotify así que me han otorgado una de sus cuentas familiares. Como pago por la suscripción de Apple tengo también Apple Music pero no me acostumbro.\n- **Podcasts**: Aquí también estoy usando el app predeterminada del iPhone porque mi estilo de uso no da para más.\n- **Almacenamiento en nube**: Aprovecho el espacio que me dan iCloud y OneDrive para hacer respaldo de mis fotos y documentos importantes.\n- **Tareas**: Finalmente el app ToDo de Microsoft es un reemplazo real para Wunderlist que fue descontinuada, así que me he quedado con eso.\n- **Contraseñas**: Me está resultando BitWarden en las pocas semanas que lo llevo usando, reportaré más adelante.\n- **Notas de largo plazo**: Una buena libreta Leuchtturm 1917 y varios lapiceros de tinta Sakura de múltiples grosores.\n- **Audífonos**: Me compré los Surface Headphones y no admitiré que fue mala decisión.\n- **Gaming**: Xbox One Series X.\n- **WiFi**: Sigo con mi mesh de Eero que espero siga funcionando bien siempre.\n- **Meditación**: Tengo Headspace y la verdad es que me va genial.\n",
-				"date_published": "2021-08-29T14:21:17-05:00",
-				"url": "https://revilla.pe/2021/08/29/qu-uso-edicin.html"
+				"date_published": "2021-08-29T14:21:00-05:00",
+				"url": "https://revilla.pe/2021/08/29/qu-uso-edicin.html",
+				"tags": ["personal"]
 			},
 			{
 				"id": "http://jlrevilla.micro.blog/2021/08/25/espiando-por-led.html",
@@ -203,16 +249,16 @@
 			{
 				"id": "http://jlrevilla.micro.blog/2021/08/17/viene-con-el.html",
 				
-				"content_html": "<p>Viene con el puesto de trabajo…</p>\n\n<p><img src=\"uploads/2021/9f146dbaf4.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Viene con el puesto de trabajo…\n\n<img src=\"uploads/2021/9f146dbaf4.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Viene con el puesto de trabajo…</p>\n\n<p><img src=\"https://revilla.pe/uploads/2021/9f146dbaf4.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Viene con el puesto de trabajo…\n\n<img src=\"https://revilla.pe/uploads/2021/9f146dbaf4.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-08-17T18:43:58-05:00",
 				"url": "https://revilla.pe/2021/08/17/viene-con-el.html"
 			},
 			{
 				"id": "http://jlrevilla.micro.blog/2021/08/16/opciones.html",
 				
-				"content_html": "<p>Opciones</p>\n\n<p><img src=\"uploads/2021/ae75ad6f12.jpg\" width=\"550\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Opciones\n\n<img src=\"uploads/2021/ae75ad6f12.jpg\" width=\"550\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Opciones</p>\n\n<p><img src=\"https://revilla.pe/uploads/2021/ae75ad6f12.jpg\" width=\"550\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Opciones\n\n<img src=\"https://revilla.pe/uploads/2021/ae75ad6f12.jpg\" width=\"550\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-08-16T09:56:25-05:00",
 				"url": "https://revilla.pe/2021/08/16/opciones.html"
 			},
@@ -228,8 +274,8 @@
 			{
 				"id": "http://jlrevilla.micro.blog/2021/08/15/echoes.html",
 				
-				"content_html": "<p>Echoes</p>\n\n<p><img src=\"uploads/2021/d4403d87cc.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Echoes\n\n<img src=\"uploads/2021/d4403d87cc.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Echoes</p>\n\n<p><img src=\"https://revilla.pe/uploads/2021/d4403d87cc.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Echoes\n\n<img src=\"https://revilla.pe/uploads/2021/d4403d87cc.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-08-15T14:37:39-05:00",
 				"url": "https://revilla.pe/2021/08/15/echoes.html"
 			},
@@ -245,8 +291,8 @@
 			{
 				"id": "http://jlrevilla.micro.blog/2021/08/14/de-noche.html",
 				
-				"content_html": "<p>De noche</p>\n\n<p><img src=\"uploads/2021/b7cf3a8f1b.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "De noche\n\n<img src=\"uploads/2021/b7cf3a8f1b.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>De noche</p>\n\n<p><img src=\"https://revilla.pe/uploads/2021/b7cf3a8f1b.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "De noche\n\n<img src=\"https://revilla.pe/uploads/2021/b7cf3a8f1b.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-08-14T20:38:49-05:00",
 				"url": "https://revilla.pe/2021/08/14/de-noche.html"
 			},
@@ -270,16 +316,16 @@
 			{
 				"id": "http://jlrevilla.micro.blog/2021/08/07/siempre-a-la.html",
 				
-				"content_html": "<p>Siempre a la vanguardia</p>\n\n<p><img src=\"uploads/2021/07856b1678.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Siempre a la vanguardia\n\n<img src=\"uploads/2021/07856b1678.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Siempre a la vanguardia</p>\n\n<p><img src=\"https://revilla.pe/uploads/2021/07856b1678.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Siempre a la vanguardia\n\n<img src=\"https://revilla.pe/uploads/2021/07856b1678.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-08-07T12:21:18-05:00",
 				"url": "https://revilla.pe/2021/08/07/siempre-a-la.html"
 			},
 			{
 				"id": "http://jlrevilla.micro.blog/2021/08/05/solo-en-san.html",
 				
-				"content_html": "<p>Solo en San Borja una avenida se puede cruzar consigo misma…</p>\n\n<p><img src=\"uploads/2021/824f06cb6f.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Solo en San Borja una avenida se puede cruzar consigo misma…\n\n<img src=\"uploads/2021/824f06cb6f.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Solo en San Borja una avenida se puede cruzar consigo misma…</p>\n\n<p><img src=\"https://revilla.pe/uploads/2021/824f06cb6f.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Solo en San Borja una avenida se puede cruzar consigo misma…\n\n<img src=\"https://revilla.pe/uploads/2021/824f06cb6f.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-08-05T18:19:14-05:00",
 				"url": "https://revilla.pe/2021/08/05/solo-en-san.html"
 			},
@@ -312,8 +358,8 @@
 			{
 				"id": "http://jlrevilla.micro.blog/2021/07/31/hace-dos-aos.html",
 				
-				"content_html": "<p>Hace dos años, rock ‘n roll royalty</p>\n\n<p><img src=\"uploads/2021/e007a3a75c.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Hace dos años, rock ‘n roll royalty\n\n<img src=\"uploads/2021/e007a3a75c.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Hace dos años, rock ‘n roll royalty</p>\n\n<p><img src=\"https://revilla.pe/uploads/2021/e007a3a75c.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Hace dos años, rock ‘n roll royalty\n\n<img src=\"https://revilla.pe/uploads/2021/e007a3a75c.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-07-31T21:14:00-05:00",
 				"url": "https://revilla.pe/2021/07/31/hace-dos-aos.html",
 				"tags": ["personal"]
@@ -329,8 +375,8 @@
 			{
 				"id": "http://jlrevilla.micro.blog/2021/07/31/extra-viajar-pero.html",
 				
-				"content_html": "<p>Extrañé viajar pero no extrañé para nada los aeropuertos…</p>\n\n<p><img src=\"uploads/2021/4a4944b77c.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Extrañé viajar pero no extrañé para nada los aeropuertos…\n\n<img src=\"uploads/2021/4a4944b77c.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Extrañé viajar pero no extrañé para nada los aeropuertos…</p>\n\n<p><img src=\"https://jlrevilla.micro.blog/uploads/2021/4a4944b77c.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Extrañé viajar pero no extrañé para nada los aeropuertos…\n\n<img src=\"https://jlrevilla.micro.blog/uploads/2021/4a4944b77c.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-06-19T09:56:00-05:00",
 				"url": "https://revilla.pe/2021/07/31/extra-viajar-pero.html",
 				"tags": ["personal"]
