@@ -7,34 +7,61 @@
 	"items": [
 		
 			{
+				"id": "http://jlrevilla.micro.blog/2021/11/28/el-doceavo-doctor.html",
+				
+				"content_html": "<p>El Doceavo Doctor, arte por <a href=\"https://reddit.com/user/Jim-the-Wizard/\">Jim The Wizard</a></p>\n\n<p><img src=\"uploads/2021/f3b74b1868.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "El Doceavo Doctor, arte por [Jim The Wizard](https://reddit.com/user/Jim-the-Wizard/)\n\n<img src=\"uploads/2021/f3b74b1868.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2021-11-28T18:29:21-05:00",
+				"url": "https://revilla.pe/2021/11/28/el-doceavo-doctor.html"
+			},
+			{
+				"id": "http://jlrevilla.micro.blog/2021/11/28/la-solucin-definitiva.html",
+				"title": "La solución definitiva para el email",
+				"content_html": "<p>Por años le he dado vueltas a diferentes maneras de optimizar y mejorar mi uso del correo electrónico. He probado servicios como “Hey!” y similares que prometen una re-invención del email desde cero para ser más manejable, aplicaciones que buscan poner orden en el flujo de entrada, los servicios que los grandes proveedores (como Microsoft y Google) integran usando IA a sus casillas, reglas diseñadas por mí para automatizar las cadenas y hasta casillas diferentes en paralelo.</p>\n\n<p>Y la verdad es que mi email sigue siendo un desastre lleno de spam, cadenas, formatos dispares, imposible de priorizar de forma eficiente y un dolor de cabeza en general.</p>\n\n<p>Fue en ese momento cuando observé con mi familia y sus amigos la manera en que las nuevas generaciones (15 años para abajo) usan en email: ¡No lo hacen!</p>\n\n<p>No lo visitan nunca, solo si es que llega alguna documentación formal inevitable del colegio o similares, pero su uso es tan esporádico que ni recuerdan la forma de acceder a él muchas veces y definitivamente no lo usan para comunicarse con nadie y menos entre ellos. Todo se maneja a través de apps de conversación. Para ellos el email es tan poco útil como para mí lo es un fax. Y creo que esa es la solución, la muerte lenta. O al menos ser relegado al mismo status que el buzón de correo en la puerta del edificio.</p>\n\n<p>El email lamentablemente está roto, no por diseño, sino por abuso… y es momento de dejarlo atrás.</p>\n",
+				"content_text": "Por años le he dado vueltas a diferentes maneras de optimizar y mejorar mi uso del correo electrónico. He probado servicios como “Hey!” y similares que prometen una re-invención del email desde cero para ser más manejable, aplicaciones que buscan poner orden en el flujo de entrada, los servicios que los grandes proveedores (como Microsoft y Google) integran usando IA a sus casillas, reglas diseñadas por mí para automatizar las cadenas y hasta casillas diferentes en paralelo.\n\nY la verdad es que mi email sigue siendo un desastre lleno de spam, cadenas, formatos dispares, imposible de priorizar de forma eficiente y un dolor de cabeza en general.\n\nFue en ese momento cuando observé con mi familia y sus amigos la manera en que las nuevas generaciones (15 años para abajo) usan en email: ¡No lo hacen! \n\nNo lo visitan nunca, solo si es que llega alguna documentación formal inevitable del colegio o similares, pero su uso es tan esporádico que ni recuerdan la forma de acceder a él muchas veces y definitivamente no lo usan para comunicarse con nadie y menos entre ellos. Todo se maneja a través de apps de conversación. Para ellos el email es tan poco útil como para mí lo es un fax. Y creo que esa es la solución, la muerte lenta. O al menos ser relegado al mismo status que el buzón de correo en la puerta del edificio. \n\nEl email lamentablemente está roto, no por diseño, sino por abuso… y es momento de dejarlo atrás.\n",
+				"date_published": "2021-11-28T08:53:36-05:00",
+				"url": "https://revilla.pe/2021/11/28/la-solucin-definitiva.html"
+			},
+			{
+				"id": "http://jlrevilla.micro.blog/2021/11/24/este-video-que.html",
+				
+				"content_html": "<p>Este video que explica <a href=\"https://youtu.be/bHIhgxav9LY\">cómo realmente es que fluye la energía en los cables eléctricos</a> es realmente el “mind blow” de la semana para mi…</p>\n",
+				"content_text": "Este video que explica [cómo realmente es que fluye la energía en los cables eléctricos](https://youtu.be/bHIhgxav9LY) es realmente el “mind blow” de la semana para mi…\n",
+				"date_published": "2021-11-24T20:43:00-05:00",
+				"url": "https://revilla.pe/2021/11/24/este-video-que.html",
+				"tags": ["tech"]
+			},
+			{
 				"id": "http://jlrevilla.micro.blog/2021/11/14/cory-doctorow-nuevamente.html",
 				
 				"content_html": "<p><a href=\"https://pluralistic.net/2021/11/14/still-the-product/\">Cory Doctorow nuevamente</a>, como dicen en inglés, “spot on”</p>\n",
 				"content_text": "[Cory Doctorow nuevamente](https://pluralistic.net/2021/11/14/still-the-product/), como dicen en inglés, “spot on”\n",
-				"date_published": "2021-11-14T11:42:29-05:00",
-				"url": "https://revilla.pe/2021/11/14/cory-doctorow-nuevamente.html"
+				"date_published": "2021-11-14T11:42:00-05:00",
+				"url": "https://revilla.pe/2021/11/14/cory-doctorow-nuevamente.html",
+				"tags": ["tech"]
 			},
 			{
 				"id": "http://jlrevilla.micro.blog/2021/11/13/nada-ms-que.html",
 				"title": "Nada más que un tip para seguridad",
 				"content_html": "<p>Casi nunca recomiendo apps que uso porque, si algo he aprendido con los años, es que cada persona tiene circunstancias diferentes y es mejor recomendar algo personalizado.</p>\n\n<p>Pero no quería dejar de mencionar que con <a href=\"https://nextdns.io/\">NextDNS</a> me va súper bien hace un año en temas de seguridad, 100% de hosts bloqueados de acuerdo a <a href=\"https://d3ward.github.io/toolz/adblock.html\">esta herramienta</a> de d3ward que va muy bien.</p>\n\n<p>NextDNS no solo boquea los cookies de terceros y la publicidad, sino que también las herramientas de tracking de fabricantes y los dominios que acaban de ser creados (y probablemente sean falsos por ello), además de manejar logs. Recomendado.</p>\n",
 				"content_text": "Casi nunca recomiendo apps que uso porque, si algo he aprendido con los años, es que cada persona tiene circunstancias diferentes y es mejor recomendar algo personalizado. \n\nPero no quería dejar de mencionar que con [NextDNS](https://nextdns.io/) me va súper bien hace un año en temas de seguridad, 100% de hosts bloqueados de acuerdo a [esta herramienta](https://d3ward.github.io/toolz/adblock.html) de d3ward que va muy bien.\n\nNextDNS no solo boquea los cookies de terceros y la publicidad, sino que también las herramientas de tracking de fabricantes y los dominios que acaban de ser creados (y probablemente sean falsos por ello), además de manejar logs. Recomendado.\n",
-				"date_published": "2021-11-13T11:29:24-05:00",
-				"url": "https://revilla.pe/2021/11/13/nada-ms-que.html"
+				"date_published": "2021-11-13T11:29:00-05:00",
+				"url": "https://revilla.pe/2021/11/13/nada-ms-que.html",
+				"tags": ["tech"]
 			},
 			{
 				"id": "http://jlrevilla.micro.blog/2021/11/12/en-la-nube.html",
 				
-				"content_html": "<p>En la nube</p>\n\n<p><img src=\"uploads/2021/4e0e95450a.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "En la nube\n\n<img src=\"uploads/2021/4e0e95450a.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>En la nube</p>\n\n<p><img src=\"https://revilla.pe/uploads/2021/4e0e95450a.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "En la nube\n\n<img src=\"https://revilla.pe/uploads/2021/4e0e95450a.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-11-12T21:17:58-05:00",
 				"url": "https://revilla.pe/2021/11/12/en-la-nube.html"
 			},
 			{
 				"id": "http://jlrevilla.micro.blog/2021/11/10/graffiti.html",
 				
-				"content_html": "<p>Graffiti</p>\n\n<p><img src=\"uploads/2021/117ad22d06.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Graffiti\n\n<img src=\"uploads/2021/117ad22d06.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Graffiti</p>\n\n<p><img src=\"https://revilla.pe/uploads/2021/117ad22d06.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Graffiti\n\n<img src=\"https://revilla.pe/uploads/2021/117ad22d06.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-11-10T22:40:27-05:00",
 				"url": "https://revilla.pe/2021/11/10/graffiti.html"
 			},
@@ -61,14 +88,15 @@
 				
 				"content_html": "<p>Por un lado estoy totalmente de acuerdo con la <a href=\"https://www.fastcompany.com/90690440/what-is-an-independent-creator-vs-instagram-influencer\">tendencia que menciona Fortune</a> sobre el cambio hacia “Creadores Independientes”, pero por otro lado veo algo a medias… el movimiento debería darse a plataformas propias y federadas.</p>\n",
 				"content_text": "Por un lado estoy totalmente de acuerdo con la [tendencia que menciona Fortune](https://www.fastcompany.com/90690440/what-is-an-independent-creator-vs-instagram-influencer) sobre el cambio hacia “Creadores Independientes”, pero por otro lado veo algo a medias… el movimiento debería darse a plataformas propias y federadas.\n",
-				"date_published": "2021-10-27T22:23:54-05:00",
-				"url": "https://revilla.pe/2021/10/27/por-un-lado.html"
+				"date_published": "2021-10-27T22:23:00-05:00",
+				"url": "https://revilla.pe/2021/10/27/por-un-lado.html",
+				"tags": ["tech"]
 			},
 			{
 				"id": "http://jlrevilla.micro.blog/2021/10/23/sbado.html",
 				
-				"content_html": "<p>Sábado</p>\n\n<p><img src=\"uploads/2021/4b64f967f1.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Sábado\n\n<img src=\"uploads/2021/4b64f967f1.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Sábado</p>\n\n<p><img src=\"https://revilla.pe/uploads/2021/4b64f967f1.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Sábado\n\n<img src=\"https://revilla.pe/uploads/2021/4b64f967f1.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-10-23T12:09:45-05:00",
 				"url": "https://revilla.pe/2021/10/23/sbado.html"
 			},
@@ -77,14 +105,15 @@
 				
 				"content_html": "<p><a href=\"https://bigtechnology.substack.com/p/the-blowhard-curve-when-to-lead-thoughts\">Divertido artículo</a> sobre lo que el autor llama (a falta de mejor traducción) “La curva de la fanfarronería” y la importancia de mantenernos conscientes de lo que sabemos para no caer en ella.</p>\n",
 				"content_text": "[Divertido artículo](https://bigtechnology.substack.com/p/the-blowhard-curve-when-to-lead-thoughts) sobre lo que el autor llama (a falta de mejor traducción) “La curva de la fanfarronería” y la importancia de mantenernos conscientes de lo que sabemos para no caer en ella.\n",
-				"date_published": "2021-10-17T14:34:58-05:00",
-				"url": "https://revilla.pe/2021/10/17/divertido-artculo-sobre.html"
+				"date_published": "2021-10-17T14:34:00-05:00",
+				"url": "https://revilla.pe/2021/10/17/divertido-artculo-sobre.html",
+				"tags": ["meta"]
 			},
 			{
 				"id": "http://jlrevilla.micro.blog/2021/10/14/frikiando.html",
 				
-				"content_html": "<p>Frikiando</p>\n\n<p><img src=\"uploads/2021/cb96b9994f.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Frikiando\n\n<img src=\"uploads/2021/cb96b9994f.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Frikiando</p>\n\n<p><img src=\"https://revilla.pe/uploads/2021/cb96b9994f.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Frikiando\n\n<img src=\"https://revilla.pe/uploads/2021/cb96b9994f.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-10-14T17:08:00-05:00",
 				"url": "https://revilla.pe/2021/10/14/frikiando.html",
 				"tags": ["personal"]
@@ -92,8 +121,8 @@
 			{
 				"id": "http://jlrevilla.micro.blog/2021/10/11/yo-los-lunes.html",
 				
-				"content_html": "<p>Yo, los lunes…</p>\n\n<p><img src=\"uploads/2021/22cc4c8e45.jpg\" width=\"600\" height=\"599\" alt=\"\" /></p>\n",
-				"content_text": "Yo, los lunes…\n\n<img src=\"uploads/2021/22cc4c8e45.jpg\" width=\"600\" height=\"599\" alt=\"\" />\n",
+				"content_html": "<p>Yo, los lunes…</p>\n\n<p><img src=\"https://revilla.pe/uploads/2021/22cc4c8e45.jpg\" width=\"600\" height=\"599\" alt=\"\" /></p>\n",
+				"content_text": "Yo, los lunes…\n\n<img src=\"https://revilla.pe/uploads/2021/22cc4c8e45.jpg\" width=\"600\" height=\"599\" alt=\"\" />\n",
 				"date_published": "2021-10-11T22:03:00-05:00",
 				"url": "https://revilla.pe/2021/10/11/yo-los-lunes.html",
 				"tags": ["personal"]
@@ -103,22 +132,24 @@
 				"title": "¿Será que RSS va regresando?",
 				"content_html": "<p>El lector RSS que mejor funciona para mí es Feedly, pero existe uno para todos los gustos y <a href=\"https://www.wired.com/story/best-rss-feed-readers/\">esta lista de Wired</a> está bastante incompleta… sin embargo es genial ver a publicaciones masivas hablar de RSS nuevamente y coincidir en que la redes sociales no son la manera de consumir internet.</p>\n",
 				"content_text": "El lector RSS que mejor funciona para mí es Feedly, pero existe uno para todos los gustos y [esta lista de Wired](https://www.wired.com/story/best-rss-feed-readers/) está bastante incompleta… sin embargo es genial ver a publicaciones masivas hablar de RSS nuevamente y coincidir en que la redes sociales no son la manera de consumir internet.\n",
-				"date_published": "2021-10-10T11:19:07-05:00",
-				"url": "https://revilla.pe/2021/10/10/ser-que-rss.html"
+				"date_published": "2021-10-10T11:19:00-05:00",
+				"url": "https://revilla.pe/2021/10/10/ser-que-rss.html",
+				"tags": ["tech"]
 			},
 			{
 				"id": "http://jlrevilla.micro.blog/2021/10/08/facebook-shouldnt-be.html",
 				
 				"content_html": "<p><a href=\"https://pluralistic.net/2021/10/08/unfollow-everything/#shut-the-zuck-up\">Facebook shouldn’t be in charge of how you use Facebook</a> (by Cory Doctorow)</p>\n",
 				"content_text": "[Facebook shouldn’t be in charge of how you use Facebook](https://pluralistic.net/2021/10/08/unfollow-everything/#shut-the-zuck-up) (by Cory Doctorow)\n",
-				"date_published": "2021-10-08T14:16:52-05:00",
-				"url": "https://revilla.pe/2021/10/08/facebook-shouldnt-be.html"
+				"date_published": "2021-10-08T14:16:00-05:00",
+				"url": "https://revilla.pe/2021/10/08/facebook-shouldnt-be.html",
+				"tags": ["tech"]
 			},
 			{
 				"id": "http://jlrevilla.micro.blog/2021/09/25/there-and-back.html",
 				
-				"content_html": "<p>There and back again…</p>\n\n<p><img src=\"uploads/2021/d77432fd83.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "There and back again…\n\n<img src=\"uploads/2021/d77432fd83.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>There and back again…</p>\n\n<p><img src=\"https://revilla.pe/uploads/2021/d77432fd83.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "There and back again…\n\n<img src=\"https://revilla.pe/uploads/2021/d77432fd83.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-09-25T00:06:44-05:00",
 				"url": "https://revilla.pe/2021/09/25/there-and-back.html"
 			},
@@ -134,8 +165,8 @@
 			{
 				"id": "http://jlrevilla.micro.blog/2021/09/19/el-primer-canal.html",
 				
-				"content_html": "<p>El primer canal de televisión peruano empezó a transmitir en 1958</p>\n\n<p><img src=\"uploads/2021/971ec8e00b.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "El primer canal de televisión peruano empezó a transmitir en 1958\n\n<img src=\"uploads/2021/971ec8e00b.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>El primer canal de televisión peruano empezó a transmitir en 1958</p>\n\n<p><img src=\"https://revilla.pe/uploads/2021/971ec8e00b.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "El primer canal de televisión peruano empezó a transmitir en 1958\n\n<img src=\"https://revilla.pe/uploads/2021/971ec8e00b.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-09-19T08:03:14-05:00",
 				"url": "https://revilla.pe/2021/09/19/el-primer-canal.html"
 			},
@@ -162,22 +193,23 @@
 				
 				"content_html": "<p>Empezando: <a href=\"https://micro.blog/books/9781439195468\">Why Buddhism is True: The Science and Philosophy of Meditation and Enlightenment</a> por Robert Wright 📚</p>\n",
 				"content_text": "Empezando: [Why Buddhism is True: The Science and Philosophy of Meditation and Enlightenment](https://micro.blog/books/9781439195468) por Robert Wright 📚\n",
-				"date_published": "2021-09-11T23:37:35-05:00",
-				"url": "https://revilla.pe/2021/09/11/empezando-why-buddhism.html"
+				"date_published": "2021-09-11T23:37:00-05:00",
+				"url": "https://revilla.pe/2021/09/11/empezando-why-buddhism.html",
+				"tags": ["personal"]
 			},
 			{
 				"id": "http://jlrevilla.micro.blog/2021/09/11/estos-mensajes-de.html",
 				
-				"content_html": "<p>Estos mensajes de galleta de la fortuna claramente fueron impresos antes de la pandemia…</p>\n\n<p><img src=\"uploads/2021/8f7a31698c.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Estos mensajes de galleta de la fortuna claramente fueron impresos antes de la pandemia…\n\n<img src=\"uploads/2021/8f7a31698c.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Estos mensajes de galleta de la fortuna claramente fueron impresos antes de la pandemia…</p>\n\n<p><img src=\"https://revilla.pe/uploads/2021/8f7a31698c.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Estos mensajes de galleta de la fortuna claramente fueron impresos antes de la pandemia…\n\n<img src=\"https://revilla.pe/uploads/2021/8f7a31698c.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-09-11T20:18:50-05:00",
 				"url": "https://revilla.pe/2021/09/11/estos-mensajes-de.html"
 			},
 			{
 				"id": "http://jlrevilla.micro.blog/2021/09/08/scriptorium.html",
 				
-				"content_html": "<p>Scriptorium</p>\n\n<p><img src=\"uploads/2021/8c44952811.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Scriptorium\n\n<img src=\"uploads/2021/8c44952811.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Scriptorium</p>\n\n<p><img src=\"https://revilla.pe/uploads/2021/8c44952811.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Scriptorium\n\n<img src=\"https://revilla.pe/uploads/2021/8c44952811.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-09-08T20:34:19-05:00",
 				"url": "https://revilla.pe/2021/09/08/scriptorium.html"
 			},
@@ -192,8 +224,8 @@
 			{
 				"id": "http://jlrevilla.micro.blog/2021/09/01/si-esto-fuera.html",
 				
-				"content_html": "<p>Si esto fuera un juego de rol, aquí estaría el Thieves’ Guild</p>\n\n<p><img src=\"uploads/2021/c97a60ef70.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Si esto fuera un juego de rol, aquí estaría el Thieves’ Guild\n\n<img src=\"uploads/2021/c97a60ef70.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Si esto fuera un juego de rol, aquí estaría el Thieves’ Guild</p>\n\n<p><img src=\"https://revilla.pe/uploads/2021/c97a60ef70.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Si esto fuera un juego de rol, aquí estaría el Thieves’ Guild\n\n<img src=\"https://revilla.pe/uploads/2021/c97a60ef70.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-09-01T13:23:43-05:00",
 				"url": "https://revilla.pe/2021/09/01/si-esto-fuera.html"
 			},
@@ -201,15 +233,16 @@
 				"id": "http://jlrevilla.micro.blog/2021/08/31/empezando-the-rise.html",
 				
 				"content_html": "<p>Empezando: <a href=\"https://micro.blog/books/9780062695864\">The Rise and Fall of D.O.D.O.: A Novel</a> por Neal Stephenson y Nivole Galland 📚\nEsperemos que fluya más como Seveneves y no como Fall que me costó mucho terminar</p>\n",
-				"content_text": "Empezando: [The Rise and Fall of D.O.D.O.: A Novel](https://micro.blog/books/9780062695864) por Neal Stephenson y Nivole Galland 📚\r\nEsperemos que fluya más como Seveneves y no como Fall que me costó mucho terminar\n",
-				"date_published": "2021-08-31T23:51:19-05:00",
-				"url": "https://revilla.pe/2021/08/31/empezando-the-rise.html"
+				"content_text": "Empezando: [The Rise and Fall of D.O.D.O.: A Novel](https://micro.blog/books/9780062695864) por Neal Stephenson y Nivole Galland 📚\nEsperemos que fluya más como Seveneves y no como Fall que me costó mucho terminar\n",
+				"date_published": "2021-08-31T23:51:00-05:00",
+				"url": "https://revilla.pe/2021/08/31/empezando-the-rise.html",
+				"tags": ["personal"]
 			},
 			{
 				"id": "http://jlrevilla.micro.blog/2021/08/30/afortunadamente-es-feriado.html",
 				
-				"content_html": "<p>Afortunadamente es feriado mañana y no tengo que dormir temprano…</p>\n\n<p><img src=\"uploads/2021/ff2080edc4.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Afortunadamente es feriado mañana y no tengo que dormir temprano…\n\n<img src=\"uploads/2021/ff2080edc4.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Afortunadamente es feriado mañana y no tengo que dormir temprano…</p>\n\n<p><img src=\"https://revilla.pe/uploads/2021/ff2080edc4.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Afortunadamente es feriado mañana y no tengo que dormir temprano…\n\n<img src=\"https://revilla.pe/uploads/2021/ff2080edc4.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-08-30T00:57:30-05:00",
 				"url": "https://revilla.pe/2021/08/30/afortunadamente-es-feriado.html"
 			},
@@ -249,16 +282,16 @@
 			{
 				"id": "http://jlrevilla.micro.blog/2021/08/17/viene-con-el.html",
 				
-				"content_html": "<p>Viene con el puesto de trabajo…</p>\n\n<p><img src=\"uploads/2021/9f146dbaf4.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Viene con el puesto de trabajo…\n\n<img src=\"uploads/2021/9f146dbaf4.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Viene con el puesto de trabajo…</p>\n\n<p><img src=\"https://revilla.pe/uploads/2021/9f146dbaf4.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Viene con el puesto de trabajo…\n\n<img src=\"https://revilla.pe/uploads/2021/9f146dbaf4.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-08-17T18:43:58-05:00",
 				"url": "https://revilla.pe/2021/08/17/viene-con-el.html"
 			},
 			{
 				"id": "http://jlrevilla.micro.blog/2021/08/16/opciones.html",
 				
-				"content_html": "<p>Opciones</p>\n\n<p><img src=\"uploads/2021/ae75ad6f12.jpg\" width=\"550\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Opciones\n\n<img src=\"uploads/2021/ae75ad6f12.jpg\" width=\"550\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Opciones</p>\n\n<p><img src=\"https://revilla.pe/uploads/2021/ae75ad6f12.jpg\" width=\"550\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Opciones\n\n<img src=\"https://revilla.pe/uploads/2021/ae75ad6f12.jpg\" width=\"550\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-08-16T09:56:25-05:00",
 				"url": "https://revilla.pe/2021/08/16/opciones.html"
 			},
@@ -274,8 +307,8 @@
 			{
 				"id": "http://jlrevilla.micro.blog/2021/08/15/echoes.html",
 				
-				"content_html": "<p>Echoes</p>\n\n<p><img src=\"uploads/2021/d4403d87cc.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Echoes\n\n<img src=\"uploads/2021/d4403d87cc.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Echoes</p>\n\n<p><img src=\"https://revilla.pe/uploads/2021/d4403d87cc.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Echoes\n\n<img src=\"https://revilla.pe/uploads/2021/d4403d87cc.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-08-15T14:37:39-05:00",
 				"url": "https://revilla.pe/2021/08/15/echoes.html"
 			},
@@ -291,8 +324,8 @@
 			{
 				"id": "http://jlrevilla.micro.blog/2021/08/14/de-noche.html",
 				
-				"content_html": "<p>De noche</p>\n\n<p><img src=\"uploads/2021/b7cf3a8f1b.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "De noche\n\n<img src=\"uploads/2021/b7cf3a8f1b.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>De noche</p>\n\n<p><img src=\"https://revilla.pe/uploads/2021/b7cf3a8f1b.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "De noche\n\n<img src=\"https://revilla.pe/uploads/2021/b7cf3a8f1b.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-08-14T20:38:49-05:00",
 				"url": "https://revilla.pe/2021/08/14/de-noche.html"
 			},
@@ -316,16 +349,16 @@
 			{
 				"id": "http://jlrevilla.micro.blog/2021/08/07/siempre-a-la.html",
 				
-				"content_html": "<p>Siempre a la vanguardia</p>\n\n<p><img src=\"uploads/2021/07856b1678.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Siempre a la vanguardia\n\n<img src=\"uploads/2021/07856b1678.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Siempre a la vanguardia</p>\n\n<p><img src=\"https://revilla.pe/uploads/2021/07856b1678.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Siempre a la vanguardia\n\n<img src=\"https://revilla.pe/uploads/2021/07856b1678.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-08-07T12:21:18-05:00",
 				"url": "https://revilla.pe/2021/08/07/siempre-a-la.html"
 			},
 			{
 				"id": "http://jlrevilla.micro.blog/2021/08/05/solo-en-san.html",
 				
-				"content_html": "<p>Solo en San Borja una avenida se puede cruzar consigo misma…</p>\n\n<p><img src=\"uploads/2021/824f06cb6f.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Solo en San Borja una avenida se puede cruzar consigo misma…\n\n<img src=\"uploads/2021/824f06cb6f.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Solo en San Borja una avenida se puede cruzar consigo misma…</p>\n\n<p><img src=\"https://revilla.pe/uploads/2021/824f06cb6f.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Solo en San Borja una avenida se puede cruzar consigo misma…\n\n<img src=\"https://revilla.pe/uploads/2021/824f06cb6f.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-08-05T18:19:14-05:00",
 				"url": "https://revilla.pe/2021/08/05/solo-en-san.html"
 			},
@@ -358,8 +391,8 @@
 			{
 				"id": "http://jlrevilla.micro.blog/2021/07/31/hace-dos-aos.html",
 				
-				"content_html": "<p>Hace dos años, rock ‘n roll royalty</p>\n\n<p><img src=\"uploads/2021/e007a3a75c.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Hace dos años, rock ‘n roll royalty\n\n<img src=\"uploads/2021/e007a3a75c.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Hace dos años, rock ‘n roll royalty</p>\n\n<p><img src=\"https://revilla.pe/uploads/2021/e007a3a75c.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Hace dos años, rock ‘n roll royalty\n\n<img src=\"https://revilla.pe/uploads/2021/e007a3a75c.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-07-31T21:14:00-05:00",
 				"url": "https://revilla.pe/2021/07/31/hace-dos-aos.html",
 				"tags": ["personal"]
@@ -375,8 +408,8 @@
 			{
 				"id": "http://jlrevilla.micro.blog/2021/07/31/extra-viajar-pero.html",
 				
-				"content_html": "<p>Extrañé viajar pero no extrañé para nada los aeropuertos…</p>\n\n<p><img src=\"uploads/2021/4a4944b77c.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Extrañé viajar pero no extrañé para nada los aeropuertos…\n\n<img src=\"uploads/2021/4a4944b77c.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Extrañé viajar pero no extrañé para nada los aeropuertos…</p>\n\n<p><img src=\"https://jlrevilla.micro.blog/uploads/2021/4a4944b77c.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Extrañé viajar pero no extrañé para nada los aeropuertos…\n\n<img src=\"https://jlrevilla.micro.blog/uploads/2021/4a4944b77c.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-06-19T09:56:00-05:00",
 				"url": "https://revilla.pe/2021/07/31/extra-viajar-pero.html",
 				"tags": ["personal"]
