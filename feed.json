@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://jlrevilla.micro.blog/2021/12/10/mejorando-la-privacidad.html",
+				"title": "Mejorando la privacidad",
+				"content_html": "<p>Es imposible en la práctica tener una vida digital 100% privada, de la misma forma que es imposible que algo sea 100% seguro, pero en ambos casos existen maneras de aumentar tu privacidad y tu seguridad mientras se sigue uno manteniendo funcional en el mundo.</p>\n\n<p>En mi caso, llevo ya mucho tiempo realizando varios cambios en ese sentido. No siempre es posible usar la opción más privada pero al menos trato de usar aquella que no tiene “vendemos tu información” en su plan de negocios. O al menos usar el producto de la corporación que no es la más grande y monopólica sino de alguna alternativa que no le queda otra que diferenciarse.</p>\n\n<p>Si me leen hace tiempo ya saben que no uso las redes sociales clásicas hace años (Facebook, Instagram, TikTok, Twitter, Pinterest o similares) y que soy feliz sin Whatsapp y Gmail. Pero me estan funcionando algunas otras cosas también.</p>\n\n<p>Por ejemplo, si bien es imposible no usar YouTube o Amazon por momentos, no tengo los apps instalados y los visito vía el navegador solo cuando lo necesito. Uso Apple Maps y así no tengo a Google Maps instalado registrando por dónde me muevo todo el tiempo. Compro mis ebooks en Kobo, que será una corporación japonesa muy grande pero… vamos, no es Amazon. Y así con estas y otras acciones he conseguido no tener ningún app de Meta, Amazon o Google instalado en el móvil.</p>\n\n<p>Ahora solo me queda ver qué voy a hacer con el email, ya que Protonmail nos viene decepcionado cada vez más. Tal vez mueva el dominio a iCloud. Tal vez Fastmail. Ninguna opción va a ser perfecta pero la idea, creo yo, es al menos hacer algo diferente.</p>\n",
+				"content_text": "Es imposible en la práctica tener una vida digital 100% privada, de la misma forma que es imposible que algo sea 100% seguro, pero en ambos casos existen maneras de aumentar tu privacidad y tu seguridad mientras se sigue uno manteniendo funcional en el mundo.\n\nEn mi caso, llevo ya mucho tiempo realizando varios cambios en ese sentido. No siempre es posible usar la opción más privada pero al menos trato de usar aquella que no tiene “vendemos tu información” en su plan de negocios. O al menos usar el producto de la corporación que no es la más grande y monopólica sino de alguna alternativa que no le queda otra que diferenciarse.\n\nSi me leen hace tiempo ya saben que no uso las redes sociales clásicas hace años (Facebook, Instagram, TikTok, Twitter, Pinterest o similares) y que soy feliz sin Whatsapp y Gmail. Pero me estan funcionando algunas otras cosas también.\n\nPor ejemplo, si bien es imposible no usar YouTube o Amazon por momentos, no tengo los apps instalados y los visito vía el navegador solo cuando lo necesito. Uso Apple Maps y así no tengo a Google Maps instalado registrando por dónde me muevo todo el tiempo. Compro mis ebooks en Kobo, que será una corporación japonesa muy grande pero… vamos, no es Amazon. Y así con estas y otras acciones he conseguido no tener ningún app de Meta, Amazon o Google instalado en el móvil.\n\nAhora solo me queda ver qué voy a hacer con el email, ya que Protonmail nos viene decepcionado cada vez más. Tal vez mueva el dominio a iCloud. Tal vez Fastmail. Ninguna opción va a ser perfecta pero la idea, creo yo, es al menos hacer algo diferente.\n",
+				"date_published": "2021-12-10T10:42:16-05:00",
+				"url": "https://revilla.pe/2021/12/10/mejorando-la-privacidad.html"
+			},
+			{
+				"id": "http://jlrevilla.micro.blog/2021/12/09/when-you-just.html",
+				
+				"content_html": "<blockquote>\n<p>When you just wing it, you are aware of the risk and the uncertainty, and inclined to be more cautious. When you have a high-tech tool giving you an illusion\nof omniscience, I am concerned that it will lead to greater risk-taking.</p>\n</blockquote>\n\n<p>— The rise and fall of D.O.D.O. por Nicole Galland y Neal Stephenson</p>\n",
+				"content_text": ">When you just wing it, you are aware of the risk and the uncertainty, and inclined to be more cautious. When you have a high-tech tool giving you an illusion\nof omniscience, I am concerned that it will lead to greater risk-taking.\n\n— The rise and fall of D.O.D.O. por Nicole Galland y Neal Stephenson\n",
+				"date_published": "2021-12-09T21:33:15-05:00",
+				"url": "https://revilla.pe/2021/12/09/when-you-just.html"
+			},
+			{
 				"id": "http://jlrevilla.micro.blog/2021/12/08/playlist.html",
 				
 				"content_html": "<p>Playlist</p>\n\n<p><img src=\"uploads/2021/db4e997251.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
@@ -34,8 +50,8 @@
 			{
 				"id": "http://jlrevilla.micro.blog/2021/11/28/el-doceavo-doctor.html",
 				
-				"content_html": "<p>El Doceavo Doctor, arte por <a href=\"https://reddit.com/user/Jim-the-Wizard/\">Jim The Wizard</a></p>\n\n<p><img src=\"uploads/2021/f3b74b1868.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "El Doceavo Doctor, arte por [Jim The Wizard](https://reddit.com/user/Jim-the-Wizard/)\n\n<img src=\"uploads/2021/f3b74b1868.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>El Doceavo Doctor, arte por <a href=\"https://reddit.com/user/Jim-the-Wizard/\">Jim The Wizard</a></p>\n\n<p><img src=\"https://revilla.pe/uploads/2021/f3b74b1868.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "El Doceavo Doctor, arte por [Jim The Wizard](https://reddit.com/user/Jim-the-Wizard/)\n\n<img src=\"https://revilla.pe/uploads/2021/f3b74b1868.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-11-28T18:29:21-05:00",
 				"url": "https://revilla.pe/2021/11/28/el-doceavo-doctor.html"
 			},
@@ -293,8 +309,9 @@
 				"title": "La vida es información",
 				"content_html": "<blockquote>\n<p>“At one time, we thought that the way life came together was almost completely random, only needing an energy gradient to get going. But as we’ve moved into the information age, we’ve come to realize that life is more about information than energy. Fire has most of the characteristics of life. It eats, it grows, it reproduces. But fire retains no information. It doesn’t learn; it doesn’t adapt. The five millionth fire started by lightning will behave just like the first. But the five hundredth bacterial division will not be like the first one, especially if there is environmental pressure. That’s DNA. And RNA. That’s life.”</p>\n</blockquote>\n\n<p>— We Are Legion (We Are Bob) (Bobiverse Book 1) por Dennis Taylor</p>\n",
 				"content_text": "> “At one time, we thought that the way life came together was almost completely random, only needing an energy gradient to get going. But as we’ve moved into the information age, we’ve come to realize that life is more about information than energy. Fire has most of the characteristics of life. It eats, it grows, it reproduces. But fire retains no information. It doesn’t learn; it doesn’t adapt. The five millionth fire started by lightning will behave just like the first. But the five hundredth bacterial division will not be like the first one, especially if there is environmental pressure. That’s DNA. And RNA. That’s life.”\n\n— We Are Legion (We Are Bob) (Bobiverse Book 1) por Dennis Taylor\n",
-				"date_published": "2021-08-18T20:33:35-05:00",
-				"url": "https://revilla.pe/2021/08/18/la-vida-es.html"
+				"date_published": "2021-08-18T20:33:00-05:00",
+				"url": "https://revilla.pe/2021/08/18/la-vida-es.html",
+				"tags": ["meta"]
 			},
 			{
 				"id": "http://jlrevilla.micro.blog/2021/08/18/rss-vive.html",
