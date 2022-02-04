@@ -7,6 +7,30 @@
 	"items": [
 		
 			{
+				"id": "http://jlrevilla.micro.blog/2022/01/30/morals-in-the.html",
+				
+				"content_html": "<p><a href=\"https://phirephoenix.com/blog/2021-11-30/ethics\">Morals in the machine</a>.</p>\n\n<p>“Machines cannot dismantle the power structures that perpetuate the brutal injustices wrought by entrenched oppression; only we can do that.”</p>\n",
+				"content_text": "[Morals in the machine](https://phirephoenix.com/blog/2021-11-30/ethics).\n\n“Machines cannot dismantle the power structures that perpetuate the brutal injustices wrought by entrenched oppression; only we can do that.”\n",
+				"date_published": "2022-01-30T12:55:40-05:00",
+				"url": "https://revilla.pe/2022/01/30/morals-in-the.html"
+			},
+			{
+				"id": "http://jlrevilla.micro.blog/2022/01/28/hacking-for-music.html",
+				
+				"content_html": "<p>Hacking for music</p>\n\n<p><img src=\"uploads/2022/f264400be3.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Hacking for music\n\n<img src=\"uploads/2022/f264400be3.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-01-28T18:39:36-05:00",
+				"url": "https://revilla.pe/2022/01/28/hacking-for-music.html"
+			},
+			{
+				"id": "http://jlrevilla.micro.blog/2022/01/24/adventure.html",
+				
+				"content_html": "<p>Adventure</p>\n\n<p><img src=\"uploads/2022/6fe55b61f5.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Adventure\n\n<img src=\"uploads/2022/6fe55b61f5.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-01-24T22:00:42-05:00",
+				"url": "https://revilla.pe/2022/01/24/adventure.html"
+			},
+			{
 				"id": "http://jlrevilla.micro.blog/2022/01/14/un-nuevo-daes.html",
 				
 				"content_html": "<p>Un nuevo día\nes nuevo fugazmente…\nAhora ya no</p>\n",
@@ -445,14 +469,6 @@
 				"content_text": "Todo lo que sé sobre el Reino Unido viene de:\n- Doctor Who\n- Top Gear\n- La serie de libros de Rivers of London\n- Life in Mars\n",
 				"date_published": "2021-08-13T20:08:11-05:00",
 				"url": "https://revilla.pe/2021/08/13/todo-lo-que.html"
-			},
-			{
-				"id": "http://jlrevilla.micro.blog/2021/08/07/siempre-a-la.html",
-				
-				"content_html": "<p>Siempre a la vanguardia</p>\n\n<p><img src=\"uploads/2021/07856b1678.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Siempre a la vanguardia\n\n<img src=\"uploads/2021/07856b1678.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2021-08-07T12:21:18-05:00",
-				"url": "https://revilla.pe/2021/08/07/siempre-a-la.html"
 			},
 			{
 				"id": "http://jlrevilla.micro.blog/2021/08/05/solo-en-san.html",
