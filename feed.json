@@ -7,6 +7,30 @@
 	"items": [
 		
 			{
+				"id": "http://jlrevilla.micro.blog/2022/03/20/rediscovering-the-south.html",
+				
+				"content_html": "<p><a href=\"https://medium.com/@teresainescruz/welcome-to-terranascient-futures-studies-foresight-a72dff4ba45e\">Rediscovering the South American wisdom of Buen Vivir</a> for a better future</p>\n",
+				"content_text": "[Rediscovering the South American wisdom of Buen Vivir](https://medium.com/@teresainescruz/welcome-to-terranascient-futures-studies-foresight-a72dff4ba45e) for a better future\n",
+				"date_published": "2022-03-20T06:09:56-05:00",
+				"url": "https://revilla.pe/2022/03/20/rediscovering-the-south.html"
+			},
+			{
+				"id": "http://jlrevilla.micro.blog/2022/03/17/olvidados.html",
+				
+				"content_html": "<p>Olvidados</p>\n\n<p><img src=\"uploads/2022/1ee2baf27e.jpg\" width=\"600\" height=\"337\" alt=\"\" /></p>\n",
+				"content_text": "Olvidados\n\n<img src=\"uploads/2022/1ee2baf27e.jpg\" width=\"600\" height=\"337\" alt=\"\" />\n",
+				"date_published": "2022-03-17T18:04:20-05:00",
+				"url": "https://revilla.pe/2022/03/17/olvidados.html"
+			},
+			{
+				"id": "http://jlrevilla.micro.blog/2022/03/16/found-this-on.html",
+				
+				"content_html": "<p>Found this on the web: Spain for Americans 😀</p>\n\n<p><img src=\"uploads/2022/076420036e.jpg\" width=\"600\" height=\"434\" alt=\"\" /></p>\n",
+				"content_text": "Found this on the web: Spain for Americans 😀\n\n<img src=\"uploads/2022/076420036e.jpg\" width=\"600\" height=\"434\" alt=\"\" />\n",
+				"date_published": "2022-03-16T18:03:16-05:00",
+				"url": "https://revilla.pe/2022/03/16/found-this-on.html"
+			},
+			{
 				"id": "http://jlrevilla.micro.blog/2022/03/13/first-month-in.html",
 				
 				"content_html": "<p>First month in Spain</p>\n\n<p><img src=\"uploads/2022/79aa4c98f2.jpg\" width=\"600\" height=\"403\" alt=\"\" /></p>\n",
@@ -33,16 +57,16 @@
 			{
 				"id": "http://jlrevilla.micro.blog/2022/03/03/somos-aguas-literalmente.html",
 				
-				"content_html": "<p>Somos Aguas (literalmente)</p>\n\n<p><img src=\"uploads/2022/070ae1b3cd.jpg\" width=\"600\" height=\"386\" alt=\"\" /></p>\n",
-				"content_text": "Somos Aguas (literalmente)\n\n<img src=\"uploads/2022/070ae1b3cd.jpg\" width=\"600\" height=\"386\" alt=\"\" />\n",
+				"content_html": "<p>Somos Aguas (literalmente)</p>\n\n<p><img src=\"https://revilla.pe/uploads/2022/070ae1b3cd.jpg\" width=\"600\" height=\"386\" alt=\"\" /></p>\n",
+				"content_text": "Somos Aguas (literalmente)\n\n<img src=\"https://revilla.pe/uploads/2022/070ae1b3cd.jpg\" width=\"600\" height=\"386\" alt=\"\" />\n",
 				"date_published": "2022-03-03T18:47:15-05:00",
 				"url": "https://revilla.pe/2022/03/03/somos-aguas-literalmente.html"
 			},
 			{
 				"id": "http://jlrevilla.micro.blog/2022/02/27/acomodndose.html",
 				
-				"content_html": "<p>Acomodándose</p>\n\n<p><img src=\"uploads/2022/95d7e560e6.jpg\" width=\"476\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Acomodándose\n\n<img src=\"uploads/2022/95d7e560e6.jpg\" width=\"476\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Acomodándose</p>\n\n<p><img src=\"https://revilla.pe/uploads/2022/95d7e560e6.jpg\" width=\"476\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Acomodándose\n\n<img src=\"https://revilla.pe/uploads/2022/95d7e560e6.jpg\" width=\"476\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-02-27T17:29:31-05:00",
 				"url": "https://revilla.pe/2022/02/27/acomodndose.html"
 			},
