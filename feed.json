@@ -7,6 +7,23 @@
 	"items": [
 		
 			{
+				"id": "http://jlrevilla.micro.blog/2022/04/09/the-worlds-oldest.html",
+				
+				"content_html": "<p>The world’s oldest bookstore…</p>\n\n<p><img src=\"uploads/2022/13fac50137.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "The world’s oldest bookstore…\n\n<img src=\"uploads/2022/13fac50137.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-04-09T17:24:10+02:00",
+				"url": "https://revilla.pe/2022/04/09/the-worlds-oldest.html"
+			},
+			{
+				"id": "http://jlrevilla.micro.blog/2022/04/02/staring-over-with.html",
+				
+				"content_html": "<p>Starting over with the collection at the other side of the Atlantic</p>\n\n<p><img src=\"uploads/2022/6d5523f620.jpg\" width=\"600\" height=\"599\" alt=\"\" /></p>\n",
+				"content_text": "Starting over with the collection at the other side of the Atlantic\n\n<img src=\"uploads/2022/6d5523f620.jpg\" width=\"600\" height=\"599\" alt=\"\" />\n",
+				"date_published": "2022-04-02T18:55:00+02:00",
+				"url": "https://revilla.pe/2022/04/02/staring-over-with.html",
+				"tags": ["personal"]
+			},
+			{
 				"id": "http://jlrevilla.micro.blog/2022/03/20/rediscovering-the-south.html",
 				
 				"content_html": "<p><a href=\"https://medium.com/@teresainescruz/welcome-to-terranascient-futures-studies-foresight-a72dff4ba45e\">Rediscovering the South American wisdom of Buen Vivir</a> for a better future</p>\n",
