@@ -7,6 +7,30 @@
 	"items": [
 		
 			{
+				"id": "http://jlrevilla.micro.blog/2022/07/05/how-is-it.html",
+				
+				"content_html": "<p>How is it that I just today found out about this song…\n<a href=\"https://m.youtube.com/watch?v=k1BneeJTDcU\">Welcome to the internet</a></p>\n",
+				"content_text": "How is it that I just today found out about this song…\n[Welcome to the internet](https://m.youtube.com/watch?v=k1BneeJTDcU)\n",
+				"date_published": "2022-07-05T13:44:27+02:00",
+				"url": "https://revilla.pe/2022/07/05/how-is-it.html"
+			},
+			{
+				"id": "http://jlrevilla.micro.blog/2022/07/02/a-rose-by.html",
+				"title": "A rose by any other name would smell as sweet",
+				"content_html": "<p>Hace casi 20 años, cuando publiqué mi primer blog (en Blogspot si no me equivoco), decidí ponerle de nombre “El Metaverso de JL” porque había justo leído a Neal Stephenson y la palabra me sonaba muy cool.</p>\n<p>Pasaron los años y a pesar que cambié muchas veces de plataforma (Wordpress, Tumblr, Github Pages, Microblog) el nombre se mantuvo… hasta ahora.</p>\n<p>Y es que la palabra Metaverso se ha convertido hoy en algo tan manoseado como Big Data o AI. No puedo seguir usándola. Y es por eso que ahora les doy la bienvenida al Scriptorium, que no será lo más original, pero al menos tiene sentido.</p>\n",
+				"content_text": "Hace casi 20 años, cuando publiqué mi primer blog (en Blogspot si no me equivoco), decidí ponerle de nombre “El Metaverso de JL” porque había justo leído a Neal Stephenson y la palabra me sonaba muy cool.\n\nPasaron los años y a pesar que cambié muchas veces de plataforma (Wordpress, Tumblr, Github Pages, Microblog) el nombre se mantuvo… hasta ahora.\n\nY es que la palabra Metaverso se ha convertido hoy en algo tan manoseado como Big Data o AI. No puedo seguir usándola. Y es por eso que ahora les doy la bienvenida al Scriptorium, que no será lo más original, pero al menos tiene sentido.\n",
+				"date_published": "2022-07-02T23:49:00+02:00",
+				"url": "https://revilla.pe/2022/07/02/a-rose-by.html"
+			},
+			{
+				"id": "http://jlrevilla.micro.blog/2022/06/29/no-se-ha.html",
+				
+				"content_html": "<p>No se ha regresado a la normalidad en la oficina hasta que no se encuentra uno con un colega de otro país en la máquina de café 😀</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "No se ha regresado a la normalidad en la oficina hasta que no se encuentra uno con un colega de otro país en la máquina de café 😀\n\n<img src=\"uploads/2022/20cebb330b.jpg\" width=\"561\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-06-29T23:59:06+02:00",
+				"url": "https://revilla.pe/2022/06/29/no-se-ha.html"
+			},
+			{
 				"id": "http://jlrevilla.micro.blog/2022/06/18/malasaa.html",
 				
 				"content_html": "<p>Malasaña</p>\n<!-- raw HTML omitted -->\n",
