@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://jlrevilla.micro.blog/2022/07/16/patos-oh-oh.html",
+				
+				"content_html": "<p>Patos… oh oh…</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Patos… oh oh…\n\n<img src=\"uploads/2022/13f9b54938.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"date_published": "2022-07-16T20:21:03+02:00",
+				"url": "https://revilla.pe/2022/07/16/patos-oh-oh.html"
+			},
+			{
+				"id": "http://jlrevilla.micro.blog/2022/07/11/algo-me-dice.html",
+				
+				"content_html": "<p>Algo me dice que este tipo de alertas me van a llegar muy seguido en los próximos meses</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Algo me dice que este tipo de alertas me van a llegar muy seguido en los próximos meses\n\n<img src=\"uploads/2022/0e436fa0fc.jpg\" width=\"461\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-07-11T11:45:00+02:00",
+				"url": "https://revilla.pe/2022/07/11/algo-me-dice.html"
+			},
+			{
 				"id": "http://jlrevilla.micro.blog/2022/07/05/how-is-it.html",
 				
 				"content_html": "<p>How is it that I just today found out about this song…\n<a href=\"https://m.youtube.com/watch?v=k1BneeJTDcU\">Welcome to the internet</a></p>\n",
