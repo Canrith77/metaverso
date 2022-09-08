@@ -7,10 +7,58 @@
 	"items": [
 		
 			{
+				"id": "http://jlrevilla.micro.blog/2022/09/08/no-importa-de.html",
+				
+				"content_html": "<p>No importa de qué lado de la discusión sobre la monarquía estén, nadie podrá negar que la más perfecta definición de lo que es ser un monarca ha sido Elizabeth II</p>\n",
+				"content_text": "No importa de qué lado de la discusión sobre la monarquía estén, nadie podrá negar que la más perfecta definición de lo que es ser un monarca ha sido Elizabeth II\n",
+				"date_published": "2022-09-08T17:17:08+02:00",
+				"url": "https://revilla.pe/2022/09/08/no-importa-de.html"
+			},
+			{
+				"id": "http://jlrevilla.micro.blog/2022/09/06/acaba-de-llegar.html",
+				
+				"content_html": "<p>Acaba de llegar mi nuevo Kobo Clara y ahora si puedo decir que no tengo ya ningún dispositivo de Amazon en mi vida</p>\n",
+				"content_text": "Acaba de llegar mi nuevo Kobo Clara y ahora si puedo decir que no tengo ya ningún dispositivo de Amazon en mi vida\n",
+				"date_published": "2022-09-06T13:28:31+02:00",
+				"url": "https://revilla.pe/2022/09/06/acaba-de-llegar.html"
+			},
+			{
+				"id": "http://jlrevilla.micro.blog/2022/09/05/en-un-mundo.html",
+				
+				"content_html": "<p>En un mundo cercano donde el AI está por todos lados, la habilidad de decirle a ese AI qué hacer con las palabras adecuadas (al estilo de usar las palabras adecuadas en una búsqueda de internet) va a ser un talento.</p>\n",
+				"content_text": "En un mundo cercano donde el AI está por todos lados, la habilidad de decirle a ese AI qué hacer con las palabras adecuadas (al estilo de usar las palabras adecuadas en una búsqueda de internet) va a ser un talento.\n",
+				"date_published": "2022-09-05T19:23:34+02:00",
+				"url": "https://revilla.pe/2022/09/05/en-un-mundo.html"
+			},
+			{
+				"id": "http://jlrevilla.micro.blog/2022/09/02/todo-pasa.html",
+				
+				"content_html": "<p>Todo pasa</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Todo pasa\n\n<img src=\"uploads/2022/b964c1a184.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-09-02T16:06:18+02:00",
+				"url": "https://revilla.pe/2022/09/02/todo-pasa.html"
+			},
+			{
+				"id": "http://jlrevilla.micro.blog/2022/09/01/a-largo-plazo.html",
+				"title": "A largo plazo",
+				"content_html": "<p>Cuando compré mi primer coche hace unos 20 años tuve la suerte de toparme con un vendedor honesto que, a diferencia de otros con los que hablé, me recomendó cómo ahorrar dinero en lugar cómo de gastar más.</p>\n<p>En estos 20 años no solo le compré nuevamente a él cuando renovaba coche, sino que fue a él también a quien le vendí los coches usados que yo iba a dejar, sabiendo que él luego los vendería a mejor precio ganando algo pero con contactos y tiempo que yo no tenía.</p>\n<p>No sabría calcular cuánto dinero ha ganado conmigo en todo este tiempo, pero estoy seguro que es mucho más que los USD 1000 ó 1500 que los otros vendedores me querían sacar en accesorios en esa primera compra.</p>\n",
+				"content_text": "Cuando compré mi primer coche hace unos 20 años tuve la suerte de toparme con un vendedor honesto que, a diferencia de otros con los que hablé, me recomendó cómo ahorrar dinero en lugar cómo de gastar más.\n\nEn estos 20 años no solo le compré nuevamente a él cuando renovaba coche, sino que fue a él también a quien le vendí los coches usados que yo iba a dejar, sabiendo que él luego los vendería a mejor precio ganando algo pero con contactos y tiempo que yo no tenía.\n\nNo sabría calcular cuánto dinero ha ganado conmigo en todo este tiempo, pero estoy seguro que es mucho más que los USD 1000 ó 1500 que los otros vendedores me querían sacar en accesorios en esa primera compra. \n",
+				"date_published": "2022-09-01T16:29:44+02:00",
+				"url": "https://revilla.pe/2022/09/01/a-largo-plazo.html"
+			},
+			{
+				"id": "http://jlrevilla.micro.blog/2022/08/31/no-importa-en.html",
+				
+				"content_html": "<p>No importa en qué país del mundo vivas, las abuelas guardarán las agujas e hilos para coser en estas latas de galletas</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "No importa en qué país del mundo vivas, las abuelas guardarán las agujas e hilos para coser en estas latas de galletas\n\n<img src=\"https://revilla.pe/uploads/2022/cec6a08941.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-08-31T22:10:05+02:00",
+				"url": "https://revilla.pe/2022/08/31/no-importa-en.html"
+			},
+			{
 				"id": "http://jlrevilla.micro.blog/2022/08/29/estamos-listos.html",
 				
 				"content_html": "<p>Estamos listos…</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Estamos listos…\n\n<img src=\"uploads/2022/1855b021b0.jpg\" width=\"533\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Estamos listos…\n\n<img src=\"https://revilla.pe/uploads/2022/1855b021b0.jpg\" width=\"533\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-08-29T13:01:37+02:00",
 				"url": "https://revilla.pe/2022/08/29/estamos-listos.html"
 			},
@@ -26,7 +74,7 @@
 				"id": "http://jlrevilla.micro.blog/2022/08/27/de-paseo-por.html",
 				
 				"content_html": "<p>De paseo por Gotham</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "De paseo por Gotham\n\n<img src=\"uploads/2022/5a88935605.jpg\" width=\"362\" height=\"600\" alt=\"\" />\n",
+				"content_text": "De paseo por Gotham\n\n<img src=\"https://revilla.pe/uploads/2022/5a88935605.jpg\" width=\"362\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-08-27T18:19:41+02:00",
 				"url": "https://revilla.pe/2022/08/27/de-paseo-por.html"
 			},
