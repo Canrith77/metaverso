@@ -7,6 +7,30 @@
 	"items": [
 		
 			{
+				"id": "http://jlrevilla.micro.blog/2022/09/20/le-he-agarrado.html",
+				
+				"content_html": "<p>Le he agarrado mucho cariño a los trenes</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Le he agarrado mucho cariño a los trenes\n\n<img src=\"uploads/2022/3eedd56384.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"date_published": "2022-09-20T11:17:26+02:00",
+				"url": "https://revilla.pe/2022/09/20/le-he-agarrado.html"
+			},
+			{
+				"id": "http://jlrevilla.micro.blog/2022/09/18/redefiniendo-lo-que.html",
+				
+				"content_html": "<p>Redefiniendo lo que es la inteligencia para un mundo moderno</p>\n<p><a href=\"https://www.noemamag.com/rethinking-intelligence-in-a-more-than-human-world\">www.noemamag.com/rethinkin&hellip;</a></p>\n",
+				"content_text": "Redefiniendo lo que es la inteligencia para un mundo moderno\n\n[www.noemamag.com/rethinkin...](https://www.noemamag.com/rethinking-intelligence-in-a-more-than-human-world)\n",
+				"date_published": "2022-09-18T12:36:24+02:00",
+				"url": "https://revilla.pe/2022/09/18/redefiniendo-lo-que.html"
+			},
+			{
+				"id": "http://jlrevilla.micro.blog/2022/09/16/oktoberfest-en-madrid.html",
+				
+				"content_html": "<p>Oktoberfest en Madrid</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Oktoberfest en Madrid\n\n<img src=\"uploads/2022/39c0647b44.jpg\" width=\"531\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-09-16T20:20:16+02:00",
+				"url": "https://revilla.pe/2022/09/16/oktoberfest-en-madrid.html"
+			},
+			{
 				"id": "http://jlrevilla.micro.blog/2022/09/16/por-un-lado.html",
 				
 				"content_html": "<p>Por un lado está Neal Stephenson 😀 por otro lado, está el tío de bitcoin 🙈</p>\n<p><a href=\"https://www.wired.com/story/plaintext-neal-stephenson-named-the-metaverse-now-hes-building-it/\">www.wired.com/story/pla&hellip;</a></p>\n",
