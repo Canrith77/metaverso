@@ -7,6 +7,30 @@
 	"items": [
 		
 			{
+				"id": "http://jlrevilla.micro.blog/2022/11/28/just-in-case.html",
+				"title": "Just in case",
+				"content_html": "<p>A few years ago:\nWife: I don’t want to go to Mexico City because there have earthquakes.\nMe: I mean, come on, what are the odds there’s an earthquake in the few days we’ll be there.\n(Earthquake happens)</p>\n<p>A few weeks ago:\nWife: I don’t want to go to that concert because it’s below ground and what if there’s a fire.\nMe: I mean, come on, there’s not going to be a fire, those guys surely take al the precautions and they’re professionals.\n(There was a fire)</p>\n<p>Today:\nWife: I don’t want to South America for the holidays, what if we have our passports stolen and we can’t get back.\nMe: I mean… wait… ok let me cancel that trip…</p>\n",
+				"content_text": "A few years ago:\nWife: I don’t want to go to Mexico City because there have earthquakes.\nMe: I mean, come on, what are the odds there’s an earthquake in the few days we’ll be there.\n(Earthquake happens)\n\nA few weeks ago:\nWife: I don’t want to go to that concert because it’s below ground and what if there’s a fire.\nMe: I mean, come on, there’s not going to be a fire, those guys surely take al the precautions and they’re professionals.\n(There was a fire)\n\nToday:\nWife: I don’t want to South America for the holidays, what if we have our passports stolen and we can’t get back.\nMe: I mean… wait… ok let me cancel that trip…\n",
+				"date_published": "2022-11-28T15:16:46+01:00",
+				"url": "https://blog.canrith.eu/2022/11/28/just-in-case.html"
+			},
+			{
+				"id": "http://jlrevilla.micro.blog/2022/11/27/autumn-at-jardn.html",
+				
+				"content_html": "<p>Autumn at Jardín del Príncipe in Aranjuez</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Autumn at Jardín del Príncipe in Aranjuez\n\n<img src=\"uploads/2022/78b152537f.jpg\" width=\"598\" height=\"600\" alt=\"\">\n",
+				"date_published": "2022-11-27T19:38:09+01:00",
+				"url": "https://blog.canrith.eu/2022/11/27/autumn-at-jardn.html"
+			},
+			{
+				"id": "http://jlrevilla.micro.blog/2022/11/27/interesting-article-don.html",
+				
+				"content_html": "<p>Interesting article: <a href=\"https://tedgioia.substack.com/p/don-quixote-tells-us-how-the-star\">Don Quixote tells us how Star Wars ends</a></p>\n",
+				"content_text": "Interesting article: [Don Quixote tells us how Star Wars ends](https://tedgioia.substack.com/p/don-quixote-tells-us-how-the-star)\n",
+				"date_published": "2022-11-27T12:11:00+01:00",
+				"url": "https://blog.canrith.eu/2022/11/27/interesting-article-don.html"
+			},
+			{
 				"id": "http://jlrevilla.micro.blog/2022/11/20/qatar-is-going.html",
 				
 				"content_html": "<p>Qatar is going great…</p>\n<p><a href=\"https://defector.com/gianni-infantino-loses-his-grip-on-the-world-cup/\">defector.com/gianni-in&hellip;</a></p>\n",
