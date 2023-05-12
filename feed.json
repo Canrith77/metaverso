@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://jlrevilla.micro.blog/2023/05/12/un-excelente-da.html",
+				
+				"content_html": "<p>Un excelente día se merecía un gran atardecer</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Un excelente día se merecía un gran atardecer\n\n<img src=\"uploads/2023/94d6d0f447.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2023-05-12T13:29:09+02:00",
+				"url": "https://canrith.eu/2023/05/12/un-excelente-da.html"
+			},
+			{
+				"id": "http://jlrevilla.micro.blog/2023/05/10/segovia-no-es.html",
+				
+				"content_html": "<p>Segovia no es solamente un acueducto romano</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Segovia no es solamente un acueducto romano\n\n<img src=\"uploads/2023/ce2311a010.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-05-10T23:52:07+02:00",
+				"url": "https://canrith.eu/2023/05/10/segovia-no-es.html"
+			},
+			{
 				"id": "http://jlrevilla.micro.blog/2023/04/30/granada.html",
 				
 				"content_html": "<p>Granada</p>\n<!-- raw HTML omitted -->\n",
@@ -42,7 +58,7 @@
 				"id": "http://jlrevilla.micro.blog/2023/04/09/consuegra.html",
 				
 				"content_html": "<p>Consuegra</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Consuegra\n\n<img src=\"uploads/2023/f3e0781793.jpg\" width=\"600\" height=\"313\" alt=\"\"><img src=\"uploads/2023/4abc4e1287.jpg\" width=\"600\" height=\"435\" alt=\"\"><img src=\"uploads/2023/ed0d3a47d5.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Consuegra\n\n<img src=\"https://cdn.uploads.micro.blog/47617/2023/f3e0781793.jpg\" width=\"600\" height=\"313\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/47617/2023/4abc4e1287.jpg\" width=\"600\" height=\"435\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/47617/2023/ed0d3a47d5.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-04-09T11:25:17+02:00",
 				"url": "https://canrith.eu/2023/04/09/consuegra.html"
 			},
@@ -50,7 +66,7 @@
 				"id": "http://jlrevilla.micro.blog/2023/04/08/en-el-centro.html",
 				
 				"content_html": "<p>En el centro de Málaga, como en todo España estos días</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "En el centro de Málaga, como en todo España estos días\n\n<img src=\"uploads/2023/34228fbb7f.jpg\" width=\"600\" height=\"559\" alt=\"\">\n",
+				"content_text": "En el centro de Málaga, como en todo España estos días\n\n<img src=\"https://cdn.uploads.micro.blog/47617/2023/34228fbb7f.jpg\" width=\"600\" height=\"559\" alt=\"\">\n",
 				"date_published": "2023-04-08T08:50:14+02:00",
 				"url": "https://canrith.eu/2023/04/08/en-el-centro.html"
 			},
@@ -58,7 +74,7 @@
 				"id": "http://jlrevilla.micro.blog/2023/04/06/si-algn-da.html",
 				
 				"content_html": "<p>Si algún día coincidimos\n<!-- raw HTML omitted --></p>\n",
-				"content_text": "Si algún día coincidimos\n<img src=\"uploads/2022/78b152537f.jpg\" width=\"598\" height=\"600\" alt=\"\">\n",
+				"content_text": "Si algún día coincidimos\n<img src=\"https://cdn.uploads.micro.blog/47617/2022/78b152537f.jpg\" width=\"598\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-04-06T20:38:00+02:00",
 				"url": "https://canrith.eu/2023/04/06/si-algn-da.html"
 			},
@@ -66,7 +82,7 @@
 				"id": "http://jlrevilla.micro.blog/2023/04/06/tranquilo-en-marbella.html",
 				
 				"content_html": "<p>Tranquilo en Marbella&hellip;</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Tranquilo en Marbella...\n\n<img src=\"uploads/2023/51bc7661fd.jpg\" width=\"600\" height=\"285\" alt=\"\">\n",
+				"content_text": "Tranquilo en Marbella...\n\n<img src=\"https://cdn.uploads.micro.blog/47617/2023/51bc7661fd.jpg\" width=\"600\" height=\"285\" alt=\"\">\n",
 				"date_published": "2023-04-06T14:57:22+02:00",
 				"url": "https://canrith.eu/2023/04/06/tranquilo-en-marbella.html"
 			},
@@ -74,7 +90,7 @@
 				"id": "http://jlrevilla.micro.blog/2023/04/05/paseando-por-naboo.html",
 				
 				"content_html": "<p>Paseando por Naboo&hellip; digo, Sevilla</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Paseando por Naboo... digo, Sevilla\n\n<img src=\"uploads/2023/d7757f54b1.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2023/ce3e45c45f.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2023/84941a462b.jpg\" width=\"600\" height=\"496\" alt=\"\"><img src=\"uploads/2023/996eea46f5.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Paseando por Naboo... digo, Sevilla\n\n<img src=\"https://cdn.uploads.micro.blog/47617/2023/d7757f54b1.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/47617/2023/ce3e45c45f.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/47617/2023/84941a462b.jpg\" width=\"600\" height=\"496\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/47617/2023/996eea46f5.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-04-05T08:44:32+02:00",
 				"url": "https://canrith.eu/2023/04/05/paseando-por-naboo.html"
 			},
@@ -90,7 +106,7 @@
 				"id": "http://jlrevilla.micro.blog/2023/04/03/roman-mrida.html",
 				
 				"content_html": "<p>Roman Mérida</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Roman Mérida\n\n<img src=\"uploads/2023/197a95bf72.jpg\" width=\"600\" height=\"442\" alt=\"\"><img src=\"uploads/2023/8a4cdd6431.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2023/ab813ec587.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Roman Mérida\n\n<img src=\"https://cdn.uploads.micro.blog/47617/2023/197a95bf72.jpg\" width=\"600\" height=\"442\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/47617/2023/8a4cdd6431.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/47617/2023/ab813ec587.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-04-03T18:17:05+02:00",
 				"url": "https://canrith.eu/2023/04/03/roman-mrida.html"
 			},
@@ -98,7 +114,7 @@
 				"id": "http://jlrevilla.micro.blog/2023/04/02/ms-del-domingo.html",
 				
 				"content_html": "<p>Más del Domingo de Ramos</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Más del Domingo de Ramos\n\n<img src=\"uploads/2023/9517bbf8b2.jpg\" width=\"600\" height=\"480\" alt=\"\"><img src=\"uploads/2023/f7ca1d374e.jpg\" width=\"442\" height=\"600\" alt=\"\"><img src=\"uploads/2023/3f1e655c42.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2023/ad8eebed16.jpg\" width=\"376\" height=\"600\" alt=\"\">\n",
+				"content_text": "Más del Domingo de Ramos\n\n<img src=\"https://cdn.uploads.micro.blog/47617/2023/9517bbf8b2.jpg\" width=\"600\" height=\"480\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/47617/2023/f7ca1d374e.jpg\" width=\"442\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/47617/2023/3f1e655c42.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/47617/2023/ad8eebed16.jpg\" width=\"376\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-04-02T20:28:08+02:00",
 				"url": "https://canrith.eu/2023/04/02/ms-del-domingo.html"
 			},
@@ -106,7 +122,7 @@
 				"id": "http://jlrevilla.micro.blog/2023/04/02/domingo-de-ramos.html",
 				
 				"content_html": "<p>Domingo de Ramos</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Domingo de Ramos\n\n<img src=\"uploads/2023/1e9281b63a.jpg\" width=\"600\" height=\"581\" alt=\"\"><img src=\"uploads/2023/be69340f80.jpg\" width=\"558\" height=\"600\" alt=\"\"><img src=\"uploads/2023/f2769889ba.jpg\" width=\"600\" height=\"460\" alt=\"\">\n",
+				"content_text": "Domingo de Ramos\n\n<img src=\"https://cdn.uploads.micro.blog/47617/2023/1e9281b63a.jpg\" width=\"600\" height=\"581\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/47617/2023/be69340f80.jpg\" width=\"558\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/47617/2023/f2769889ba.jpg\" width=\"600\" height=\"460\" alt=\"\">\n",
 				"date_published": "2023-04-02T19:44:35+02:00",
 				"url": "https://canrith.eu/2023/04/02/domingo-de-ramos.html"
 			},
@@ -122,7 +138,7 @@
 				"id": "http://jlrevilla.micro.blog/2023/03/25/impresionante-el-haas.html",
 				
 				"content_html": "<p>Impresionante el Haas de Romain Grosjean en la exhibición de Fórmula 1 en Madrid</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Impresionante el Haas de Romain Grosjean en la exhibición de Fórmula 1 en Madrid\n\n<img src=\"uploads/2023/1e02c1da54.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Impresionante el Haas de Romain Grosjean en la exhibición de Fórmula 1 en Madrid\n\n<img src=\"https://cdn.uploads.micro.blog/47617/2023/1e02c1da54.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-03-25T16:16:58+02:00",
 				"url": "https://canrith.eu/2023/03/25/impresionante-el-haas.html"
 			},
@@ -130,7 +146,7 @@
 				"id": "http://jlrevilla.micro.blog/2023/03/25/la-cerveza-que.html",
 				
 				"content_html": "<p>La cerveza que sabe a venganza, desesperanza y oscuridad&hellip;</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "La cerveza que sabe a venganza, desesperanza y oscuridad...\n\n<img src=\"uploads/2023/3db6ec3d8f.jpg\" width=\"511\" height=\"600\" alt=\"\">\n",
+				"content_text": "La cerveza que sabe a venganza, desesperanza y oscuridad...\n\n<img src=\"https://cdn.uploads.micro.blog/47617/2023/3db6ec3d8f.jpg\" width=\"511\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-03-25T16:15:08+02:00",
 				"url": "https://canrith.eu/2023/03/25/la-cerveza-que.html"
 			},
@@ -154,7 +170,7 @@
 				"id": "http://jlrevilla.micro.blog/2023/03/01/encontr-una-exposicin.html",
 				
 				"content_html": "<p>Encontré una exposición de Star Wars en Fuenlabrada</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Encontré una exposición de Star Wars en Fuenlabrada\n\n<img src=\"uploads/2023/7312484662.jpg\" width=\"600\" height=\"598\" alt=\"\">\n",
+				"content_text": "Encontré una exposición de Star Wars en Fuenlabrada\n\n<img src=\"https://cdn.uploads.micro.blog/47617/2023/7312484662.jpg\" width=\"600\" height=\"598\" alt=\"\">\n",
 				"date_published": "2023-03-01T23:34:42+02:00",
 				"url": "https://canrith.eu/2023/03/01/encontr-una-exposicin.html"
 			},
@@ -178,7 +194,7 @@
 				"id": "http://jlrevilla.micro.blog/2023/02/07/madrid-and-manzanares.html",
 				
 				"content_html": "<p>Madrid and Manzanares el Real</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Madrid and Manzanares el Real\n\n<img src=\"uploads/2023/2812e093e8.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2023/6bc5d91977.jpg\" width=\"600\" height=\"445\" alt=\"\">\n",
+				"content_text": "Madrid and Manzanares el Real\n\n<img src=\"https://cdn.uploads.micro.blog/47617/2023/2812e093e8.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/47617/2023/6bc5d91977.jpg\" width=\"600\" height=\"445\" alt=\"\">\n",
 				"date_published": "2023-02-07T17:14:22+02:00",
 				"url": "https://canrith.eu/2023/02/07/madrid-and-manzanares.html"
 			},
@@ -194,7 +210,7 @@
 				"id": "http://jlrevilla.micro.blog/2023/01/28/colores-en-la.html",
 				
 				"content_html": "<p>Colores en la casa de Cervantes</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Colores en la casa de Cervantes\n\n<img src=\"uploads/2023/a834dff6f8.jpg\" width=\"600\" height=\"379\" alt=\"\">\n",
+				"content_text": "Colores en la casa de Cervantes\n\n<img src=\"https://cdn.uploads.micro.blog/47617/2023/a834dff6f8.jpg\" width=\"600\" height=\"379\" alt=\"\">\n",
 				"date_published": "2023-01-28T15:29:47+02:00",
 				"url": "https://canrith.eu/2023/01/28/colores-en-la.html"
 			},
@@ -202,7 +218,7 @@
 				"id": "http://jlrevilla.micro.blog/2023/01/28/un-paseo-por.html",
 				
 				"content_html": "<p>Un paseo por Alcalá de Henares</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Un paseo por Alcalá de Henares\n\n<img src=\"uploads/2023/f5ad59f7f2.jpg\" width=\"600\" height=\"418\" alt=\"\">\n",
+				"content_text": "Un paseo por Alcalá de Henares\n\n<img src=\"https://cdn.uploads.micro.blog/47617/2023/f5ad59f7f2.jpg\" width=\"600\" height=\"418\" alt=\"\">\n",
 				"date_published": "2023-01-28T14:56:01+02:00",
 				"url": "https://canrith.eu/2023/01/28/un-paseo-por.html"
 			},
@@ -210,7 +226,7 @@
 				"id": "http://jlrevilla.micro.blog/2023/01/22/el-da-de.html",
 				
 				"content_html": "<p>El día de ayer estuve en el espectáculo “Wah! Madrid” y hace mucho tiempo que no asistía a un show tan increíble.<br>\nLa experiencia consta de tres partes, una sección gastronómica, el show en sí, y un after-party. Definitivamente es el show lo que vale la pena, que la comida es pequeña y costosa 😅… pero realmente lo vale.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "El día de ayer estuve en el espectáculo “Wah! Madrid” y hace mucho tiempo que no asistía a un show tan increíble.  \nLa experiencia consta de tres partes, una sección gastronómica, el show en sí, y un after-party. Definitivamente es el show lo que vale la pena, que la comida es pequeña y costosa 😅… pero realmente lo vale.\n\n<img src=\"uploads/2023/de1172fbf7.jpg\" width=\"600\" height=\"353\" alt=\"\">\n",
+				"content_text": "El día de ayer estuve en el espectáculo “Wah! Madrid” y hace mucho tiempo que no asistía a un show tan increíble.  \nLa experiencia consta de tres partes, una sección gastronómica, el show en sí, y un after-party. Definitivamente es el show lo que vale la pena, que la comida es pequeña y costosa 😅… pero realmente lo vale.\n\n<img src=\"https://cdn.uploads.micro.blog/47617/2023/de1172fbf7.jpg\" width=\"600\" height=\"353\" alt=\"\">\n",
 				"date_published": "2023-01-22T11:55:56+02:00",
 				"url": "https://canrith.eu/2023/01/22/el-da-de.html"
 			},
@@ -218,7 +234,7 @@
 				"id": "http://jlrevilla.micro.blog/2023/01/21/cibeles.html",
 				
 				"content_html": "<p>Cibeles</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Cibeles\n\n<img src=\"uploads/2023/b848eed3b0.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Cibeles\n\n<img src=\"https://cdn.uploads.micro.blog/47617/2023/b848eed3b0.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-01-21T01:15:55+02:00",
 				"url": "https://canrith.eu/2023/01/21/cibeles.html"
 			},
@@ -226,7 +242,7 @@
 				"id": "http://jlrevilla.micro.blog/2023/01/13/esos-viejos-cassettes.html",
 				
 				"content_html": "<p>Esos viejos cassettes no se van a escuchar solos…</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Esos viejos cassettes no se van a escuchar solos…\n\n<img src=\"uploads/2023/dbe4a9d175.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Esos viejos cassettes no se van a escuchar solos…\n\n<img src=\"https://cdn.uploads.micro.blog/47617/2023/dbe4a9d175.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-01-13T21:43:13+02:00",
 				"url": "https://canrith.eu/2023/01/13/esos-viejos-cassettes.html"
 			},
@@ -234,7 +250,7 @@
 				"id": "http://jlrevilla.micro.blog/2023/01/03/san-manuel-y.html",
 				
 				"content_html": "<p>San Manuel y San Benito</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "San Manuel y San Benito\n\n<img src=\"uploads/2023/d674c54cc1.jpg\" width=\"518\" height=\"600\" alt=\"\">\n",
+				"content_text": "San Manuel y San Benito\n\n<img src=\"https://cdn.uploads.micro.blog/47617/2023/d674c54cc1.jpg\" width=\"518\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-01-03T22:19:41+02:00",
 				"url": "https://canrith.eu/2023/01/03/san-manuel-y.html"
 			},
@@ -242,7 +258,7 @@
 				"id": "http://jlrevilla.micro.blog/2022/12/28/yo-regresando-a.html",
 				
 				"content_html": "<p>Yo, regresando a casa luego de mis “vacaciones”…</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Yo, regresando a casa luego de mis “vacaciones”…\n\n<img src=\"uploads/2022/679a860aad.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"content_text": "Yo, regresando a casa luego de mis “vacaciones”…\n\n<img src=\"https://cdn.uploads.micro.blog/47617/2022/679a860aad.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
 				"date_published": "2022-12-29T03:07:02+02:00",
 				"url": "https://canrith.eu/2022/12/28/yo-regresando-a.html"
 			},
@@ -250,7 +266,7 @@
 				"id": "http://jlrevilla.micro.blog/2022/12/27/jugando-con-el.html",
 				
 				"content_html": "<p>Jugando con el AI de Lensa para generar personajes de aventura en base a mi selfie 😅</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Jugando con el AI de Lensa para generar personajes de aventura en base a mi selfie 😅\n\n<img src=\"uploads/2022/ba13370921.jpg\" width=\"600\" height=\"600\" alt=\"\"><img src=\"uploads/2022/5176b4e5ee.jpg\" width=\"600\" height=\"600\" alt=\"\"><img src=\"uploads/2022/ff8b4c7a37.jpg\" width=\"600\" height=\"600\" alt=\"\"><img src=\"uploads/2022/fecde865ae.jpg\" width=\"600\" height=\"600\" alt=\"\"><img src=\"uploads/2022/aa9417dfa1.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "Jugando con el AI de Lensa para generar personajes de aventura en base a mi selfie 😅\n\n<img src=\"https://cdn.uploads.micro.blog/47617/2022/ba13370921.jpg\" width=\"600\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/47617/2022/5176b4e5ee.jpg\" width=\"600\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/47617/2022/ff8b4c7a37.jpg\" width=\"600\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/47617/2022/fecde865ae.jpg\" width=\"600\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/47617/2022/aa9417dfa1.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2022-12-27T18:01:43+02:00",
 				"url": "https://canrith.eu/2022/12/27/jugando-con-el.html"
 			},
@@ -266,7 +282,7 @@
 				"id": "http://jlrevilla.micro.blog/2022/12/22/cuando-le-das.html",
 				
 				"content_html": "<p>Cuando le das al AI el prompt “Lima, Cyberpunk”</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Cuando le das al AI el prompt “Lima, Cyberpunk”\n\n<img src=\"uploads/2022/4eb8e25779.jpg\" width=\"480\" height=\"600\" alt=\"\">\n",
+				"content_text": "Cuando le das al AI el prompt “Lima, Cyberpunk”\n\n<img src=\"https://cdn.uploads.micro.blog/47617/2022/4eb8e25779.jpg\" width=\"480\" height=\"600\" alt=\"\">\n",
 				"date_published": "2022-12-22T17:24:33+02:00",
 				"url": "https://canrith.eu/2022/12/22/cuando-le-das.html"
 			},
@@ -274,7 +290,7 @@
 				"id": "http://jlrevilla.micro.blog/2022/12/20/galleta-de-la.html",
 				
 				"content_html": "<p>Galleta de la fortuna</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Galleta de la fortuna\n\n<img src=\"uploads/2022/6509b044fe.jpg\" width=\"600\" height=\"589\" alt=\"\">\n",
+				"content_text": "Galleta de la fortuna\n\n<img src=\"https://cdn.uploads.micro.blog/47617/2022/6509b044fe.jpg\" width=\"600\" height=\"589\" alt=\"\">\n",
 				"date_published": "2022-12-20T03:06:29+02:00",
 				"url": "https://canrith.eu/2022/12/20/galleta-de-la.html"
 			},
@@ -290,7 +306,7 @@
 				"id": "http://jlrevilla.micro.blog/2022/12/13/nuevamente-en-cintas.html",
 				"title": "Nuevamente en cintas",
 				"content_html": "<p>Hace unas semanas llegué a la conclusión de que no quería seguir apoyando a Spotify, esto luego de <a href=\"https://pluralistic.net/2022/09/12/streaming-doesnt-pay/#stunt-publishing\">leer sobre su modelo de negocio</a> en el último libro de Cory Doctorow.<br>\nEmpecé entonces una búsqueda de una nueva plataforma de música, que opciones hay muchas, pero me topaba siempre con modelos similares o con restricciones regionales u otros problemas.<br>\nEn ese momento me di cuenta de algo: Mi patrón de uso en música no es de descubrimiento. Realmente yo lo que tengo son unos cuantos playlists que escucho de manera repetida y continua. ¿Necesito realmente millones de canciones a mi disposición? Pues no.<br>\nSeguí entonces con mi línea de pensamiento y está inevitablemente me llevaba a un dispositivo portátil con la capacidad de grabar canciones. Algo así como un MP3 Player, un iPod original, un Zune… lamentablemente no tengo ninguno de esos. ¿Qué podía ser entonces?<br>\nRevisé cajones y cajas hasta que algo saltó a la vista. Mi viejo Walkman de Sony comprado en los 90s, tan indestructible como los celulares de Nokia de antaño. ¿Locura o genialidad?<br>\nPues para acortar la historia les puedo decir que no solo estoy ahora feliz escuchando música en cassettes, y otro día hablaremos de la experiencia tan distinta que representa hacerlo de forma lineal sin la capacidad de saltar de un lado a otro, sino que además he descubierto que existe una comunidad activa de compra/venta de cassettes y dispositivos relacionados.<br>\n¿Siguiente paso? Grabar un nuevo mixtape cómo hacía hace tanto años.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Hace unas semanas llegué a la conclusión de que no quería seguir apoyando a Spotify, esto luego de [leer sobre su modelo de negocio](https://pluralistic.net/2022/09/12/streaming-doesnt-pay/#stunt-publishing) en el último libro de Cory Doctorow.  \nEmpecé entonces una búsqueda de una nueva plataforma de música, que opciones hay muchas, pero me topaba siempre con modelos similares o con restricciones regionales u otros problemas.  \nEn ese momento me di cuenta de algo: Mi patrón de uso en música no es de descubrimiento. Realmente yo lo que tengo son unos cuantos playlists que escucho de manera repetida y continua. ¿Necesito realmente millones de canciones a mi disposición? Pues no.  \nSeguí entonces con mi línea de pensamiento y está inevitablemente me llevaba a un dispositivo portátil con la capacidad de grabar canciones. Algo así como un MP3 Player, un iPod original, un Zune… lamentablemente no tengo ninguno de esos. ¿Qué podía ser entonces?  \nRevisé cajones y cajas hasta que algo saltó a la vista. Mi viejo Walkman de Sony comprado en los 90s, tan indestructible como los celulares de Nokia de antaño. ¿Locura o genialidad?  \nPues para acortar la historia les puedo decir que no solo estoy ahora feliz escuchando música en cassettes, y otro día hablaremos de la experiencia tan distinta que representa hacerlo de forma lineal sin la capacidad de saltar de un lado a otro, sino que además he descubierto que existe una comunidad activa de compra/venta de cassettes y dispositivos relacionados.  \n¿Siguiente paso? Grabar un nuevo mixtape cómo hacía hace tanto años.  \n\n<img src=\"uploads/2022/79b0e5ad33.jpg\" width=\"457\" height=\"600\" alt=\"\">\n",
+				"content_text": "Hace unas semanas llegué a la conclusión de que no quería seguir apoyando a Spotify, esto luego de [leer sobre su modelo de negocio](https://pluralistic.net/2022/09/12/streaming-doesnt-pay/#stunt-publishing) en el último libro de Cory Doctorow.  \nEmpecé entonces una búsqueda de una nueva plataforma de música, que opciones hay muchas, pero me topaba siempre con modelos similares o con restricciones regionales u otros problemas.  \nEn ese momento me di cuenta de algo: Mi patrón de uso en música no es de descubrimiento. Realmente yo lo que tengo son unos cuantos playlists que escucho de manera repetida y continua. ¿Necesito realmente millones de canciones a mi disposición? Pues no.  \nSeguí entonces con mi línea de pensamiento y está inevitablemente me llevaba a un dispositivo portátil con la capacidad de grabar canciones. Algo así como un MP3 Player, un iPod original, un Zune… lamentablemente no tengo ninguno de esos. ¿Qué podía ser entonces?  \nRevisé cajones y cajas hasta que algo saltó a la vista. Mi viejo Walkman de Sony comprado en los 90s, tan indestructible como los celulares de Nokia de antaño. ¿Locura o genialidad?  \nPues para acortar la historia les puedo decir que no solo estoy ahora feliz escuchando música en cassettes, y otro día hablaremos de la experiencia tan distinta que representa hacerlo de forma lineal sin la capacidad de saltar de un lado a otro, sino que además he descubierto que existe una comunidad activa de compra/venta de cassettes y dispositivos relacionados.  \n¿Siguiente paso? Grabar un nuevo mixtape cómo hacía hace tanto años.  \n\n<img src=\"https://cdn.uploads.micro.blog/47617/2022/79b0e5ad33.jpg\" width=\"457\" height=\"600\" alt=\"\">\n",
 				"date_published": "2022-12-13T17:21:49+02:00",
 				"url": "https://canrith.eu/2022/12/13/nuevamente-en-cintas.html"
 			},
@@ -298,7 +314,7 @@
 				"id": "http://jlrevilla.micro.blog/2022/12/11/navidades-en-madrid.html",
 				
 				"content_html": "<p>Navidades en Madrid</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Navidades en Madrid\n\n<img src=\"uploads/2022/f3ee84dfb5.jpg\" width=\"600\" height=\"377\" alt=\"\"><img src=\"uploads/2022/5a0cd24cd4.jpg\" width=\"600\" height=\"466\" alt=\"\"><img src=\"uploads/2022/f806afbf53.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2022/972a595f70.jpg\" width=\"600\" height=\"318\" alt=\"\"><img src=\"uploads/2022/fa13bb7c82.jpg\" width=\"600\" height=\"275\" alt=\"\"><img src=\"uploads/2022/aa512f0641.jpg\" width=\"600\" height=\"418\" alt=\"\">\n",
+				"content_text": "Navidades en Madrid\n\n<img src=\"https://cdn.uploads.micro.blog/47617/2022/f3ee84dfb5.jpg\" width=\"600\" height=\"377\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/47617/2022/5a0cd24cd4.jpg\" width=\"600\" height=\"466\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/47617/2022/f806afbf53.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/47617/2022/972a595f70.jpg\" width=\"600\" height=\"318\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/47617/2022/fa13bb7c82.jpg\" width=\"600\" height=\"275\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/47617/2022/aa512f0641.jpg\" width=\"600\" height=\"418\" alt=\"\">\n",
 				"date_published": "2022-12-11T20:27:11+02:00",
 				"url": "https://canrith.eu/2022/12/11/navidades-en-madrid.html"
 			},
@@ -306,7 +322,7 @@
 				"id": "http://jlrevilla.micro.blog/2022/12/08/si-a-alguien.html",
 				
 				"content_html": "<p>Si a alguien le quedaban dudas que ya vivimos en una distopía cyberpunk, les presento los <a href=\"https://www.dyson.com/newsroom/news/product/dyson-zone-announcement\">Dyson Zone</a>.</p>\n<p>Lo peor de todo es que quiero unos.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Si a alguien le quedaban dudas que ya vivimos en una distopía cyberpunk, les presento los [Dyson Zone](https://www.dyson.com/newsroom/news/product/dyson-zone-announcement).  \n\nLo peor de todo es que quiero unos.\n\n<img src=\"uploads/2022/00fe7bf28b.jpg\" width=\"378\" height=\"600\" alt=\"\">\n",
+				"content_text": "Si a alguien le quedaban dudas que ya vivimos en una distopía cyberpunk, les presento los [Dyson Zone](https://www.dyson.com/newsroom/news/product/dyson-zone-announcement).  \n\nLo peor de todo es que quiero unos.\n\n<img src=\"https://cdn.uploads.micro.blog/47617/2022/00fe7bf28b.jpg\" width=\"378\" height=\"600\" alt=\"\">\n",
 				"date_published": "2022-12-08T02:35:58+02:00",
 				"url": "https://canrith.eu/2022/12/08/si-a-alguien.html"
 			},
@@ -322,7 +338,7 @@
 				"id": "http://jlrevilla.micro.blog/2022/12/02/about-to-listen.html",
 				
 				"content_html": "<p>About to listen to some underground music in the literal sense</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "About to listen to some underground music in the literal sense\n\n<img src=\"uploads/2022/a1d76ae988.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "About to listen to some underground music in the literal sense\n\n<img src=\"https://cdn.uploads.micro.blog/47617/2022/a1d76ae988.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2022-12-03T00:49:06+02:00",
 				"url": "https://canrith.eu/2022/12/02/about-to-listen.html"
 			},
@@ -402,7 +418,7 @@
 				"id": "http://jlrevilla.micro.blog/2022/10/23/peruanidad-en-madrid.html",
 				
 				"content_html": "<p>Peruanidad en Madrid</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Peruanidad en Madrid\n\n<img src=\"uploads/2022/b5019d0919.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Peruanidad en Madrid\n\n<img src=\"https://cdn.uploads.micro.blog/47617/2022/b5019d0919.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2022-10-23T18:34:32+02:00",
 				"url": "https://canrith.eu/2022/10/23/peruanidad-en-madrid.html"
 			},
@@ -410,7 +426,7 @@
 				"id": "http://jlrevilla.micro.blog/2022/10/16/la-exposicin-inmersiva.html",
 				
 				"content_html": "<p>La exposición inmersiva de Tim Burton en Madrid</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "La exposición inmersiva de Tim Burton en Madrid\n\n<img src=\"uploads/2022/9febbcd90f.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "La exposición inmersiva de Tim Burton en Madrid\n\n<img src=\"https://cdn.uploads.micro.blog/47617/2022/9febbcd90f.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2022-10-16T17:32:45+02:00",
 				"url": "https://canrith.eu/2022/10/16/la-exposicin-inmersiva.html"
 			},
@@ -458,7 +474,7 @@
 				"id": "http://jlrevilla.micro.blog/2022/10/09/was-celebrating-oktoberfest.html",
 				
 				"content_html": "<p>Was celebrating Oktoberfest in Madrid when we had to evacuate the building because of a small fire. Fortunately every one of the 3500 people got out safe and the incident was controlled. Managed to have a few great beers before we left.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Was celebrating Oktoberfest in Madrid when we had to evacuate the building because of a small fire. Fortunately every one of the 3500 people got out safe and the incident was controlled. Managed to have a few great beers before we left.\n\n<img src=\"uploads/2022/6682f3c57f.jpg\" width=\"600\" height=\"388\" alt=\"\">\n",
+				"content_text": "Was celebrating Oktoberfest in Madrid when we had to evacuate the building because of a small fire. Fortunately every one of the 3500 people got out safe and the incident was controlled. Managed to have a few great beers before we left.\n\n<img src=\"https://cdn.uploads.micro.blog/47617/2022/6682f3c57f.jpg\" width=\"600\" height=\"388\" alt=\"\">\n",
 				"date_published": "2022-10-09T02:47:33+02:00",
 				"url": "https://canrith.eu/2022/10/09/was-celebrating-oktoberfest.html"
 			},
@@ -474,7 +490,7 @@
 				"id": "http://jlrevilla.micro.blog/2022/10/06/listo-para-el.html",
 				
 				"content_html": "<p>Listo para el fin de semana…</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Listo para el fin de semana…\n\n<img src=\"uploads/2022/75108e3e52.jpg\" width=\"566\" height=\"600\" alt=\"\">\n",
+				"content_text": "Listo para el fin de semana…\n\n<img src=\"https://cdn.uploads.micro.blog/47617/2022/75108e3e52.jpg\" width=\"566\" height=\"600\" alt=\"\">\n",
 				"date_published": "2022-10-06T17:56:42+02:00",
 				"url": "https://canrith.eu/2022/10/06/listo-para-el.html"
 			},
@@ -498,7 +514,7 @@
 				"id": "http://jlrevilla.micro.blog/2022/09/30/tenemos-variedad.html",
 				
 				"content_html": "<p>Tenemos variedad</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Tenemos variedad\n\n<img src=\"uploads/2022/75a0bbec31.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Tenemos variedad\n\n<img src=\"https://cdn.uploads.micro.blog/47617/2022/75a0bbec31.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2022-09-30T21:05:32+02:00",
 				"url": "https://canrith.eu/2022/09/30/tenemos-variedad.html"
 			},
@@ -514,7 +530,7 @@
 				"id": "http://jlrevilla.micro.blog/2022/09/24/arte-en-el.html",
 				
 				"content_html": "<p>Arte en el bosque</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Arte en el bosque\n\n<img src=\"uploads/2022/4f7a822b8b.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "Arte en el bosque\n\n<img src=\"https://cdn.uploads.micro.blog/47617/2022/4f7a822b8b.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2022-09-24T15:03:48+02:00",
 				"url": "https://canrith.eu/2022/09/24/arte-en-el.html"
 			},
@@ -522,7 +538,7 @@
 				"id": "http://jlrevilla.micro.blog/2022/09/20/le-he-agarrado.html",
 				
 				"content_html": "<p>Le he agarrado mucho cariño a los trenes</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Le he agarrado mucho cariño a los trenes\n\n<img src=\"uploads/2022/3eedd56384.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "Le he agarrado mucho cariño a los trenes\n\n<img src=\"https://cdn.uploads.micro.blog/47617/2022/3eedd56384.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2022-09-20T11:17:26+02:00",
 				"url": "https://canrith.eu/2022/09/20/le-he-agarrado.html"
 			},
@@ -538,7 +554,7 @@
 				"id": "http://jlrevilla.micro.blog/2022/09/16/oktoberfest-en-madrid.html",
 				
 				"content_html": "<p>Oktoberfest en Madrid</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Oktoberfest en Madrid\n\n<img src=\"uploads/2022/39c0647b44.jpg\" width=\"531\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Oktoberfest en Madrid\n\n<img src=\"https://cdn.uploads.micro.blog/47617/2022/39c0647b44.jpg\" width=\"531\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-09-16T20:20:16+02:00",
 				"url": "https://canrith.eu/2022/09/16/oktoberfest-en-madrid.html"
 			},
@@ -594,7 +610,7 @@
 				"id": "http://jlrevilla.micro.blog/2022/09/02/todo-pasa.html",
 				
 				"content_html": "<p>Todo pasa</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Todo pasa\n\n<img src=\"uploads/2022/b964c1a184.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Todo pasa\n\n<img src=\"https://cdn.uploads.micro.blog/47617/2022/b964c1a184.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-09-02T16:06:18+02:00",
 				"url": "https://canrith.eu/2022/09/02/todo-pasa.html"
 			},
@@ -610,7 +626,7 @@
 				"id": "http://jlrevilla.micro.blog/2022/08/31/no-importa-en.html",
 				
 				"content_html": "<p>No importa en qué país del mundo vivas, las abuelas guardarán las agujas e hilos para coser en estas latas de galletas</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "No importa en qué país del mundo vivas, las abuelas guardarán las agujas e hilos para coser en estas latas de galletas\n\n<img src=\"uploads/2022/cec6a08941.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "No importa en qué país del mundo vivas, las abuelas guardarán las agujas e hilos para coser en estas latas de galletas\n\n<img src=\"https://cdn.uploads.micro.blog/47617/2022/cec6a08941.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-08-31T22:10:05+02:00",
 				"url": "https://canrith.eu/2022/08/31/no-importa-en.html"
 			},
@@ -618,7 +634,7 @@
 				"id": "http://jlrevilla.micro.blog/2022/08/29/estamos-listos.html",
 				
 				"content_html": "<p>Estamos listos…</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Estamos listos…\n\n<img src=\"uploads/2022/1855b021b0.jpg\" width=\"533\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Estamos listos…\n\n<img src=\"https://cdn.uploads.micro.blog/47617/2022/1855b021b0.jpg\" width=\"533\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-08-29T13:01:37+02:00",
 				"url": "https://canrith.eu/2022/08/29/estamos-listos.html"
 			},
@@ -634,7 +650,7 @@
 				"id": "http://jlrevilla.micro.blog/2022/08/27/de-paseo-por.html",
 				
 				"content_html": "<p>De paseo por Gotham</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "De paseo por Gotham\n\n<img src=\"uploads/2022/5a88935605.jpg\" width=\"362\" height=\"600\" alt=\"\" />\n",
+				"content_text": "De paseo por Gotham\n\n<img src=\"https://cdn.uploads.micro.blog/47617/2022/5a88935605.jpg\" width=\"362\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-08-27T18:19:41+02:00",
 				"url": "https://canrith.eu/2022/08/27/de-paseo-por.html"
 			},
@@ -674,7 +690,7 @@
 				"id": "http://jlrevilla.micro.blog/2022/08/20/dolor-de-muelas.html",
 				
 				"content_html": "<p>Dolor de muelas…</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Dolor de muelas…\n\n<img src=\"uploads/2022/60a95cc060.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Dolor de muelas…\n\n<img src=\"https://cdn.uploads.micro.blog/47617/2022/60a95cc060.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-08-20T00:55:51+02:00",
 				"url": "https://canrith.eu/2022/08/20/dolor-de-muelas.html"
 			},
@@ -682,7 +698,7 @@
 				"id": "http://jlrevilla.micro.blog/2022/08/19/cdmx-blues.html",
 				
 				"content_html": "<p>CDMX blues</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "CDMX blues\n\n<img src=\"uploads/2022/4384369135.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "CDMX blues\n\n<img src=\"https://cdn.uploads.micro.blog/47617/2022/4384369135.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-08-19T17:21:58+02:00",
 				"url": "https://canrith.eu/2022/08/19/cdmx-blues.html"
 			},
@@ -690,7 +706,7 @@
 				"id": "http://jlrevilla.micro.blog/2022/08/15/la-propaganda-de.html",
 				
 				"content_html": "<p>La propaganda de guerra siempre es interesante</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "La propaganda de guerra siempre es interesante\n\n<img src=\"uploads/2022/4dcfd49220.jpg\" width=\"600\" height=\"492\" alt=\"\" />\n",
+				"content_text": "La propaganda de guerra siempre es interesante\n\n<img src=\"https://cdn.uploads.micro.blog/47617/2022/4dcfd49220.jpg\" width=\"600\" height=\"492\" alt=\"\" />\n",
 				"date_published": "2022-08-15T13:45:16+02:00",
 				"url": "https://canrith.eu/2022/08/15/la-propaganda-de.html"
 			},
@@ -698,7 +714,7 @@
 				"id": "http://jlrevilla.micro.blog/2022/08/15/admirando-la-sagrada.html",
 				
 				"content_html": "<p>Admirando la Sagrada Familia</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Admirando la Sagrada Familia\n\n<img src=\"uploads/2022/689c24aaea.jpg\" width=\"600\" height=\"458\" alt=\"\" />\n",
+				"content_text": "Admirando la Sagrada Familia\n\n<img src=\"https://cdn.uploads.micro.blog/47617/2022/689c24aaea.jpg\" width=\"600\" height=\"458\" alt=\"\" />\n",
 				"date_published": "2022-08-15T12:56:36+02:00",
 				"url": "https://canrith.eu/2022/08/15/admirando-la-sagrada.html"
 			},
@@ -706,7 +722,7 @@
 				"id": "http://jlrevilla.micro.blog/2022/08/15/naboo-digo-barcelona.html",
 				
 				"content_html": "<p>Naboo… digo, Barcelona…</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Naboo… digo, Barcelona…\n\n<img src=\"uploads/2022/4ee01d840b.jpg\" width=\"600\" height=\"363\" alt=\"\" />\n",
+				"content_text": "Naboo… digo, Barcelona…\n\n<img src=\"https://cdn.uploads.micro.blog/47617/2022/4ee01d840b.jpg\" width=\"600\" height=\"363\" alt=\"\" />\n",
 				"date_published": "2022-08-15T12:31:18+02:00",
 				"url": "https://canrith.eu/2022/08/15/naboo-digo-barcelona.html"
 			},
@@ -714,7 +730,7 @@
 				"id": "http://jlrevilla.micro.blog/2022/08/14/barceloneta.html",
 				
 				"content_html": "<p>Barceloneta</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Barceloneta\n\n<img src=\"uploads/2022/bba64c8443.jpg\" width=\"600\" height=\"337\" alt=\"\" />\n",
+				"content_text": "Barceloneta\n\n<img src=\"https://cdn.uploads.micro.blog/47617/2022/bba64c8443.jpg\" width=\"600\" height=\"337\" alt=\"\" />\n",
 				"date_published": "2022-08-14T13:13:57+02:00",
 				"url": "https://canrith.eu/2022/08/14/barceloneta.html"
 			},
@@ -722,7 +738,7 @@
 				"id": "http://jlrevilla.micro.blog/2022/08/13/mood.html",
 				
 				"content_html": "<p>Mood</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Mood\n\n<img src=\"uploads/2022/b666f01b5b.jpg\" width=\"351\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Mood\n\n<img src=\"https://cdn.uploads.micro.blog/47617/2022/b666f01b5b.jpg\" width=\"351\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-08-13T23:26:19+02:00",
 				"url": "https://canrith.eu/2022/08/13/mood.html"
 			},
@@ -738,7 +754,7 @@
 				"id": "http://jlrevilla.micro.blog/2022/08/13/el-beso-y.html",
 				
 				"content_html": "<p>El beso y el sudoku</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "El beso y el sudoku\n\n<img src=\"uploads/2022/f9ed2eac49.jpg\" width=\"600\" height=\"449\" alt=\"\" />\n",
+				"content_text": "El beso y el sudoku\n\n<img src=\"https://cdn.uploads.micro.blog/47617/2022/f9ed2eac49.jpg\" width=\"600\" height=\"449\" alt=\"\" />\n",
 				"date_published": "2022-08-13T11:35:37+02:00",
 				"url": "https://canrith.eu/2022/08/13/el-beso-y.html"
 			},
@@ -746,7 +762,7 @@
 				"id": "http://jlrevilla.micro.blog/2022/08/13/algn-da-terminar.html",
 				
 				"content_html": "<p>Algún día terminará la construcción…</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Algún día terminará la construcción…\n\n<img src=\"uploads/2022/f78ced57d2.jpg\" width=\"462\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Algún día terminará la construcción…\n\n<img src=\"https://cdn.uploads.micro.blog/47617/2022/f78ced57d2.jpg\" width=\"462\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-08-13T11:09:53+02:00",
 				"url": "https://canrith.eu/2022/08/13/algn-da-terminar.html"
 			},
@@ -762,7 +778,7 @@
 				"id": "http://jlrevilla.micro.blog/2022/08/09/en-plan-de.html",
 				
 				"content_html": "<p>En plan de quemar puentes…</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "En plan de quemar puentes…\n\n<img src=\"uploads/2022/33fba19f8a.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "En plan de quemar puentes…\n\n<img src=\"https://cdn.uploads.micro.blog/47617/2022/33fba19f8a.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-08-09T20:54:40+02:00",
 				"url": "https://canrith.eu/2022/08/09/en-plan-de.html"
 			},
@@ -810,7 +826,7 @@
 				"id": "http://jlrevilla.micro.blog/2022/08/02/cuando-pensaban-que.html",
 				
 				"content_html": "<p>Cuando pensaban que nada podía ser más inútil que los mensajes de error de Windows, les presento las acciones recomendadas de la app de clima del iPhone…</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Cuando pensaban que nada podía ser más inútil que los mensajes de error de Windows, les presento las acciones recomendadas de la app de clima del iPhone…\n\n<img src=\"uploads/2022/d8c98d9e1a.jpg\" width=\"462\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Cuando pensaban que nada podía ser más inútil que los mensajes de error de Windows, les presento las acciones recomendadas de la app de clima del iPhone…\n\n<img src=\"https://cdn.uploads.micro.blog/47617/2022/d8c98d9e1a.jpg\" width=\"462\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-08-02T20:52:00+02:00",
 				"url": "https://canrith.eu/2022/08/02/cuando-pensaban-que.html"
 			},
@@ -826,7 +842,7 @@
 				"id": "http://jlrevilla.micro.blog/2022/07/28/una-adicional-de.html",
 				
 				"content_html": "<p>Una adicional de Alicante porque me costó subir hasta aquí arriba</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Una adicional de Alicante porque me costó subir hasta aquí arriba\n\n<img src=\"uploads/2022/fcf68dc00a.jpg\" width=\"600\" height=\"389\" alt=\"\" />\n",
+				"content_text": "Una adicional de Alicante porque me costó subir hasta aquí arriba\n\n<img src=\"https://cdn.uploads.micro.blog/47617/2022/fcf68dc00a.jpg\" width=\"600\" height=\"389\" alt=\"\" />\n",
 				"date_published": "2022-07-28T20:18:14+02:00",
 				"url": "https://canrith.eu/2022/07/28/una-adicional-de.html"
 			},
@@ -834,7 +850,7 @@
 				"id": "http://jlrevilla.micro.blog/2022/07/27/ms-alicante.html",
 				
 				"content_html": "<p>Más Alicante</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Más Alicante\n\n<img src=\"uploads/2022/d4d3c5f185.jpg\" width=\"600\" height=\"281\" alt=\"\" />\n",
+				"content_text": "Más Alicante\n\n<img src=\"https://cdn.uploads.micro.blog/47617/2022/d4d3c5f185.jpg\" width=\"600\" height=\"281\" alt=\"\" />\n",
 				"date_published": "2022-07-27T20:15:35+02:00",
 				"url": "https://canrith.eu/2022/07/27/ms-alicante.html"
 			},
@@ -842,7 +858,7 @@
 				"id": "http://jlrevilla.micro.blog/2022/07/27/alicante.html",
 				
 				"content_html": "<p>Alicante</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Alicante\n\n<img src=\"uploads/2022/cc0c97694b.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "Alicante\n\n<img src=\"https://cdn.uploads.micro.blog/47617/2022/cc0c97694b.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2022-07-27T20:11:32+02:00",
 				"url": "https://canrith.eu/2022/07/27/alicante.html"
 			},
@@ -850,7 +866,7 @@
 				"id": "http://jlrevilla.micro.blog/2022/07/27/ms-valencia.html",
 				
 				"content_html": "<p>Más Valencia</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Más Valencia\n\n<img src=\"uploads/2022/39a78afa7e.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Más Valencia\n\n<img src=\"https://cdn.uploads.micro.blog/47617/2022/39a78afa7e.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-07-27T10:33:07+02:00",
 				"url": "https://canrith.eu/2022/07/27/ms-valencia.html"
 			},
@@ -858,7 +874,7 @@
 				"id": "http://jlrevilla.micro.blog/2022/07/27/valencia.html",
 				
 				"content_html": "<p>Valencia</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Valencia\n\n<img src=\"uploads/2022/5035d6543f.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "Valencia\n\n<img src=\"https://cdn.uploads.micro.blog/47617/2022/5035d6543f.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2022-07-27T10:23:07+02:00",
 				"url": "https://canrith.eu/2022/07/27/valencia.html"
 			},
@@ -866,7 +882,7 @@
 				"id": "http://jlrevilla.micro.blog/2022/07/26/121705.html",
 				
 				"content_html": "<p>Más Teruel</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Más Teruel\n\n<img src=\"uploads/2022/53644fc8e9.jpg\" width=\"600\" height=\"368\" alt=\"\" />\n",
+				"content_text": "Más Teruel\n\n<img src=\"https://cdn.uploads.micro.blog/47617/2022/53644fc8e9.jpg\" width=\"600\" height=\"368\" alt=\"\" />\n",
 				"date_published": "2022-07-26T12:17:05+02:00",
 				"url": "https://canrith.eu/2022/07/26/121705.html"
 			},
@@ -874,7 +890,7 @@
 				"id": "http://jlrevilla.micro.blog/2022/07/26/teruel.html",
 				
 				"content_html": "<p>Teruel</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Teruel\n\n<img src=\"uploads/2022/27f7c78885.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Teruel\n\n<img src=\"https://cdn.uploads.micro.blog/47617/2022/27f7c78885.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-07-26T12:08:28+02:00",
 				"url": "https://canrith.eu/2022/07/26/teruel.html"
 			},
@@ -882,7 +898,7 @@
 				"id": "http://jlrevilla.micro.blog/2022/07/25/mismo-lugar-pero.html",
 				
 				"content_html": "<p>Mismo lugar, pero del otro lado…</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Mismo lugar, pero del otro lado…\n\n<img src=\"uploads/2022/8bb801bbea.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "Mismo lugar, pero del otro lado…\n\n<img src=\"https://cdn.uploads.micro.blog/47617/2022/8bb801bbea.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2022-07-25T17:50:01+02:00",
 				"url": "https://canrith.eu/2022/07/25/mismo-lugar-pero.html"
 			},
@@ -890,7 +906,7 @@
 				"id": "http://jlrevilla.micro.blog/2022/07/25/ms-zaragoza.html",
 				
 				"content_html": "<p>Más Zaragoza</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Más Zaragoza\n\n<img src=\"uploads/2022/4b50eb451d.jpg\" width=\"600\" height=\"399\" alt=\"\" />\n",
+				"content_text": "Más Zaragoza\n\n<img src=\"https://cdn.uploads.micro.blog/47617/2022/4b50eb451d.jpg\" width=\"600\" height=\"399\" alt=\"\" />\n",
 				"date_published": "2022-07-25T15:40:22+02:00",
 				"url": "https://canrith.eu/2022/07/25/ms-zaragoza.html"
 			},
@@ -898,7 +914,7 @@
 				"id": "http://jlrevilla.micro.blog/2022/07/25/zaragoza.html",
 				
 				"content_html": "<p>Zaragoza</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Zaragoza\n\n<img src=\"uploads/2022/eb14424bda.jpg\" width=\"600\" height=\"374\" alt=\"\" />\n",
+				"content_text": "Zaragoza\n\n<img src=\"https://cdn.uploads.micro.blog/47617/2022/eb14424bda.jpg\" width=\"600\" height=\"374\" alt=\"\" />\n",
 				"date_published": "2022-07-25T13:04:43+02:00",
 				"url": "https://canrith.eu/2022/07/25/zaragoza.html"
 			},
@@ -906,7 +922,7 @@
 				"id": "http://jlrevilla.micro.blog/2022/07/25/ms-pamplona.html",
 				
 				"content_html": "<p>Más Pamplona</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Más Pamplona\n\n<img src=\"uploads/2022/fe131b4d70.jpg\" width=\"530\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Más Pamplona\n\n<img src=\"https://cdn.uploads.micro.blog/47617/2022/fe131b4d70.jpg\" width=\"530\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-07-25T10:41:16+02:00",
 				"url": "https://canrith.eu/2022/07/25/ms-pamplona.html"
 			},
@@ -914,7 +930,7 @@
 				"id": "http://jlrevilla.micro.blog/2022/07/25/pamplona.html",
 				
 				"content_html": "<p>Pamplona</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Pamplona\n\n<img src=\"uploads/2022/dd6ce2a3b9.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "Pamplona\n\n<img src=\"https://cdn.uploads.micro.blog/47617/2022/dd6ce2a3b9.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2022-07-25T10:28:15+02:00",
 				"url": "https://canrith.eu/2022/07/25/pamplona.html"
 			},
@@ -922,7 +938,7 @@
 				"id": "http://jlrevilla.micro.blog/2022/07/24/ms-san-sebastin.html",
 				
 				"content_html": "<p>Más San Sebastián</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Más San Sebastián\n\n<img src=\"uploads/2022/718ef5cb15.jpg\" width=\"600\" height=\"377\" alt=\"\" />\n",
+				"content_text": "Más San Sebastián\n\n<img src=\"https://cdn.uploads.micro.blog/47617/2022/718ef5cb15.jpg\" width=\"600\" height=\"377\" alt=\"\" />\n",
 				"date_published": "2022-07-24T15:16:23+02:00",
 				"url": "https://canrith.eu/2022/07/24/ms-san-sebastin.html"
 			},
@@ -930,7 +946,7 @@
 				"id": "http://jlrevilla.micro.blog/2022/07/24/san-sebastin.html",
 				
 				"content_html": "<p>San Sebastián</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "San Sebastián\n\n<img src=\"uploads/2022/a58079ecf4.jpg\" width=\"600\" height=\"295\" alt=\"\" />\n",
+				"content_text": "San Sebastián\n\n<img src=\"https://cdn.uploads.micro.blog/47617/2022/a58079ecf4.jpg\" width=\"600\" height=\"295\" alt=\"\" />\n",
 				"date_published": "2022-07-24T15:14:15+02:00",
 				"url": "https://canrith.eu/2022/07/24/san-sebastin.html"
 			},
@@ -938,7 +954,7 @@
 				"id": "http://jlrevilla.micro.blog/2022/07/23/incluso-ms-bilbao.html",
 				
 				"content_html": "<p>Incluso más Bilbao porque la del auto de F1 no cuenta…</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Incluso más Bilbao porque la del auto de F1 no cuenta…\n\n<img src=\"uploads/2022/e5af6ad512.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "Incluso más Bilbao porque la del auto de F1 no cuenta…\n\n<img src=\"https://cdn.uploads.micro.blog/47617/2022/e5af6ad512.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2022-07-23T22:11:58+02:00",
 				"url": "https://canrith.eu/2022/07/23/incluso-ms-bilbao.html"
 			},
@@ -946,7 +962,7 @@
 				"id": "http://jlrevilla.micro.blog/2022/07/23/ms-bilbao.html",
 				
 				"content_html": "<p>Más Bilbao</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Más Bilbao\n\n<img src=\"uploads/2022/71c3cc8cde.jpg\" width=\"600\" height=\"389\" alt=\"\" />\n",
+				"content_text": "Más Bilbao\n\n<img src=\"https://cdn.uploads.micro.blog/47617/2022/71c3cc8cde.jpg\" width=\"600\" height=\"389\" alt=\"\" />\n",
 				"date_published": "2022-07-23T13:50:40+02:00",
 				"url": "https://canrith.eu/2022/07/23/ms-bilbao.html"
 			},
@@ -954,7 +970,7 @@
 				"id": "http://jlrevilla.micro.blog/2022/07/23/aqu-casual-en.html",
 				
 				"content_html": "<p>Aquí casual, en el Guggenheim Bilbao</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Aquí casual, en el Guggenheim Bilbao\n\n<img src=\"uploads/2022/ceb7efff4a.jpg\" width=\"600\" height=\"596\" alt=\"\" />\n",
+				"content_text": "Aquí casual, en el Guggenheim Bilbao\n\n<img src=\"https://cdn.uploads.micro.blog/47617/2022/ceb7efff4a.jpg\" width=\"600\" height=\"596\" alt=\"\" />\n",
 				"date_published": "2022-07-23T13:05:51+02:00",
 				"url": "https://canrith.eu/2022/07/23/aqu-casual-en.html"
 			},
@@ -962,7 +978,7 @@
 				"id": "http://jlrevilla.micro.blog/2022/07/22/ms-santander.html",
 				
 				"content_html": "<p>Más Santander</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Más Santander\n\n<img src=\"uploads/2022/52c3c0a626.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "Más Santander\n\n<img src=\"https://cdn.uploads.micro.blog/47617/2022/52c3c0a626.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2022-07-22T14:47:09+02:00",
 				"url": "https://canrith.eu/2022/07/22/ms-santander.html"
 			},
@@ -970,7 +986,7 @@
 				"id": "http://jlrevilla.micro.blog/2022/07/22/santander.html",
 				
 				"content_html": "<p>Santander</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Santander\n\n<img src=\"uploads/2022/a44438667c.jpg\" width=\"600\" height=\"363\" alt=\"\" />\n",
+				"content_text": "Santander\n\n<img src=\"https://cdn.uploads.micro.blog/47617/2022/a44438667c.jpg\" width=\"600\" height=\"363\" alt=\"\" />\n",
 				"date_published": "2022-07-22T14:09:48+02:00",
 				"url": "https://canrith.eu/2022/07/22/santander.html"
 			},
@@ -978,7 +994,7 @@
 				"id": "http://jlrevilla.micro.blog/2022/07/21/ms-len.html",
 				
 				"content_html": "<p>Más León</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Más León\n\n<img src=\"uploads/2022/d79e20a5ee.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Más León\n\n<img src=\"https://cdn.uploads.micro.blog/47617/2022/d79e20a5ee.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-07-21T20:34:21+02:00",
 				"url": "https://canrith.eu/2022/07/21/ms-len.html"
 			},
@@ -986,7 +1002,7 @@
 				"id": "http://jlrevilla.micro.blog/2022/07/21/len.html",
 				
 				"content_html": "<p>León</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "León\n\n<img src=\"uploads/2022/09e006ab6f.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "León\n\n<img src=\"https://cdn.uploads.micro.blog/47617/2022/09e006ab6f.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2022-07-21T19:59:28+02:00",
 				"url": "https://canrith.eu/2022/07/21/len.html"
 			},
@@ -994,7 +1010,7 @@
 				"id": "http://jlrevilla.micro.blog/2022/07/21/ms-oviedo.html",
 				
 				"content_html": "<p>Más Oviedo</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Más Oviedo\n\n<img src=\"uploads/2022/4f93666c1a.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "Más Oviedo\n\n<img src=\"https://cdn.uploads.micro.blog/47617/2022/4f93666c1a.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2022-07-21T14:35:00+02:00",
 				"url": "https://canrith.eu/2022/07/21/ms-oviedo.html"
 			},
@@ -1002,7 +1018,7 @@
 				"id": "http://jlrevilla.micro.blog/2022/07/21/oviedo.html",
 				
 				"content_html": "<p>Oviedo</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Oviedo\n\n<img src=\"uploads/2022/66d737340a.jpg\" width=\"600\" height=\"540\" alt=\"\" />\n",
+				"content_text": "Oviedo\n\n<img src=\"https://cdn.uploads.micro.blog/47617/2022/66d737340a.jpg\" width=\"600\" height=\"540\" alt=\"\" />\n",
 				"date_published": "2022-07-21T14:26:59+02:00",
 				"url": "https://canrith.eu/2022/07/21/oviedo.html"
 			},
@@ -1010,7 +1026,7 @@
 				"id": "http://jlrevilla.micro.blog/2022/07/20/ms-a-corua.html",
 				
 				"content_html": "<p>Más A Coruña</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Más A Coruña\n\n<img src=\"uploads/2022/6c6abea9fd.jpg\" width=\"600\" height=\"346\" alt=\"\" />\n",
+				"content_text": "Más A Coruña\n\n<img src=\"https://cdn.uploads.micro.blog/47617/2022/6c6abea9fd.jpg\" width=\"600\" height=\"346\" alt=\"\" />\n",
 				"date_published": "2022-07-20T12:41:16+02:00",
 				"url": "https://canrith.eu/2022/07/20/ms-a-corua.html"
 			},
@@ -1018,7 +1034,7 @@
 				"id": "http://jlrevilla.micro.blog/2022/07/20/a-corua.html",
 				
 				"content_html": "<p>A Coruña</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "A Coruña\n\n<img src=\"uploads/2022/de6c6a7892.jpg\" width=\"388\" height=\"600\" alt=\"\" />\n",
+				"content_text": "A Coruña\n\n<img src=\"https://cdn.uploads.micro.blog/47617/2022/de6c6a7892.jpg\" width=\"388\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-07-20T12:16:46+02:00",
 				"url": "https://canrith.eu/2022/07/20/a-corua.html"
 			},
@@ -1026,7 +1042,7 @@
 				"id": "http://jlrevilla.micro.blog/2022/07/19/ms-santiago.html",
 				
 				"content_html": "<p>Más Santiago</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Más Santiago\n\n<img src=\"uploads/2022/efd6134f51.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "Más Santiago\n\n<img src=\"https://cdn.uploads.micro.blog/47617/2022/efd6134f51.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2022-07-19T17:37:27+02:00",
 				"url": "https://canrith.eu/2022/07/19/ms-santiago.html"
 			},
@@ -1034,7 +1050,7 @@
 				"id": "http://jlrevilla.micro.blog/2022/07/19/santiago.html",
 				
 				"content_html": "<p>Santiago</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Santiago\n\n<img src=\"uploads/2022/7daf16534e.jpg\" width=\"600\" height=\"416\" alt=\"\" />\n",
+				"content_text": "Santiago\n\n<img src=\"https://cdn.uploads.micro.blog/47617/2022/7daf16534e.jpg\" width=\"600\" height=\"416\" alt=\"\" />\n",
 				"date_published": "2022-07-19T17:28:41+02:00",
 				"url": "https://canrith.eu/2022/07/19/santiago.html"
 			},
@@ -1042,7 +1058,7 @@
 				"id": "http://jlrevilla.micro.blog/2022/07/19/ms-ourense.html",
 				
 				"content_html": "<p>Más Ourense</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Más Ourense\n\n<img src=\"uploads/2022/8c4c187c13.jpg\" width=\"500\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Más Ourense\n\n<img src=\"https://cdn.uploads.micro.blog/47617/2022/8c4c187c13.jpg\" width=\"500\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-07-19T12:37:23+02:00",
 				"url": "https://canrith.eu/2022/07/19/ms-ourense.html"
 			},
@@ -1050,7 +1066,7 @@
 				"id": "http://jlrevilla.micro.blog/2022/07/19/ourense.html",
 				
 				"content_html": "<p>Ourense</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Ourense\n\n<img src=\"uploads/2022/a24b5980ab.jpg\" width=\"573\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Ourense\n\n<img src=\"https://cdn.uploads.micro.blog/47617/2022/a24b5980ab.jpg\" width=\"573\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-07-19T11:37:14+02:00",
 				"url": "https://canrith.eu/2022/07/19/ourense.html"
 			},
@@ -1058,7 +1074,7 @@
 				"id": "http://jlrevilla.micro.blog/2022/07/18/ms-salamanca.html",
 				
 				"content_html": "<p>Más Salamanca</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Más Salamanca\n\n<img src=\"uploads/2022/4ea90a7163.jpg\" width=\"600\" height=\"371\" alt=\"\" />\n",
+				"content_text": "Más Salamanca\n\n<img src=\"https://cdn.uploads.micro.blog/47617/2022/4ea90a7163.jpg\" width=\"600\" height=\"371\" alt=\"\" />\n",
 				"date_published": "2022-07-18T14:24:16+02:00",
 				"url": "https://canrith.eu/2022/07/18/ms-salamanca.html"
 			},
@@ -1066,7 +1082,7 @@
 				"id": "http://jlrevilla.micro.blog/2022/07/18/salamanca.html",
 				
 				"content_html": "<p>Salamanca</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Salamanca\n\n<img src=\"uploads/2022/07b43c5a1f.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "Salamanca\n\n<img src=\"https://cdn.uploads.micro.blog/47617/2022/07b43c5a1f.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2022-07-18T13:36:23+02:00",
 				"url": "https://canrith.eu/2022/07/18/salamanca.html"
 			},
@@ -1074,7 +1090,7 @@
 				"id": "http://jlrevilla.micro.blog/2022/07/16/patos-oh-oh.html",
 				
 				"content_html": "<p>Patos… oh oh…</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Patos… oh oh…\n\n<img src=\"uploads/2022/13f9b54938.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "Patos… oh oh…\n\n<img src=\"https://cdn.uploads.micro.blog/47617/2022/13f9b54938.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2022-07-16T20:21:03+02:00",
 				"url": "https://canrith.eu/2022/07/16/patos-oh-oh.html"
 			},
@@ -1082,7 +1098,7 @@
 				"id": "http://jlrevilla.micro.blog/2022/07/11/algo-me-dice.html",
 				
 				"content_html": "<p>Algo me dice que este tipo de alertas me van a llegar muy seguido en los próximos meses</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Algo me dice que este tipo de alertas me van a llegar muy seguido en los próximos meses\n\n<img src=\"uploads/2022/0e436fa0fc.jpg\" width=\"461\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Algo me dice que este tipo de alertas me van a llegar muy seguido en los próximos meses\n\n<img src=\"https://cdn.uploads.micro.blog/47617/2022/0e436fa0fc.jpg\" width=\"461\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-07-11T11:45:00+02:00",
 				"url": "https://canrith.eu/2022/07/11/algo-me-dice.html"
 			},
@@ -1106,7 +1122,7 @@
 				"id": "http://jlrevilla.micro.blog/2022/06/29/no-se-ha.html",
 				
 				"content_html": "<p>No se ha regresado a la normalidad en la oficina hasta que no se encuentra uno con un colega de otro país en la máquina de café 😀</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "No se ha regresado a la normalidad en la oficina hasta que no se encuentra uno con un colega de otro país en la máquina de café 😀\n\n<img src=\"uploads/2022/20cebb330b.jpg\" width=\"561\" height=\"600\" alt=\"\" />\n",
+				"content_text": "No se ha regresado a la normalidad en la oficina hasta que no se encuentra uno con un colega de otro país en la máquina de café 😀\n\n<img src=\"https://cdn.uploads.micro.blog/47617/2022/20cebb330b.jpg\" width=\"561\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-06-29T23:59:06+02:00",
 				"url": "https://canrith.eu/2022/06/29/no-se-ha.html"
 			},
@@ -1114,7 +1130,7 @@
 				"id": "http://jlrevilla.micro.blog/2022/06/18/malasaa.html",
 				
 				"content_html": "<p>Malasaña</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Malasaña\n\n<img src=\"uploads/2022/2d2847ac24.jpg\" width=\"353\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Malasaña\n\n<img src=\"https://cdn.uploads.micro.blog/47617/2022/2d2847ac24.jpg\" width=\"353\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-06-18T21:28:36+02:00",
 				"url": "https://canrith.eu/2022/06/18/malasaa.html"
 			},
@@ -1138,7 +1154,7 @@
 				"id": "http://jlrevilla.micro.blog/2022/06/01/street.html",
 				
 				"content_html": "<p>Street</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Street\n\n<img src=\"uploads/2022/c5b01b7a4e.jpg\" width=\"600\" height=\"482\" alt=\"\" />\n",
+				"content_text": "Street\n\n<img src=\"https://cdn.uploads.micro.blog/47617/2022/c5b01b7a4e.jpg\" width=\"600\" height=\"482\" alt=\"\" />\n",
 				"date_published": "2022-06-01T00:03:25+02:00",
 				"url": "https://canrith.eu/2022/06/01/street.html"
 			},
@@ -1146,7 +1162,7 @@
 				"id": "http://jlrevilla.micro.blog/2022/05/29/feria-del-libro.html",
 				
 				"content_html": "<p>Feria del Libro de Madrid</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Feria del Libro de Madrid\n\n<img src=\"uploads/2022/b35439d106.jpg\" width=\"600\" height=\"375\" alt=\"\" />\n",
+				"content_text": "Feria del Libro de Madrid\n\n<img src=\"https://cdn.uploads.micro.blog/47617/2022/b35439d106.jpg\" width=\"600\" height=\"375\" alt=\"\" />\n",
 				"date_published": "2022-05-29T11:37:15+02:00",
 				"url": "https://canrith.eu/2022/05/29/feria-del-libro.html"
 			},
@@ -1154,7 +1170,7 @@
 				"id": "http://jlrevilla.micro.blog/2022/05/28/el-escorial.html",
 				
 				"content_html": "<p>El Escorial</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "El Escorial\n\n<img src=\"uploads/2022/9dd74e03b5.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "El Escorial\n\n<img src=\"https://cdn.uploads.micro.blog/47617/2022/9dd74e03b5.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-05-28T14:48:37+02:00",
 				"url": "https://canrith.eu/2022/05/28/el-escorial.html"
 			},
@@ -1162,7 +1178,7 @@
 				"id": "http://jlrevilla.micro.blog/2022/05/14/atrapado-en-un.html",
 				
 				"content_html": "<p>Atrapado en un bucle sin fin…</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Atrapado en un bucle sin fin…\n\n<img src=\"uploads/2022/37fedbb55b.jpg\" width=\"519\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Atrapado en un bucle sin fin…\n\n<img src=\"https://cdn.uploads.micro.blog/47617/2022/37fedbb55b.jpg\" width=\"519\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-05-14T10:58:28+02:00",
 				"url": "https://canrith.eu/2022/05/14/atrapado-en-un.html"
 			},
@@ -1178,7 +1194,7 @@
 				"id": "http://jlrevilla.micro.blog/2022/05/02/feria-de-libros.html",
 				
 				"content_html": "<p>Feria de Libros Antiguos</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Feria de Libros Antiguos\n\n<img src=\"uploads/2022/5fa17cbc75.jpg\" width=\"500\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Feria de Libros Antiguos\n\n<img src=\"https://cdn.uploads.micro.blog/47617/2022/5fa17cbc75.jpg\" width=\"500\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-05-02T17:08:08+02:00",
 				"url": "https://canrith.eu/2022/05/02/feria-de-libros.html"
 			},
@@ -1186,7 +1202,7 @@
 				"id": "http://jlrevilla.micro.blog/2022/05/01/clear-sign-youve.html",
 				
 				"content_html": "<p>Clear sign you’ve become an old man: You go to one of Spain’s top medieval fairs and the only thing you end up buying is a wooden spoon because “oh wow, this will be useful in the kitchen!”</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Clear sign you’ve become an old man: You go to one of Spain’s top medieval fairs and the only thing you end up buying is a wooden spoon because “oh wow, this will be useful in the kitchen!”\n\n<img src=\"uploads/2022/5b540b17ac.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Clear sign you’ve become an old man: You go to one of Spain’s top medieval fairs and the only thing you end up buying is a wooden spoon because “oh wow, this will be useful in the kitchen!”\n\n<img src=\"https://cdn.uploads.micro.blog/47617/2022/5b540b17ac.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-05-01T18:39:36+02:00",
 				"url": "https://canrith.eu/2022/05/01/clear-sign-youve.html"
 			},
@@ -1194,7 +1210,7 @@
 				"id": "http://jlrevilla.micro.blog/2022/05/01/balance.html",
 				
 				"content_html": "<p>Balance</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Balance\n\n<img src=\"uploads/2022/e9f8453f53.jpg\" width=\"301\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Balance\n\n<img src=\"https://cdn.uploads.micro.blog/47617/2022/e9f8453f53.jpg\" width=\"301\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-05-01T15:42:04+02:00",
 				"url": "https://canrith.eu/2022/05/01/balance.html"
 			},
@@ -1202,7 +1218,7 @@
 				"id": "http://jlrevilla.micro.blog/2022/05/01/el-lamo-spain.html",
 				
 				"content_html": "<p>El Álamo, Spain</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "El Álamo, Spain\n\n<img src=\"uploads/2022/941cfcd584.jpg\" width=\"392\" height=\"600\" alt=\"\" />\n",
+				"content_text": "El Álamo, Spain\n\n<img src=\"https://cdn.uploads.micro.blog/47617/2022/941cfcd584.jpg\" width=\"392\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-05-01T15:37:50+02:00",
 				"url": "https://canrith.eu/2022/05/01/el-lamo-spain.html"
 			},
@@ -1226,7 +1242,7 @@
 				"id": "http://jlrevilla.micro.blog/2022/04/20/puerta-de-toledo.html",
 				
 				"content_html": "<p>Puerta de Toledo</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Puerta de Toledo\n\n<img src=\"uploads/2022/72a92c6f6f.jpg\" width=\"600\" height=\"599\" alt=\"\" />\n",
+				"content_text": "Puerta de Toledo\n\n<img src=\"https://cdn.uploads.micro.blog/47617/2022/72a92c6f6f.jpg\" width=\"600\" height=\"599\" alt=\"\" />\n",
 				"date_published": "2022-04-20T19:11:23+02:00",
 				"url": "https://canrith.eu/2022/04/20/puerta-de-toledo.html"
 			},
@@ -1234,7 +1250,7 @@
 				"id": "http://jlrevilla.micro.blog/2022/04/16/from-the-roman.html",
 				
 				"content_html": "<p>From the roman road</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "From the roman road\n\n<img src=\"uploads/2022/d881cfe20b.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "From the roman road\n\n<img src=\"https://cdn.uploads.micro.blog/47617/2022/d881cfe20b.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2022-04-16T17:05:37+02:00",
 				"url": "https://canrith.eu/2022/04/16/from-the-roman.html"
 			},
@@ -1242,7 +1258,7 @@
 				"id": "http://jlrevilla.micro.blog/2022/04/14/cute.html",
 				
 				"content_html": "<p>Cute</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Cute\n\n<img src=\"uploads/2022/8956a26c85.jpg\" width=\"599\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Cute\n\n<img src=\"https://cdn.uploads.micro.blog/47617/2022/8956a26c85.jpg\" width=\"599\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-04-14T23:21:00+02:00",
 				"url": "https://canrith.eu/2022/04/14/cute.html"
 			},
@@ -1250,7 +1266,7 @@
 				"id": "http://jlrevilla.micro.blog/2022/04/12/senderismo.html",
 				
 				"content_html": "<p>Senderismo</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Senderismo\n\n<img src=\"uploads/2022/350df05dbe.jpg\" width=\"600\" height=\"355\" alt=\"\" />\n",
+				"content_text": "Senderismo\n\n<img src=\"https://cdn.uploads.micro.blog/47617/2022/350df05dbe.jpg\" width=\"600\" height=\"355\" alt=\"\" />\n",
 				"date_published": "2022-04-12T17:11:04+02:00",
 				"url": "https://canrith.eu/2022/04/12/senderismo.html"
 			},
@@ -1258,7 +1274,7 @@
 				"id": "http://jlrevilla.micro.blog/2022/04/09/the-worlds-oldest.html",
 				
 				"content_html": "<p>The world’s oldest bookstore…</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The world’s oldest bookstore…\n\n<img src=\"uploads/2022/13fac50137.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "The world’s oldest bookstore…\n\n<img src=\"https://cdn.uploads.micro.blog/47617/2022/13fac50137.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-04-09T17:24:10+02:00",
 				"url": "https://canrith.eu/2022/04/09/the-worlds-oldest.html"
 			},
@@ -1266,7 +1282,7 @@
 				"id": "http://jlrevilla.micro.blog/2022/04/02/staring-over-with.html",
 				
 				"content_html": "<p>Starting over with the collection at the other side of the Atlantic</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Starting over with the collection at the other side of the Atlantic\n\n<img src=\"uploads/2022/6d5523f620.jpg\" width=\"600\" height=\"599\" alt=\"\" />\n",
+				"content_text": "Starting over with the collection at the other side of the Atlantic\n\n<img src=\"https://cdn.uploads.micro.blog/47617/2022/6d5523f620.jpg\" width=\"600\" height=\"599\" alt=\"\" />\n",
 				"date_published": "2022-04-02T18:55:00+02:00",
 				"url": "https://canrith.eu/2022/04/02/staring-over-with.html"
 			},
@@ -1282,7 +1298,7 @@
 				"id": "http://jlrevilla.micro.blog/2022/03/17/olvidados.html",
 				
 				"content_html": "<p>Olvidados</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Olvidados\n\n<img src=\"uploads/2022/1ee2baf27e.jpg\" width=\"600\" height=\"337\" alt=\"\" />\n",
+				"content_text": "Olvidados\n\n<img src=\"https://cdn.uploads.micro.blog/47617/2022/1ee2baf27e.jpg\" width=\"600\" height=\"337\" alt=\"\" />\n",
 				"date_published": "2022-03-18T01:04:20+02:00",
 				"url": "https://canrith.eu/2022/03/17/olvidados.html"
 			},
@@ -1290,7 +1306,7 @@
 				"id": "http://jlrevilla.micro.blog/2022/03/16/found-this-on.html",
 				
 				"content_html": "<p>Found this on the web: Spain for Americans 😀</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Found this on the web: Spain for Americans 😀\n\n<img src=\"uploads/2022/076420036e.jpg\" width=\"600\" height=\"434\" alt=\"\" />\n",
+				"content_text": "Found this on the web: Spain for Americans 😀\n\n<img src=\"https://cdn.uploads.micro.blog/47617/2022/076420036e.jpg\" width=\"600\" height=\"434\" alt=\"\" />\n",
 				"date_published": "2022-03-17T01:03:16+02:00",
 				"url": "https://canrith.eu/2022/03/16/found-this-on.html"
 			},
@@ -1298,7 +1314,7 @@
 				"id": "http://jlrevilla.micro.blog/2022/03/13/first-month-in.html",
 				
 				"content_html": "<p>First month in Spain</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "First month in Spain\n\n<img src=\"uploads/2022/79aa4c98f2.jpg\" width=\"600\" height=\"403\" alt=\"\" />\n",
+				"content_text": "First month in Spain\n\n<img src=\"https://cdn.uploads.micro.blog/47617/2022/79aa4c98f2.jpg\" width=\"600\" height=\"403\" alt=\"\" />\n",
 				"date_published": "2022-03-13T11:10:25+02:00",
 				"url": "https://canrith.eu/2022/03/13/first-month-in.html"
 			},
@@ -1306,7 +1322,7 @@
 				"id": "http://jlrevilla.micro.blog/2022/03/05/matadero.html",
 				
 				"content_html": "<p>Matadero</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Matadero\n\n<img src=\"uploads/2022/5fdaf1a41b.jpg\" width=\"600\" height=\"599\" alt=\"\" />\n",
+				"content_text": "Matadero\n\n<img src=\"https://cdn.uploads.micro.blog/47617/2022/5fdaf1a41b.jpg\" width=\"600\" height=\"599\" alt=\"\" />\n",
 				"date_published": "2022-03-05T19:26:34+02:00",
 				"url": "https://canrith.eu/2022/03/05/matadero.html"
 			},
@@ -1322,7 +1338,7 @@
 				"id": "http://jlrevilla.micro.blog/2022/03/03/somos-aguas-literalmente.html",
 				
 				"content_html": "<p>Somos Aguas (literalmente)</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Somos Aguas (literalmente)\n\n<img src=\"uploads/2022/070ae1b3cd.jpg\" width=\"600\" height=\"386\" alt=\"\" />\n",
+				"content_text": "Somos Aguas (literalmente)\n\n<img src=\"https://cdn.uploads.micro.blog/47617/2022/070ae1b3cd.jpg\" width=\"600\" height=\"386\" alt=\"\" />\n",
 				"date_published": "2022-03-04T01:47:15+02:00",
 				"url": "https://canrith.eu/2022/03/03/somos-aguas-literalmente.html"
 			},
@@ -1330,7 +1346,7 @@
 				"id": "http://jlrevilla.micro.blog/2022/02/24/almendros-en-flor.html",
 				
 				"content_html": "<p>Almendros en flor</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Almendros en flor\n\n<img src=\"uploads/2022/345fcb962e.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Almendros en flor\n\n<img src=\"https://cdn.uploads.micro.blog/47617/2022/345fcb962e.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-02-24T13:34:08+02:00",
 				"url": "https://canrith.eu/2022/02/24/almendros-en-flor.html"
 			},
@@ -1346,7 +1362,7 @@
 				"id": "http://jlrevilla.micro.blog/2022/02/19/alfonso-xii-peacemaker.html",
 				
 				"content_html": "<p>Alfonso XII - Peacemaker</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Alfonso XII - Peacemaker\n\n<img src=\"uploads/2022/607af0e848.jpg\" width=\"600\" height=\"291\" alt=\"\" />\n",
+				"content_text": "Alfonso XII - Peacemaker\n\n<img src=\"https://cdn.uploads.micro.blog/47617/2022/607af0e848.jpg\" width=\"600\" height=\"291\" alt=\"\" />\n",
 				"date_published": "2022-02-19T16:25:00+02:00",
 				"url": "https://canrith.eu/2022/02/19/alfonso-xii-peacemaker.html"
 			},
@@ -1354,7 +1370,7 @@
 				"id": "http://jlrevilla.micro.blog/2022/02/19/this-might-be.html",
 				
 				"content_html": "<p>This might be the only statue of Lucifer in the world…\n(Parque del Retiro)</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "This might be the only statue of Lucifer in the world…\n(Parque del Retiro)\n\n<img src=\"uploads/2022/969a66be73.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "This might be the only statue of Lucifer in the world…\n(Parque del Retiro)\n\n<img src=\"https://cdn.uploads.micro.blog/47617/2022/969a66be73.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-02-19T13:44:25+02:00",
 				"url": "https://canrith.eu/2022/02/19/this-might-be.html"
 			},
@@ -1362,7 +1378,7 @@
 				"id": "http://jlrevilla.micro.blog/2022/02/12/finalmente-madrid.html",
 				
 				"content_html": "<p>Finalmente, Madrid</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Finalmente, Madrid\n\n<img src=\"uploads/2022/f017f1a9d0.jpg\" width=\"599\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Finalmente, Madrid\n\n<img src=\"https://cdn.uploads.micro.blog/47617/2022/f017f1a9d0.jpg\" width=\"599\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-02-12T13:09:07+02:00",
 				"url": "https://canrith.eu/2022/02/12/finalmente-madrid.html"
 			},
@@ -1370,7 +1386,7 @@
 				"id": "http://jlrevilla.micro.blog/2022/02/07/ye-olde-train.html",
 				
 				"content_html": "<p>Ye olde train station</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Ye olde train station\n\n<img src=\"uploads/2022/06f9b0d0d9.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Ye olde train station\n\n<img src=\"https://cdn.uploads.micro.blog/47617/2022/06f9b0d0d9.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-02-07T23:43:09+02:00",
 				"url": "https://canrith.eu/2022/02/07/ye-olde-train.html"
 			},
@@ -1394,7 +1410,7 @@
 				"id": "http://jlrevilla.micro.blog/2022/01/28/hacking-for-music.html",
 				
 				"content_html": "<p>Hacking for music</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Hacking for music\n\n<img src=\"uploads/2022/f264400be3.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Hacking for music\n\n<img src=\"https://cdn.uploads.micro.blog/47617/2022/f264400be3.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-01-29T01:39:36+02:00",
 				"url": "https://canrith.eu/2022/01/28/hacking-for-music.html"
 			},
@@ -1402,7 +1418,7 @@
 				"id": "http://jlrevilla.micro.blog/2022/01/24/adventure.html",
 				
 				"content_html": "<p>Adventure</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Adventure\n\n<img src=\"uploads/2022/6fe55b61f5.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Adventure\n\n<img src=\"https://cdn.uploads.micro.blog/47617/2022/6fe55b61f5.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-01-25T05:00:42+02:00",
 				"url": "https://canrith.eu/2022/01/24/adventure.html"
 			},
@@ -1450,7 +1466,7 @@
 				"id": "http://jlrevilla.micro.blog/2021/12/16/alguien-no-est.html",
 				
 				"content_html": "<p>Alguien no está feliz con los planes para el día de hoy…</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Alguien no está feliz con los planes para el día de hoy…\n\n<img src=\"uploads/2021/d32d1d95cb.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Alguien no está feliz con los planes para el día de hoy…\n\n<img src=\"https://cdn.uploads.micro.blog/47617/2021/d32d1d95cb.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-12-16T22:13:57+02:00",
 				"url": "https://canrith.eu/2021/12/16/alguien-no-est.html"
 			},
@@ -1482,7 +1498,7 @@
 				"id": "http://jlrevilla.micro.blog/2021/12/08/playlist.html",
 				
 				"content_html": "<p>Playlist</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Playlist\n\n<img src=\"uploads/2021/db4e997251.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Playlist\n\n<img src=\"https://cdn.uploads.micro.blog/47617/2021/db4e997251.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-12-08T17:00:11+02:00",
 				"url": "https://canrith.eu/2021/12/08/playlist.html"
 			},
@@ -1506,7 +1522,7 @@
 				"id": "http://jlrevilla.micro.blog/2021/11/28/el-doceavo-doctor.html",
 				
 				"content_html": "<p>El Doceavo Doctor, arte por <a href=\"https://reddit.com/user/Jim-the-Wizard/\">Jim The Wizard</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "El Doceavo Doctor, arte por [Jim The Wizard](https://reddit.com/user/Jim-the-Wizard/)\n\n<img src=\"uploads/2021/f3b74b1868.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "El Doceavo Doctor, arte por [Jim The Wizard](https://reddit.com/user/Jim-the-Wizard/)\n\n<img src=\"https://cdn.uploads.micro.blog/47617/2021/f3b74b1868.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-11-29T01:29:21+02:00",
 				"url": "https://canrith.eu/2021/11/28/el-doceavo-doctor.html"
 			},
@@ -1546,7 +1562,7 @@
 				"id": "http://jlrevilla.micro.blog/2021/11/12/en-la-nube.html",
 				
 				"content_html": "<p>En la nube</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "En la nube\n\n<img src=\"uploads/2021/4e0e95450a.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "En la nube\n\n<img src=\"https://cdn.uploads.micro.blog/47617/2021/4e0e95450a.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-11-13T04:17:58+02:00",
 				"url": "https://canrith.eu/2021/11/12/en-la-nube.html"
 			},
@@ -1554,7 +1570,7 @@
 				"id": "http://jlrevilla.micro.blog/2021/11/10/graffiti.html",
 				
 				"content_html": "<p>Graffiti</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Graffiti\n\n<img src=\"uploads/2021/117ad22d06.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Graffiti\n\n<img src=\"https://cdn.uploads.micro.blog/47617/2021/117ad22d06.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-11-11T05:40:27+02:00",
 				"url": "https://canrith.eu/2021/11/10/graffiti.html"
 			},
@@ -1586,7 +1602,7 @@
 				"id": "http://jlrevilla.micro.blog/2021/10/23/sbado.html",
 				
 				"content_html": "<p>Sábado</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Sábado\n\n<img src=\"uploads/2021/4b64f967f1.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Sábado\n\n<img src=\"https://cdn.uploads.micro.blog/47617/2021/4b64f967f1.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-10-23T19:09:45+02:00",
 				"url": "https://canrith.eu/2021/10/23/sbado.html"
 			},
@@ -1602,7 +1618,7 @@
 				"id": "http://jlrevilla.micro.blog/2021/10/14/frikiando.html",
 				
 				"content_html": "<p>Frikiando</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Frikiando\n\n<img src=\"uploads/2021/cb96b9994f.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Frikiando\n\n<img src=\"https://cdn.uploads.micro.blog/47617/2021/cb96b9994f.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-10-15T00:08:00+02:00",
 				"url": "https://canrith.eu/2021/10/14/frikiando.html"
 			},
@@ -1610,7 +1626,7 @@
 				"id": "http://jlrevilla.micro.blog/2021/10/11/yo-los-lunes.html",
 				
 				"content_html": "<p>Yo, los lunes…</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Yo, los lunes…\n\n<img src=\"uploads/2021/22cc4c8e45.jpg\" width=\"600\" height=\"599\" alt=\"\" />\n",
+				"content_text": "Yo, los lunes…\n\n<img src=\"https://cdn.uploads.micro.blog/47617/2021/22cc4c8e45.jpg\" width=\"600\" height=\"599\" alt=\"\" />\n",
 				"date_published": "2021-10-12T05:03:00+02:00",
 				"url": "https://canrith.eu/2021/10/11/yo-los-lunes.html"
 			},
@@ -1634,7 +1650,7 @@
 				"id": "http://jlrevilla.micro.blog/2021/09/25/there-and-back.html",
 				
 				"content_html": "<p>There and back again…</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "There and back again…\n\n<img src=\"uploads/2021/d77432fd83.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "There and back again…\n\n<img src=\"https://cdn.uploads.micro.blog/47617/2021/d77432fd83.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-09-25T07:06:44+02:00",
 				"url": "https://canrith.eu/2021/09/25/there-and-back.html"
 			},
@@ -1650,7 +1666,7 @@
 				"id": "http://jlrevilla.micro.blog/2021/09/19/el-primer-canal.html",
 				
 				"content_html": "<p>El primer canal de televisión peruano empezó a transmitir en 1958</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "El primer canal de televisión peruano empezó a transmitir en 1958\n\n<img src=\"uploads/2021/971ec8e00b.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "El primer canal de televisión peruano empezó a transmitir en 1958\n\n<img src=\"https://cdn.uploads.micro.blog/47617/2021/971ec8e00b.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-09-19T15:03:14+02:00",
 				"url": "https://canrith.eu/2021/09/19/el-primer-canal.html"
 			},
@@ -1682,7 +1698,7 @@
 				"id": "http://jlrevilla.micro.blog/2021/09/11/estos-mensajes-de.html",
 				
 				"content_html": "<p>Estos mensajes de galleta de la fortuna claramente fueron impresos antes de la pandemia…</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Estos mensajes de galleta de la fortuna claramente fueron impresos antes de la pandemia…\n\n<img src=\"uploads/2021/8f7a31698c.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Estos mensajes de galleta de la fortuna claramente fueron impresos antes de la pandemia…\n\n<img src=\"https://cdn.uploads.micro.blog/47617/2021/8f7a31698c.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-09-12T03:18:50+02:00",
 				"url": "https://canrith.eu/2021/09/11/estos-mensajes-de.html"
 			},
@@ -1690,7 +1706,7 @@
 				"id": "http://jlrevilla.micro.blog/2021/09/08/scriptorium.html",
 				
 				"content_html": "<p>Scriptorium</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Scriptorium\n\n<img src=\"uploads/2021/8c44952811.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Scriptorium\n\n<img src=\"https://cdn.uploads.micro.blog/47617/2021/8c44952811.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-09-09T03:34:19+02:00",
 				"url": "https://canrith.eu/2021/09/08/scriptorium.html"
 			},
@@ -1706,7 +1722,7 @@
 				"id": "http://jlrevilla.micro.blog/2021/09/01/si-esto-fuera.html",
 				
 				"content_html": "<p>Si esto fuera un juego de rol, aquí estaría el Thieves’ Guild</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Si esto fuera un juego de rol, aquí estaría el Thieves’ Guild\n\n<img src=\"uploads/2021/c97a60ef70.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Si esto fuera un juego de rol, aquí estaría el Thieves’ Guild\n\n<img src=\"https://cdn.uploads.micro.blog/47617/2021/c97a60ef70.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-09-01T20:23:43+02:00",
 				"url": "https://canrith.eu/2021/09/01/si-esto-fuera.html"
 			},
@@ -1722,7 +1738,7 @@
 				"id": "http://jlrevilla.micro.blog/2021/08/30/afortunadamente-es-feriado.html",
 				
 				"content_html": "<p>Afortunadamente es feriado mañana y no tengo que dormir temprano…</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Afortunadamente es feriado mañana y no tengo que dormir temprano…\n\n<img src=\"uploads/2021/ff2080edc4.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Afortunadamente es feriado mañana y no tengo que dormir temprano…\n\n<img src=\"https://cdn.uploads.micro.blog/47617/2021/ff2080edc4.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-08-30T07:57:30+02:00",
 				"url": "https://canrith.eu/2021/08/30/afortunadamente-es-feriado.html"
 			},
@@ -1762,7 +1778,7 @@
 				"id": "http://jlrevilla.micro.blog/2021/08/17/viene-con-el.html",
 				
 				"content_html": "<p>Viene con el puesto de trabajo…</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Viene con el puesto de trabajo…\n\n<img src=\"uploads/2021/9f146dbaf4.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Viene con el puesto de trabajo…\n\n<img src=\"https://cdn.uploads.micro.blog/47617/2021/9f146dbaf4.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-08-18T01:43:58+02:00",
 				"url": "https://canrith.eu/2021/08/17/viene-con-el.html"
 			},
@@ -1770,7 +1786,7 @@
 				"id": "http://jlrevilla.micro.blog/2021/08/16/opciones.html",
 				
 				"content_html": "<p>Opciones</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Opciones\n\n<img src=\"uploads/2021/ae75ad6f12.jpg\" width=\"550\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Opciones\n\n<img src=\"https://cdn.uploads.micro.blog/47617/2021/ae75ad6f12.jpg\" width=\"550\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-08-16T16:56:25+02:00",
 				"url": "https://canrith.eu/2021/08/16/opciones.html"
 			},
@@ -1786,7 +1802,7 @@
 				"id": "http://jlrevilla.micro.blog/2021/08/15/echoes.html",
 				
 				"content_html": "<p>Echoes</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Echoes\n\n<img src=\"uploads/2021/d4403d87cc.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Echoes\n\n<img src=\"https://cdn.uploads.micro.blog/47617/2021/d4403d87cc.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-08-15T21:37:39+02:00",
 				"url": "https://canrith.eu/2021/08/15/echoes.html"
 			},
@@ -1802,7 +1818,7 @@
 				"id": "http://jlrevilla.micro.blog/2021/08/14/de-noche.html",
 				
 				"content_html": "<p>De noche</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "De noche\n\n<img src=\"uploads/2021/b7cf3a8f1b.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "De noche\n\n<img src=\"https://cdn.uploads.micro.blog/47617/2021/b7cf3a8f1b.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-08-15T03:38:49+02:00",
 				"url": "https://canrith.eu/2021/08/14/de-noche.html"
 			},
@@ -1826,7 +1842,7 @@
 				"id": "http://jlrevilla.micro.blog/2021/08/05/solo-en-san.html",
 				
 				"content_html": "<p>Solo en San Borja una avenida se puede cruzar consigo misma…</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Solo en San Borja una avenida se puede cruzar consigo misma…\n\n<img src=\"uploads/2021/824f06cb6f.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Solo en San Borja una avenida se puede cruzar consigo misma…\n\n<img src=\"https://cdn.uploads.micro.blog/47617/2021/824f06cb6f.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-08-06T01:19:14+02:00",
 				"url": "https://canrith.eu/2021/08/05/solo-en-san.html"
 			},
@@ -1858,7 +1874,7 @@
 				"id": "http://jlrevilla.micro.blog/2021/07/31/hace-dos-aos.html",
 				
 				"content_html": "<p>Hace dos años, rock ‘n roll royalty</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Hace dos años, rock ‘n roll royalty\n\n<img src=\"uploads/2021/e007a3a75c.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Hace dos años, rock ‘n roll royalty\n\n<img src=\"https://cdn.uploads.micro.blog/47617/2021/e007a3a75c.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-08-01T04:14:00+02:00",
 				"url": "https://canrith.eu/2021/07/31/hace-dos-aos.html"
 			},
@@ -1874,7 +1890,7 @@
 				"id": "http://jlrevilla.micro.blog/2021/07/31/extra-viajar-pero.html",
 				
 				"content_html": "<p>Extrañé viajar pero no extrañé para nada los aeropuertos…</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Extrañé viajar pero no extrañé para nada los aeropuertos…\n\n<img src=\"uploads/2021/4a4944b77c.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Extrañé viajar pero no extrañé para nada los aeropuertos…\n\n<img src=\"https://jlrevilla.micro.blog/uploads/2021/4a4944b77c.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-06-19T16:56:00+02:00",
 				"url": "https://canrith.eu/2021/07/31/extra-viajar-pero.html"
 			},
@@ -1945,32 +1961,32 @@
 			{
 				"id": "http://jlrevilla.micro.blog/2020/12/02/el-poder-de.html",
 				"title": "El poder de las emociones",
-				"content_html": "<p>Si existe algo que ha quedado claro en todos los estudios que realizan psicólogos sobre <em>Behavioral Economics</em> es que los seres humanos casi nunca tomamos decisiones racionales. En efecto, las decisiones se toman muchas veces de una manera emotiva y luego el cerebro se encarga, no sólo de racionalizar la decisión, sino de engañarse a sí mismo para que parezca que el raciocinio se realizó antes de la decisión.</p>\n<p>Repito: Nuestro cerebro cambia el orden en que recordamos las cosas para que nosotros nos quedemos tranquilos pensando que tomamos una decisión racional.</p>\n<p><img src=\"https://canrith.eu/uploads/2021/3c0411a420.jpg\" alt=\"3333\"></p>\n<p>Esto ha quedado ampliamente demostrado con decenas de estudios que registran lo que las personas declaran como factores de decisión al momento de hacer algo y lo que declaran unos meses después. ¿Por qué nos engañamos a nosotros mismos? Pues para evitar algo que se conoce como <em>Disonancia Cognitiva</em>. No podemos tener dos ideas opuestas conviviendo en nuestro cerebro al mismo tiempo sin generar stress, por lo tanto el cerebro nos ayuda eliminando una de las dos de una manera muy eficaz y conveniente. El efecto puede llegar a ser tan fuerte que es posible hacer que personas decidan tomar una acción que va en contra de sus valores o creencias, incluso una acción auto-destructiva, si es que la disonancia se genera de manera artificial antes de esa decisión.</p>\n<p>Queda claro que las emociones controlan la mente y luego esta controla nuestro cuerpo. Las decisiones que uno  toma y lo satisfecho que se encuentra luego con ellas dependen de factores emocionales, de la experiencia que vivimos y de lo que se nos haga creer. Y, sobre todo, dependen del marco de referencia.</p>\n<p>Una de las pruebas más fuertes del poder de nuestras emociones es el ya famoso <em>Efecto Placebo</em>, en el que numerosas personas muestran mejoras de salud solo por pensar que están tomando la medicina adecuada cuando esta no existe realmente. De niño, cuando me quejaba de dolor de estómago, mi madre me daba una medicina que me curaba de forma casi instantánea&hellip; muchos años después descubrí que solo me daba agua con sal. Pero yo no soy el único con experiencias similares. En un estudio realizado con mucamas en hoteles de New York, se formaron dos grupos: A uno de ellos se les dió una charla que detallaba la cantidad de calorías que se consumen al realizar el trabajo diario de limpieza de habitaciones,mientras que al otro grupo no se le dijo nada. Luego de unos meses, aquellas personas que estaban en el primer grupo habían bajado de peso y se sentían más saludables, mientras que los resultados eran nulos en el segundo grupo. Simplemente el ser conscientes de que estamos realizando una actividad física tiene influencia en los efectos reales de la misma sobre nuestro cuerpo.</p>\n<p>Estudios recientes sobre el stress muestran que personas que declararon estar sometidas a un nivel alto o muy alto de stress tuvieron 43%  másprobabilidad de sufrir un ataque caridaco o problemas de salud relacionados&hellip;  pero sólo si esas personas ya creían que el stress era algo dañino para la salud. Aquellos que declararon estar sometidos a mucho stress pero sin considerarlo dañino, al contrario lo calificaban como emocionante y retador, no mostraron ningún aumento en la probabilidad de tener complicaciones. En efecto, lo que mató a algunas personas no fue sólo el stress, sino el creer que ese stress los iba a matar.</p>\n",
-				"content_text": "Si existe algo que ha quedado claro en todos los estudios que realizan psicólogos sobre *Behavioral Economics* es que los seres humanos casi nunca tomamos decisiones racionales. En efecto, las decisiones se toman muchas veces de una manera emotiva y luego el cerebro se encarga, no sólo de racionalizar la decisión, sino de engañarse a sí mismo para que parezca que el raciocinio se realizó antes de la decisión. \n\nRepito: Nuestro cerebro cambia el orden en que recordamos las cosas para que nosotros nos quedemos tranquilos pensando que tomamos una decisión racional. \n\n![3333](https://canrith.eu/uploads/2021/3c0411a420.jpg)\n\nEsto ha quedado ampliamente demostrado con decenas de estudios que registran lo que las personas declaran como factores de decisión al momento de hacer algo y lo que declaran unos meses después. ¿Por qué nos engañamos a nosotros mismos? Pues para evitar algo que se conoce como *Disonancia Cognitiva*. No podemos tener dos ideas opuestas conviviendo en nuestro cerebro al mismo tiempo sin generar stress, por lo tanto el cerebro nos ayuda eliminando una de las dos de una manera muy eficaz y conveniente. El efecto puede llegar a ser tan fuerte que es posible hacer que personas decidan tomar una acción que va en contra de sus valores o creencias, incluso una acción auto-destructiva, si es que la disonancia se genera de manera artificial antes de esa decisión.\n\nQueda claro que las emociones controlan la mente y luego esta controla nuestro cuerpo. Las decisiones que uno  toma y lo satisfecho que se encuentra luego con ellas dependen de factores emocionales, de la experiencia que vivimos y de lo que se nos haga creer. Y, sobre todo, dependen del marco de referencia.\n\nUna de las pruebas más fuertes del poder de nuestras emociones es el ya famoso *Efecto Placebo*, en el que numerosas personas muestran mejoras de salud solo por pensar que están tomando la medicina adecuada cuando esta no existe realmente. De niño, cuando me quejaba de dolor de estómago, mi madre me daba una medicina que me curaba de forma casi instantánea... muchos años después descubrí que solo me daba agua con sal. Pero yo no soy el único con experiencias similares. En un estudio realizado con mucamas en hoteles de New York, se formaron dos grupos: A uno de ellos se les dió una charla que detallaba la cantidad de calorías que se consumen al realizar el trabajo diario de limpieza de habitaciones,mientras que al otro grupo no se le dijo nada. Luego de unos meses, aquellas personas que estaban en el primer grupo habían bajado de peso y se sentían más saludables, mientras que los resultados eran nulos en el segundo grupo. Simplemente el ser conscientes de que estamos realizando una actividad física tiene influencia en los efectos reales de la misma sobre nuestro cuerpo. \n\nEstudios recientes sobre el stress muestran que personas que declararon estar sometidas a un nivel alto o muy alto de stress tuvieron 43%  másprobabilidad de sufrir un ataque caridaco o problemas de salud relacionados...  pero sólo si esas personas ya creían que el stress era algo dañino para la salud. Aquellos que declararon estar sometidos a mucho stress pero sin considerarlo dañino, al contrario lo calificaban como emocionante y retador, no mostraron ningún aumento en la probabilidad de tener complicaciones. En efecto, lo que mató a algunas personas no fue sólo el stress, sino el creer que ese stress los iba a matar.\n",
+				"content_html": "<p>Si existe algo que ha quedado claro en todos los estudios que realizan psicólogos sobre <em>Behavioral Economics</em> es que los seres humanos casi nunca tomamos decisiones racionales. En efecto, las decisiones se toman muchas veces de una manera emotiva y luego el cerebro se encarga, no sólo de racionalizar la decisión, sino de engañarse a sí mismo para que parezca que el raciocinio se realizó antes de la decisión.</p>\n<p>Repito: Nuestro cerebro cambia el orden en que recordamos las cosas para que nosotros nos quedemos tranquilos pensando que tomamos una decisión racional.</p>\n<p><img src=\"https://cdn.uploads.micro.blog/47617/2021/3c0411a420.jpg\" alt=\"3333\"></p>\n<p>Esto ha quedado ampliamente demostrado con decenas de estudios que registran lo que las personas declaran como factores de decisión al momento de hacer algo y lo que declaran unos meses después. ¿Por qué nos engañamos a nosotros mismos? Pues para evitar algo que se conoce como <em>Disonancia Cognitiva</em>. No podemos tener dos ideas opuestas conviviendo en nuestro cerebro al mismo tiempo sin generar stress, por lo tanto el cerebro nos ayuda eliminando una de las dos de una manera muy eficaz y conveniente. El efecto puede llegar a ser tan fuerte que es posible hacer que personas decidan tomar una acción que va en contra de sus valores o creencias, incluso una acción auto-destructiva, si es que la disonancia se genera de manera artificial antes de esa decisión.</p>\n<p>Queda claro que las emociones controlan la mente y luego esta controla nuestro cuerpo. Las decisiones que uno  toma y lo satisfecho que se encuentra luego con ellas dependen de factores emocionales, de la experiencia que vivimos y de lo que se nos haga creer. Y, sobre todo, dependen del marco de referencia.</p>\n<p>Una de las pruebas más fuertes del poder de nuestras emociones es el ya famoso <em>Efecto Placebo</em>, en el que numerosas personas muestran mejoras de salud solo por pensar que están tomando la medicina adecuada cuando esta no existe realmente. De niño, cuando me quejaba de dolor de estómago, mi madre me daba una medicina que me curaba de forma casi instantánea&hellip; muchos años después descubrí que solo me daba agua con sal. Pero yo no soy el único con experiencias similares. En un estudio realizado con mucamas en hoteles de New York, se formaron dos grupos: A uno de ellos se les dió una charla que detallaba la cantidad de calorías que se consumen al realizar el trabajo diario de limpieza de habitaciones,mientras que al otro grupo no se le dijo nada. Luego de unos meses, aquellas personas que estaban en el primer grupo habían bajado de peso y se sentían más saludables, mientras que los resultados eran nulos en el segundo grupo. Simplemente el ser conscientes de que estamos realizando una actividad física tiene influencia en los efectos reales de la misma sobre nuestro cuerpo.</p>\n<p>Estudios recientes sobre el stress muestran que personas que declararon estar sometidas a un nivel alto o muy alto de stress tuvieron 43%  másprobabilidad de sufrir un ataque caridaco o problemas de salud relacionados&hellip;  pero sólo si esas personas ya creían que el stress era algo dañino para la salud. Aquellos que declararon estar sometidos a mucho stress pero sin considerarlo dañino, al contrario lo calificaban como emocionante y retador, no mostraron ningún aumento en la probabilidad de tener complicaciones. En efecto, lo que mató a algunas personas no fue sólo el stress, sino el creer que ese stress los iba a matar.</p>\n",
+				"content_text": "Si existe algo que ha quedado claro en todos los estudios que realizan psicólogos sobre *Behavioral Economics* es que los seres humanos casi nunca tomamos decisiones racionales. En efecto, las decisiones se toman muchas veces de una manera emotiva y luego el cerebro se encarga, no sólo de racionalizar la decisión, sino de engañarse a sí mismo para que parezca que el raciocinio se realizó antes de la decisión. \n\nRepito: Nuestro cerebro cambia el orden en que recordamos las cosas para que nosotros nos quedemos tranquilos pensando que tomamos una decisión racional. \n\n![3333](https://cdn.uploads.micro.blog/47617/2021/3c0411a420.jpg)\n\nEsto ha quedado ampliamente demostrado con decenas de estudios que registran lo que las personas declaran como factores de decisión al momento de hacer algo y lo que declaran unos meses después. ¿Por qué nos engañamos a nosotros mismos? Pues para evitar algo que se conoce como *Disonancia Cognitiva*. No podemos tener dos ideas opuestas conviviendo en nuestro cerebro al mismo tiempo sin generar stress, por lo tanto el cerebro nos ayuda eliminando una de las dos de una manera muy eficaz y conveniente. El efecto puede llegar a ser tan fuerte que es posible hacer que personas decidan tomar una acción que va en contra de sus valores o creencias, incluso una acción auto-destructiva, si es que la disonancia se genera de manera artificial antes de esa decisión.\n\nQueda claro que las emociones controlan la mente y luego esta controla nuestro cuerpo. Las decisiones que uno  toma y lo satisfecho que se encuentra luego con ellas dependen de factores emocionales, de la experiencia que vivimos y de lo que se nos haga creer. Y, sobre todo, dependen del marco de referencia.\n\nUna de las pruebas más fuertes del poder de nuestras emociones es el ya famoso *Efecto Placebo*, en el que numerosas personas muestran mejoras de salud solo por pensar que están tomando la medicina adecuada cuando esta no existe realmente. De niño, cuando me quejaba de dolor de estómago, mi madre me daba una medicina que me curaba de forma casi instantánea... muchos años después descubrí que solo me daba agua con sal. Pero yo no soy el único con experiencias similares. En un estudio realizado con mucamas en hoteles de New York, se formaron dos grupos: A uno de ellos se les dió una charla que detallaba la cantidad de calorías que se consumen al realizar el trabajo diario de limpieza de habitaciones,mientras que al otro grupo no se le dijo nada. Luego de unos meses, aquellas personas que estaban en el primer grupo habían bajado de peso y se sentían más saludables, mientras que los resultados eran nulos en el segundo grupo. Simplemente el ser conscientes de que estamos realizando una actividad física tiene influencia en los efectos reales de la misma sobre nuestro cuerpo. \n\nEstudios recientes sobre el stress muestran que personas que declararon estar sometidas a un nivel alto o muy alto de stress tuvieron 43%  másprobabilidad de sufrir un ataque caridaco o problemas de salud relacionados...  pero sólo si esas personas ya creían que el stress era algo dañino para la salud. Aquellos que declararon estar sometidos a mucho stress pero sin considerarlo dañino, al contrario lo calificaban como emocionante y retador, no mostraron ningún aumento en la probabilidad de tener complicaciones. En efecto, lo que mató a algunas personas no fue sólo el stress, sino el creer que ese stress los iba a matar.\n",
 				"date_published": "2020-12-02T02:22:36+02:00",
 				"url": "https://canrith.eu/2020/12/01/el-poder-de.html"
 			},
 			{
 				"id": "http://jlrevilla.micro.blog/2020/11/29/cuando-el-conocimiento.html",
 				"title": "Cuando el conocimiento une dispares",
-				"content_html": "<p>En la cosmología de <em>Krynn</em>, parte del mundo de fantasía llamado <em>Dragonlance</em> y creado para <em>&ldquo;Dungeons &amp; Dragons&rdquo;</em> por Weiss y Hickman, existían tres Grandes Ordenes de Magia. Estas se distinguían no sólo por sus túnicas de colores sino por sus valores y forma de conducta que, sobre-simplificadas por ser un libro para niños, básicamente los marca como os buenos, los malos y los neutrales. Por supuesto que si hechiceros de órdenes distintas se encontraban en algún lugar del planeta, eran enemigos a muerte.</p>\n<p>Sin embargo, por más diferencias que tengan sobre si era buena idea ayudar a un campesino en apuros o desintegrarlo para que no fastidie, todos se consideraban hermanos en la magia, o <em>El Arte</em>, como lo llamaban. Y es así que existían cinco torres, The Towers of High Sorcery, donde miembros de las tres órdenes si trabajaban juntos buscado aumentar el conocimiento mágico y dejando momentáneamente de lado sus diferencias. Nada de hostilidades cuando algo tan importante estaba en juego.</p>\n<p><img src=\"https://canrith.eu/uploads/2021/3b4f3ae9da.jpg\" alt=\"Once upon a time\"></p>\n<p>Leyendo nuevamente a Bryson he notado que a veces en la historia han pasado cosas similares. Me refiero, por ejemplo, a la <em>Royal Society of London</em>, fundada en 1660 justo después de una Guerra Civil. ¿Los miembros? Personas con creencias tan dispares que sólo unos años atrás se habían estado matando unos a otros. Realistas y Reformistas. Anglicanos y Protestantes. Cualquiera que se tome en serio la historia puede comprender lo enormemente opuestas que eran estas formas de pensar. Y sin embargo, ahí se juntaron para buscar hacer ciencia, grandes genios y personalidades.</p>\n<p>Tenemos a Sir Christopher Wren, el arquitecto que casi casi reconstruyó Londres el solo. Vale decir que aprovechó la reconstrucción para crear observatorios que no hubiera podido construir de otra forma. Estaba Robert Boyle, el fundador de la química moderna. Robert Hooke, quien le puso nombre a las células, estudió fósiles por primera vez, descubrió la mancha roja de Júpiter y la rotación de Marte. Para colmo ayudó a Newton con la teoría de la gravedad y estuvo a un pelo de descubrir el oxígeno. Y bueno, Newton también estaba ahí, y que más se puede decir de la persona que descubrió la mitad de la física moderna (la otra mitad vino luego con Einstein). Tenemos a Sir William Petty, de la teoría del valor y otras ideas en economía. John Wilkins, astrónomo y criptógrafo. Thomas Willis, considerado el padre de la neurología. Y la verdad sólo estoy mencionando a lo más notables porque la lista es enorme.</p>\n<p>Incluso Edmond Halley, si bien no era miembro oficial, nunca se perdía una de las reuniones. Dicho sea de paso, Halley hizo muchas cosas pero no descubrió el cometa, le pusieron su nombre mucho después. Lo que si hizo fue diseñar un mapa estelar, una campana sumergible y estudiar el magnetismo y la gravedad. De hecho fue él quien buscó a su amigo Newton para que lo ayude con un par de cosas sobre eso de la gravedad y cuando llegó a su casa se enteró que Sir Isaac ya había descubierto todo hacía tiempo, sólo que no le parecía importante publicarlo porque estaba muy ocupado quedándose ciego (clavándose agujas en los ojos) mientras comprobaba sus fórmulas de óptica. Edmond llevó el libro de Newton a la Royal Society para que lo publiquen, pero le dijeron que no, gracias, porque ya se habían gastado todo su presupuesto en un tomo sobre la historia de los peces. Así que el dinero para publicar el <em>Philosophiae Naturalis Principia Mathematica</em> salió de los bolsillos de Halley.</p>\n<p>Por supuesto que estos personajes también perdían el tiempo investigando tonterías, pero esbozaron las bases de la ciencia moderna. Ayudaron a desligar la pseudo-ciencia de la ciencia real: la astronomía de la astrología, la química de la alquimia, la física de la magia. Es algo similar a lo que pasa hoy en día, donde temas como la ingeniería genética, la exploración del espacio o la nanotecnología se enfrentan al mismo problema de ser bombardeadas por una fuerte mezcla de misticismo o tratadas como temas tabú.</p>\n<p>En el ámbito personal he podido apreciar este efecto Tower of High Sorcery cuando, por ejemplo, personas de todas las edades y con historias completamente heterogéneas podemos pasar un día juntos y divertidos en una Retro Party por el sólo hecho de compartir una historia en las épocas de las computadoras de 8-bit (Commodore FTW!). O cuando me reúno en un club de lectura y veo como diferencias políticas y personales desaparecen mientras discutimos las obras de Le Guin. Quien sabe, tal vez las raíces de un nuevo Fellowship se encuentran ahí.</p>\n",
-				"content_text": "\nEn la cosmología de *Krynn*, parte del mundo de fantasía llamado *Dragonlance* y creado para *\"Dungeons & Dragons\"* por Weiss y Hickman, existían tres Grandes Ordenes de Magia. Estas se distinguían no sólo por sus túnicas de colores sino por sus valores y forma de conducta que, sobre-simplificadas por ser un libro para niños, básicamente los marca como os buenos, los malos y los neutrales. Por supuesto que si hechiceros de órdenes distintas se encontraban en algún lugar del planeta, eran enemigos a muerte.\n\nSin embargo, por más diferencias que tengan sobre si era buena idea ayudar a un campesino en apuros o desintegrarlo para que no fastidie, todos se consideraban hermanos en la magia, o *El Arte*, como lo llamaban. Y es así que existían cinco torres, The Towers of High Sorcery, donde miembros de las tres órdenes si trabajaban juntos buscado aumentar el conocimiento mágico y dejando momentáneamente de lado sus diferencias. Nada de hostilidades cuando algo tan importante estaba en juego.\n\n![Once upon a time](https://canrith.eu/uploads/2021/3b4f3ae9da.jpg)\n\nLeyendo nuevamente a Bryson he notado que a veces en la historia han pasado cosas similares. Me refiero, por ejemplo, a la *Royal Society of London*, fundada en 1660 justo después de una Guerra Civil. ¿Los miembros? Personas con creencias tan dispares que sólo unos años atrás se habían estado matando unos a otros. Realistas y Reformistas. Anglicanos y Protestantes. Cualquiera que se tome en serio la historia puede comprender lo enormemente opuestas que eran estas formas de pensar. Y sin embargo, ahí se juntaron para buscar hacer ciencia, grandes genios y personalidades.\n\nTenemos a Sir Christopher Wren, el arquitecto que casi casi reconstruyó Londres el solo. Vale decir que aprovechó la reconstrucción para crear observatorios que no hubiera podido construir de otra forma. Estaba Robert Boyle, el fundador de la química moderna. Robert Hooke, quien le puso nombre a las células, estudió fósiles por primera vez, descubrió la mancha roja de Júpiter y la rotación de Marte. Para colmo ayudó a Newton con la teoría de la gravedad y estuvo a un pelo de descubrir el oxígeno. Y bueno, Newton también estaba ahí, y que más se puede decir de la persona que descubrió la mitad de la física moderna (la otra mitad vino luego con Einstein). Tenemos a Sir William Petty, de la teoría del valor y otras ideas en economía. John Wilkins, astrónomo y criptógrafo. Thomas Willis, considerado el padre de la neurología. Y la verdad sólo estoy mencionando a lo más notables porque la lista es enorme.\n\nIncluso Edmond Halley, si bien no era miembro oficial, nunca se perdía una de las reuniones. Dicho sea de paso, Halley hizo muchas cosas pero no descubrió el cometa, le pusieron su nombre mucho después. Lo que si hizo fue diseñar un mapa estelar, una campana sumergible y estudiar el magnetismo y la gravedad. De hecho fue él quien buscó a su amigo Newton para que lo ayude con un par de cosas sobre eso de la gravedad y cuando llegó a su casa se enteró que Sir Isaac ya había descubierto todo hacía tiempo, sólo que no le parecía importante publicarlo porque estaba muy ocupado quedándose ciego (clavándose agujas en los ojos) mientras comprobaba sus fórmulas de óptica. Edmond llevó el libro de Newton a la Royal Society para que lo publiquen, pero le dijeron que no, gracias, porque ya se habían gastado todo su presupuesto en un tomo sobre la historia de los peces. Así que el dinero para publicar el *Philosophiae Naturalis Principia Mathematica* salió de los bolsillos de Halley.\n\nPor supuesto que estos personajes también perdían el tiempo investigando tonterías, pero esbozaron las bases de la ciencia moderna. Ayudaron a desligar la pseudo-ciencia de la ciencia real: la astronomía de la astrología, la química de la alquimia, la física de la magia. Es algo similar a lo que pasa hoy en día, donde temas como la ingeniería genética, la exploración del espacio o la nanotecnología se enfrentan al mismo problema de ser bombardeadas por una fuerte mezcla de misticismo o tratadas como temas tabú. \n\nEn el ámbito personal he podido apreciar este efecto Tower of High Sorcery cuando, por ejemplo, personas de todas las edades y con historias completamente heterogéneas podemos pasar un día juntos y divertidos en una Retro Party por el sólo hecho de compartir una historia en las épocas de las computadoras de 8-bit (Commodore FTW!). O cuando me reúno en un club de lectura y veo como diferencias políticas y personales desaparecen mientras discutimos las obras de Le Guin. Quien sabe, tal vez las raíces de un nuevo Fellowship se encuentran ahí.\n",
+				"content_html": "<p>En la cosmología de <em>Krynn</em>, parte del mundo de fantasía llamado <em>Dragonlance</em> y creado para <em>&ldquo;Dungeons &amp; Dragons&rdquo;</em> por Weiss y Hickman, existían tres Grandes Ordenes de Magia. Estas se distinguían no sólo por sus túnicas de colores sino por sus valores y forma de conducta que, sobre-simplificadas por ser un libro para niños, básicamente los marca como os buenos, los malos y los neutrales. Por supuesto que si hechiceros de órdenes distintas se encontraban en algún lugar del planeta, eran enemigos a muerte.</p>\n<p>Sin embargo, por más diferencias que tengan sobre si era buena idea ayudar a un campesino en apuros o desintegrarlo para que no fastidie, todos se consideraban hermanos en la magia, o <em>El Arte</em>, como lo llamaban. Y es así que existían cinco torres, The Towers of High Sorcery, donde miembros de las tres órdenes si trabajaban juntos buscado aumentar el conocimiento mágico y dejando momentáneamente de lado sus diferencias. Nada de hostilidades cuando algo tan importante estaba en juego.</p>\n<p><img src=\"https://cdn.uploads.micro.blog/47617/2021/3b4f3ae9da.jpg\" alt=\"Once upon a time\"></p>\n<p>Leyendo nuevamente a Bryson he notado que a veces en la historia han pasado cosas similares. Me refiero, por ejemplo, a la <em>Royal Society of London</em>, fundada en 1660 justo después de una Guerra Civil. ¿Los miembros? Personas con creencias tan dispares que sólo unos años atrás se habían estado matando unos a otros. Realistas y Reformistas. Anglicanos y Protestantes. Cualquiera que se tome en serio la historia puede comprender lo enormemente opuestas que eran estas formas de pensar. Y sin embargo, ahí se juntaron para buscar hacer ciencia, grandes genios y personalidades.</p>\n<p>Tenemos a Sir Christopher Wren, el arquitecto que casi casi reconstruyó Londres el solo. Vale decir que aprovechó la reconstrucción para crear observatorios que no hubiera podido construir de otra forma. Estaba Robert Boyle, el fundador de la química moderna. Robert Hooke, quien le puso nombre a las células, estudió fósiles por primera vez, descubrió la mancha roja de Júpiter y la rotación de Marte. Para colmo ayudó a Newton con la teoría de la gravedad y estuvo a un pelo de descubrir el oxígeno. Y bueno, Newton también estaba ahí, y que más se puede decir de la persona que descubrió la mitad de la física moderna (la otra mitad vino luego con Einstein). Tenemos a Sir William Petty, de la teoría del valor y otras ideas en economía. John Wilkins, astrónomo y criptógrafo. Thomas Willis, considerado el padre de la neurología. Y la verdad sólo estoy mencionando a lo más notables porque la lista es enorme.</p>\n<p>Incluso Edmond Halley, si bien no era miembro oficial, nunca se perdía una de las reuniones. Dicho sea de paso, Halley hizo muchas cosas pero no descubrió el cometa, le pusieron su nombre mucho después. Lo que si hizo fue diseñar un mapa estelar, una campana sumergible y estudiar el magnetismo y la gravedad. De hecho fue él quien buscó a su amigo Newton para que lo ayude con un par de cosas sobre eso de la gravedad y cuando llegó a su casa se enteró que Sir Isaac ya había descubierto todo hacía tiempo, sólo que no le parecía importante publicarlo porque estaba muy ocupado quedándose ciego (clavándose agujas en los ojos) mientras comprobaba sus fórmulas de óptica. Edmond llevó el libro de Newton a la Royal Society para que lo publiquen, pero le dijeron que no, gracias, porque ya se habían gastado todo su presupuesto en un tomo sobre la historia de los peces. Así que el dinero para publicar el <em>Philosophiae Naturalis Principia Mathematica</em> salió de los bolsillos de Halley.</p>\n<p>Por supuesto que estos personajes también perdían el tiempo investigando tonterías, pero esbozaron las bases de la ciencia moderna. Ayudaron a desligar la pseudo-ciencia de la ciencia real: la astronomía de la astrología, la química de la alquimia, la física de la magia. Es algo similar a lo que pasa hoy en día, donde temas como la ingeniería genética, la exploración del espacio o la nanotecnología se enfrentan al mismo problema de ser bombardeadas por una fuerte mezcla de misticismo o tratadas como temas tabú.</p>\n<p>En el ámbito personal he podido apreciar este efecto Tower of High Sorcery cuando, por ejemplo, personas de todas las edades y con historias completamente heterogéneas podemos pasar un día juntos y divertidos en una Retro Party por el sólo hecho de compartir una historia en las épocas de las computadoras de 8-bit (Commodore FTW!). O cuando me reúno en un club de lectura y veo como diferencias políticas y personales desaparecen mientras discutimos las obras de Le Guin. Quien sabe, tal vez las raíces de un nuevo Fellowship se encuentran ahí.</p>\n",
+				"content_text": "\nEn la cosmología de *Krynn*, parte del mundo de fantasía llamado *Dragonlance* y creado para *\"Dungeons & Dragons\"* por Weiss y Hickman, existían tres Grandes Ordenes de Magia. Estas se distinguían no sólo por sus túnicas de colores sino por sus valores y forma de conducta que, sobre-simplificadas por ser un libro para niños, básicamente los marca como os buenos, los malos y los neutrales. Por supuesto que si hechiceros de órdenes distintas se encontraban en algún lugar del planeta, eran enemigos a muerte.\n\nSin embargo, por más diferencias que tengan sobre si era buena idea ayudar a un campesino en apuros o desintegrarlo para que no fastidie, todos se consideraban hermanos en la magia, o *El Arte*, como lo llamaban. Y es así que existían cinco torres, The Towers of High Sorcery, donde miembros de las tres órdenes si trabajaban juntos buscado aumentar el conocimiento mágico y dejando momentáneamente de lado sus diferencias. Nada de hostilidades cuando algo tan importante estaba en juego.\n\n![Once upon a time](https://cdn.uploads.micro.blog/47617/2021/3b4f3ae9da.jpg)\n\nLeyendo nuevamente a Bryson he notado que a veces en la historia han pasado cosas similares. Me refiero, por ejemplo, a la *Royal Society of London*, fundada en 1660 justo después de una Guerra Civil. ¿Los miembros? Personas con creencias tan dispares que sólo unos años atrás se habían estado matando unos a otros. Realistas y Reformistas. Anglicanos y Protestantes. Cualquiera que se tome en serio la historia puede comprender lo enormemente opuestas que eran estas formas de pensar. Y sin embargo, ahí se juntaron para buscar hacer ciencia, grandes genios y personalidades.\n\nTenemos a Sir Christopher Wren, el arquitecto que casi casi reconstruyó Londres el solo. Vale decir que aprovechó la reconstrucción para crear observatorios que no hubiera podido construir de otra forma. Estaba Robert Boyle, el fundador de la química moderna. Robert Hooke, quien le puso nombre a las células, estudió fósiles por primera vez, descubrió la mancha roja de Júpiter y la rotación de Marte. Para colmo ayudó a Newton con la teoría de la gravedad y estuvo a un pelo de descubrir el oxígeno. Y bueno, Newton también estaba ahí, y que más se puede decir de la persona que descubrió la mitad de la física moderna (la otra mitad vino luego con Einstein). Tenemos a Sir William Petty, de la teoría del valor y otras ideas en economía. John Wilkins, astrónomo y criptógrafo. Thomas Willis, considerado el padre de la neurología. Y la verdad sólo estoy mencionando a lo más notables porque la lista es enorme.\n\nIncluso Edmond Halley, si bien no era miembro oficial, nunca se perdía una de las reuniones. Dicho sea de paso, Halley hizo muchas cosas pero no descubrió el cometa, le pusieron su nombre mucho después. Lo que si hizo fue diseñar un mapa estelar, una campana sumergible y estudiar el magnetismo y la gravedad. De hecho fue él quien buscó a su amigo Newton para que lo ayude con un par de cosas sobre eso de la gravedad y cuando llegó a su casa se enteró que Sir Isaac ya había descubierto todo hacía tiempo, sólo que no le parecía importante publicarlo porque estaba muy ocupado quedándose ciego (clavándose agujas en los ojos) mientras comprobaba sus fórmulas de óptica. Edmond llevó el libro de Newton a la Royal Society para que lo publiquen, pero le dijeron que no, gracias, porque ya se habían gastado todo su presupuesto en un tomo sobre la historia de los peces. Así que el dinero para publicar el *Philosophiae Naturalis Principia Mathematica* salió de los bolsillos de Halley.\n\nPor supuesto que estos personajes también perdían el tiempo investigando tonterías, pero esbozaron las bases de la ciencia moderna. Ayudaron a desligar la pseudo-ciencia de la ciencia real: la astronomía de la astrología, la química de la alquimia, la física de la magia. Es algo similar a lo que pasa hoy en día, donde temas como la ingeniería genética, la exploración del espacio o la nanotecnología se enfrentan al mismo problema de ser bombardeadas por una fuerte mezcla de misticismo o tratadas como temas tabú. \n\nEn el ámbito personal he podido apreciar este efecto Tower of High Sorcery cuando, por ejemplo, personas de todas las edades y con historias completamente heterogéneas podemos pasar un día juntos y divertidos en una Retro Party por el sólo hecho de compartir una historia en las épocas de las computadoras de 8-bit (Commodore FTW!). O cuando me reúno en un club de lectura y veo como diferencias políticas y personales desaparecen mientras discutimos las obras de Le Guin. Quien sabe, tal vez las raíces de un nuevo Fellowship se encuentran ahí.\n",
 				"date_published": "2020-11-29T02:22:36+02:00",
 				"url": "https://canrith.eu/2020/11/28/cuando-el-conocimiento.html"
 			},
 			{
 				"id": "http://jlrevilla.micro.blog/2020/11/27/ser-un-gateway.html",
 				"title": "Ser un gateway",
-				"content_html": "<p>En el mundo del networking, un gateway es un dispositivo que sirve de interfaz entre redes que usan diferentes protocolos de comunicación, una especie de traductor simultáneo. Si no fuera por ellos, sería imposible la Internet como la conocemos.</p>\n<p><img src=\"https://canrith.eu/uploads/2021/b60f132039.jpg\" alt=\"Coffee Pots\"></p>\n<p>Pues bien, en toda empresa existen grupos, tribus diferentes que hablan idiomas distintos. Los de ventas y los de soporte. Los de contabilidad y los de marketing.</p>\n<p>A veces hasta parece que tuvieran metas opuestas. Unos quieren tener el almacén de repuestos más grande posible para solucionar la mayoría de casos en poco tiempo, los otros quieren tener el almacén más pequeño posible para ahorrar costos. Unos quieren que los procesos sean ágiles y no se pierda tiempo, los otros quieren que los procesos sean lentos y seguros para no cometer errores que puedan comprometer a la empresa legal o económicamente. Unos quieren el producto más vendible y los otros el más eficiente.</p>\n<p>Más que un problema, esto yo lo veo como una oportunidad, pues si se logra encontrar ese punto de intersección entre las dos tribus es ahí donde se puede agregar mucho valor. Un gateway humano que habla los dos idiomas y comparte un poco de ambos puntos de vista.</p>\n<p>A mí siempre me ha gustado ser un gateway. Empecé en la industria trabajando en pre-venta, sirviendo de interfaz entre los aspectos técnicos de los productos y los clientes que buscaban solucionar algún problema. Mi misión consistía en tomar las marcianadas, estudiarlas y volverlas digeribles; encontrar cómo una especificación técnica se convertía en un beneficio para el negocio. Fui el gateway entre los clientes que contrataban servicios y los engranes de la máquina. Ellos hacían un pedido, yo debía traducirlo internamente e impulsar los procesos necesarios para que se logre. Hoy han pasado muchos años y en el fondo sigo usando los mismos skills.</p>\n<p>Hablar el idioma de tu audiencia es algo muy importante. Carl Sagan no era el astrofísico más inteligente de su época, pero era el único que podía conectarse de manera efectiva con la gente común. El Dr. Watson merece más crédito que el que normalmente recibe, pues un junkie antisocial como Sherlock Holmes, con cero conocimientos de política, literatura o filosofía, no la hubiera hecho sólo. C3PO puede ser el payaso de la saga original de Star Wars, pero sin su dominio de más de siete millones de formas de comunicación los héroes no habrían llegado a ningún lado.</p>\n<p>Como dijo Robert Heinlein, uno de mis autores favoritos: El ser humano debe ser capaz de cambiar pañales, planear una invasión, sacrificar un cerdo, gobernar un barco, diseñar un edificio, escribir un soneto, reducir una fractura, consolar a los moribundos, recibir órdenes, dar órdenes, resolver ecuaciones, abonar la tierra con estiércol, programar una computadora, cocinar una comida sabrosa, combatir con eficacia, morir con gallardía. La especialización es para los insectos.</p>\n",
-				"content_text": "En el mundo del networking, un gateway es un dispositivo que sirve de interfaz entre redes que usan diferentes protocolos de comunicación, una especie de traductor simultáneo. Si no fuera por ellos, sería imposible la Internet como la conocemos.\n\n![Coffee Pots](https://canrith.eu/uploads/2021/b60f132039.jpg)\n\nPues bien, en toda empresa existen grupos, tribus diferentes que hablan idiomas distintos. Los de ventas y los de soporte. Los de contabilidad y los de marketing. \n\nA veces hasta parece que tuvieran metas opuestas. Unos quieren tener el almacén de repuestos más grande posible para solucionar la mayoría de casos en poco tiempo, los otros quieren tener el almacén más pequeño posible para ahorrar costos. Unos quieren que los procesos sean ágiles y no se pierda tiempo, los otros quieren que los procesos sean lentos y seguros para no cometer errores que puedan comprometer a la empresa legal o económicamente. Unos quieren el producto más vendible y los otros el más eficiente.\n\nMás que un problema, esto yo lo veo como una oportunidad, pues si se logra encontrar ese punto de intersección entre las dos tribus es ahí donde se puede agregar mucho valor. Un gateway humano que habla los dos idiomas y comparte un poco de ambos puntos de vista.\n\nA mí siempre me ha gustado ser un gateway. Empecé en la industria trabajando en pre-venta, sirviendo de interfaz entre los aspectos técnicos de los productos y los clientes que buscaban solucionar algún problema. Mi misión consistía en tomar las marcianadas, estudiarlas y volverlas digeribles; encontrar cómo una especificación técnica se convertía en un beneficio para el negocio. Fui el gateway entre los clientes que contrataban servicios y los engranes de la máquina. Ellos hacían un pedido, yo debía traducirlo internamente e impulsar los procesos necesarios para que se logre. Hoy han pasado muchos años y en el fondo sigo usando los mismos skills.\n\nHablar el idioma de tu audiencia es algo muy importante. Carl Sagan no era el astrofísico más inteligente de su época, pero era el único que podía conectarse de manera efectiva con la gente común. El Dr. Watson merece más crédito que el que normalmente recibe, pues un junkie antisocial como Sherlock Holmes, con cero conocimientos de política, literatura o filosofía, no la hubiera hecho sólo. C3PO puede ser el payaso de la saga original de Star Wars, pero sin su dominio de más de siete millones de formas de comunicación los héroes no habrían llegado a ningún lado.\n\nComo dijo Robert Heinlein, uno de mis autores favoritos: El ser humano debe ser capaz de cambiar pañales, planear una invasión, sacrificar un cerdo, gobernar un barco, diseñar un edificio, escribir un soneto, reducir una fractura, consolar a los moribundos, recibir órdenes, dar órdenes, resolver ecuaciones, abonar la tierra con estiércol, programar una computadora, cocinar una comida sabrosa, combatir con eficacia, morir con gallardía. La especialización es para los insectos.\n",
+				"content_html": "<p>En el mundo del networking, un gateway es un dispositivo que sirve de interfaz entre redes que usan diferentes protocolos de comunicación, una especie de traductor simultáneo. Si no fuera por ellos, sería imposible la Internet como la conocemos.</p>\n<p><img src=\"https://cdn.uploads.micro.blog/47617/2021/b60f132039.jpg\" alt=\"Coffee Pots\"></p>\n<p>Pues bien, en toda empresa existen grupos, tribus diferentes que hablan idiomas distintos. Los de ventas y los de soporte. Los de contabilidad y los de marketing.</p>\n<p>A veces hasta parece que tuvieran metas opuestas. Unos quieren tener el almacén de repuestos más grande posible para solucionar la mayoría de casos en poco tiempo, los otros quieren tener el almacén más pequeño posible para ahorrar costos. Unos quieren que los procesos sean ágiles y no se pierda tiempo, los otros quieren que los procesos sean lentos y seguros para no cometer errores que puedan comprometer a la empresa legal o económicamente. Unos quieren el producto más vendible y los otros el más eficiente.</p>\n<p>Más que un problema, esto yo lo veo como una oportunidad, pues si se logra encontrar ese punto de intersección entre las dos tribus es ahí donde se puede agregar mucho valor. Un gateway humano que habla los dos idiomas y comparte un poco de ambos puntos de vista.</p>\n<p>A mí siempre me ha gustado ser un gateway. Empecé en la industria trabajando en pre-venta, sirviendo de interfaz entre los aspectos técnicos de los productos y los clientes que buscaban solucionar algún problema. Mi misión consistía en tomar las marcianadas, estudiarlas y volverlas digeribles; encontrar cómo una especificación técnica se convertía en un beneficio para el negocio. Fui el gateway entre los clientes que contrataban servicios y los engranes de la máquina. Ellos hacían un pedido, yo debía traducirlo internamente e impulsar los procesos necesarios para que se logre. Hoy han pasado muchos años y en el fondo sigo usando los mismos skills.</p>\n<p>Hablar el idioma de tu audiencia es algo muy importante. Carl Sagan no era el astrofísico más inteligente de su época, pero era el único que podía conectarse de manera efectiva con la gente común. El Dr. Watson merece más crédito que el que normalmente recibe, pues un junkie antisocial como Sherlock Holmes, con cero conocimientos de política, literatura o filosofía, no la hubiera hecho sólo. C3PO puede ser el payaso de la saga original de Star Wars, pero sin su dominio de más de siete millones de formas de comunicación los héroes no habrían llegado a ningún lado.</p>\n<p>Como dijo Robert Heinlein, uno de mis autores favoritos: El ser humano debe ser capaz de cambiar pañales, planear una invasión, sacrificar un cerdo, gobernar un barco, diseñar un edificio, escribir un soneto, reducir una fractura, consolar a los moribundos, recibir órdenes, dar órdenes, resolver ecuaciones, abonar la tierra con estiércol, programar una computadora, cocinar una comida sabrosa, combatir con eficacia, morir con gallardía. La especialización es para los insectos.</p>\n",
+				"content_text": "En el mundo del networking, un gateway es un dispositivo que sirve de interfaz entre redes que usan diferentes protocolos de comunicación, una especie de traductor simultáneo. Si no fuera por ellos, sería imposible la Internet como la conocemos.\n\n![Coffee Pots](https://cdn.uploads.micro.blog/47617/2021/b60f132039.jpg)\n\nPues bien, en toda empresa existen grupos, tribus diferentes que hablan idiomas distintos. Los de ventas y los de soporte. Los de contabilidad y los de marketing. \n\nA veces hasta parece que tuvieran metas opuestas. Unos quieren tener el almacén de repuestos más grande posible para solucionar la mayoría de casos en poco tiempo, los otros quieren tener el almacén más pequeño posible para ahorrar costos. Unos quieren que los procesos sean ágiles y no se pierda tiempo, los otros quieren que los procesos sean lentos y seguros para no cometer errores que puedan comprometer a la empresa legal o económicamente. Unos quieren el producto más vendible y los otros el más eficiente.\n\nMás que un problema, esto yo lo veo como una oportunidad, pues si se logra encontrar ese punto de intersección entre las dos tribus es ahí donde se puede agregar mucho valor. Un gateway humano que habla los dos idiomas y comparte un poco de ambos puntos de vista.\n\nA mí siempre me ha gustado ser un gateway. Empecé en la industria trabajando en pre-venta, sirviendo de interfaz entre los aspectos técnicos de los productos y los clientes que buscaban solucionar algún problema. Mi misión consistía en tomar las marcianadas, estudiarlas y volverlas digeribles; encontrar cómo una especificación técnica se convertía en un beneficio para el negocio. Fui el gateway entre los clientes que contrataban servicios y los engranes de la máquina. Ellos hacían un pedido, yo debía traducirlo internamente e impulsar los procesos necesarios para que se logre. Hoy han pasado muchos años y en el fondo sigo usando los mismos skills.\n\nHablar el idioma de tu audiencia es algo muy importante. Carl Sagan no era el astrofísico más inteligente de su época, pero era el único que podía conectarse de manera efectiva con la gente común. El Dr. Watson merece más crédito que el que normalmente recibe, pues un junkie antisocial como Sherlock Holmes, con cero conocimientos de política, literatura o filosofía, no la hubiera hecho sólo. C3PO puede ser el payaso de la saga original de Star Wars, pero sin su dominio de más de siete millones de formas de comunicación los héroes no habrían llegado a ningún lado.\n\nComo dijo Robert Heinlein, uno de mis autores favoritos: El ser humano debe ser capaz de cambiar pañales, planear una invasión, sacrificar un cerdo, gobernar un barco, diseñar un edificio, escribir un soneto, reducir una fractura, consolar a los moribundos, recibir órdenes, dar órdenes, resolver ecuaciones, abonar la tierra con estiércol, programar una computadora, cocinar una comida sabrosa, combatir con eficacia, morir con gallardía. La especialización es para los insectos.\n",
 				"date_published": "2020-11-27T17:36:36+02:00",
 				"url": "https://canrith.eu/2020/11/27/ser-un-gateway.html"
 			},
 			{
 				"id": "http://jlrevilla.micro.blog/2020/11/27/activity-monitor.html",
 				"title": "Activity Monitor",
-				"content_html": "<p>La primera vez que escuché a Andy Puddicombe fue en una charla de TED hace años. Me pareció muy interesante en ese momento pero, como simpre pasa cuando nos abruma el día a día, pronto olvidé de todo su mensaje.</p>\n<p>Lo volví a descubrir a inicios de la pandemia global cuando Bill Gates recomendaba su libro como parte de su selección anual de lecturas. Yo justo había instalado el app Headspace en mi celular, pensando en que podría ser útil durante el aislamiento social, sin saber que era suya, luego de llevar un curso online sobre la filosofía budista.</p>\n<p>Leí su libro, me pareció espectacular, y ahora escucho su podcast todos los días. Creo que Andy explica muy bien el valor de la meditación así como la mejor manera de empezar a practicarla. Para mí, como geek, la forma de visualizar su método toma un matiz diferente.</p>\n<p><img src=\"https://canrith.eu/uploads/2021/a4b470fb36.jpg\" alt=\"Two Colors\"></p>\n<p>Meditar para mí es como activar el Task Manager de Windows (o Activity Monitor si usan Mac). La idea es abstraerse de los pensamientos o procesos del cerebro y observarlos desde la distancia. Es increíble notar como algunos están consumiendo todos los recursos… y luego ver como van apagándose y el ventilador del CPU empieza a bajar la velocidad hasta que puede dejar de soplar aire. Retomar el control y llegar a un estado de funcionamiento ideal.</p>\n<p>Si aún no han probado la metitación y el mindfulness, denle una oportunidad a Headspace.</p>\n",
-				"content_text": "La primera vez que escuché a Andy Puddicombe fue en una charla de TED hace años. Me pareció muy interesante en ese momento pero, como simpre pasa cuando nos abruma el día a día, pronto olvidé de todo su mensaje.\n\nLo volví a descubrir a inicios de la pandemia global cuando Bill Gates recomendaba su libro como parte de su selección anual de lecturas. Yo justo había instalado el app Headspace en mi celular, pensando en que podría ser útil durante el aislamiento social, sin saber que era suya, luego de llevar un curso online sobre la filosofía budista.\n\nLeí su libro, me pareció espectacular, y ahora escucho su podcast todos los días. Creo que Andy explica muy bien el valor de la meditación así como la mejor manera de empezar a practicarla. Para mí, como geek, la forma de visualizar su método toma un matiz diferente.\n\n![Two Colors](https://canrith.eu/uploads/2021/a4b470fb36.jpg)\n\nMeditar para mí es como activar el Task Manager de Windows (o Activity Monitor si usan Mac). La idea es abstraerse de los pensamientos o procesos del cerebro y observarlos desde la distancia. Es increíble notar como algunos están consumiendo todos los recursos… y luego ver como van apagándose y el ventilador del CPU empieza a bajar la velocidad hasta que puede dejar de soplar aire. Retomar el control y llegar a un estado de funcionamiento ideal.\n\nSi aún no han probado la metitación y el mindfulness, denle una oportunidad a Headspace.\n",
+				"content_html": "<p>La primera vez que escuché a Andy Puddicombe fue en una charla de TED hace años. Me pareció muy interesante en ese momento pero, como simpre pasa cuando nos abruma el día a día, pronto olvidé de todo su mensaje.</p>\n<p>Lo volví a descubrir a inicios de la pandemia global cuando Bill Gates recomendaba su libro como parte de su selección anual de lecturas. Yo justo había instalado el app Headspace en mi celular, pensando en que podría ser útil durante el aislamiento social, sin saber que era suya, luego de llevar un curso online sobre la filosofía budista.</p>\n<p>Leí su libro, me pareció espectacular, y ahora escucho su podcast todos los días. Creo que Andy explica muy bien el valor de la meditación así como la mejor manera de empezar a practicarla. Para mí, como geek, la forma de visualizar su método toma un matiz diferente.</p>\n<p><img src=\"https://cdn.uploads.micro.blog/47617/2021/a4b470fb36.jpg\" alt=\"Two Colors\"></p>\n<p>Meditar para mí es como activar el Task Manager de Windows (o Activity Monitor si usan Mac). La idea es abstraerse de los pensamientos o procesos del cerebro y observarlos desde la distancia. Es increíble notar como algunos están consumiendo todos los recursos… y luego ver como van apagándose y el ventilador del CPU empieza a bajar la velocidad hasta que puede dejar de soplar aire. Retomar el control y llegar a un estado de funcionamiento ideal.</p>\n<p>Si aún no han probado la metitación y el mindfulness, denle una oportunidad a Headspace.</p>\n",
+				"content_text": "La primera vez que escuché a Andy Puddicombe fue en una charla de TED hace años. Me pareció muy interesante en ese momento pero, como simpre pasa cuando nos abruma el día a día, pronto olvidé de todo su mensaje.\n\nLo volví a descubrir a inicios de la pandemia global cuando Bill Gates recomendaba su libro como parte de su selección anual de lecturas. Yo justo había instalado el app Headspace en mi celular, pensando en que podría ser útil durante el aislamiento social, sin saber que era suya, luego de llevar un curso online sobre la filosofía budista.\n\nLeí su libro, me pareció espectacular, y ahora escucho su podcast todos los días. Creo que Andy explica muy bien el valor de la meditación así como la mejor manera de empezar a practicarla. Para mí, como geek, la forma de visualizar su método toma un matiz diferente.\n\n![Two Colors](https://cdn.uploads.micro.blog/47617/2021/a4b470fb36.jpg)\n\nMeditar para mí es como activar el Task Manager de Windows (o Activity Monitor si usan Mac). La idea es abstraerse de los pensamientos o procesos del cerebro y observarlos desde la distancia. Es increíble notar como algunos están consumiendo todos los recursos… y luego ver como van apagándose y el ventilador del CPU empieza a bajar la velocidad hasta que puede dejar de soplar aire. Retomar el control y llegar a un estado de funcionamiento ideal.\n\nSi aún no han probado la metitación y el mindfulness, denle una oportunidad a Headspace.\n",
 				"date_published": "2020-11-27T05:36:36+02:00",
 				"url": "https://canrith.eu/2020/11/26/activity-monitor.html"
 			}
