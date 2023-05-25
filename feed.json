@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://jlrevilla.micro.blog/2023/05/25/y-yo-cmo.html",
+				
+				"content_html": "<p>Y yo&hellip; ¿cómo hago? 😀</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Y yo... ¿cómo hago? 😀\n\n<img src=\"uploads/2023/2d8aae1e27.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-05-25T11:57:35+02:00",
+				"url": "https://canrith.eu/2023/05/25/y-yo-cmo.html"
+			},
+			{
 				"id": "http://jlrevilla.micro.blog/2023/05/12/un-excelente-da.html",
 				
 				"content_html": "<p>Un excelente día se merecía un gran atardecer</p>\n<!-- raw HTML omitted -->\n",
@@ -29,14 +37,6 @@
 				"content_text": "Granada\n\n<img src=\"uploads/2023/bb3171dd9d.jpg\" width=\"600\" height=\"306\" alt=\"\">\n",
 				"date_published": "2023-04-30T19:36:19+02:00",
 				"url": "https://canrith.eu/2023/04/30/granada.html"
-			},
-			{
-				"id": "http://jlrevilla.micro.blog/2023/04/16/cuando-use-your.html",
-				
-				"content_html": "<p>Cuando &ldquo;Use Your Illusion 2&rdquo; era el álbum de moda&hellip;</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Cuando \"Use Your Illusion 2\" era el álbum de moda...\n\n<img src=\"uploads/2023/7e778a34d5.jpg\" width=\"600\" height=\"400\" alt=\"\">\n",
-				"date_published": "2023-04-16T00:35:33+02:00",
-				"url": "https://canrith.eu/2023/04/16/cuando-use-your.html"
 			},
 			{
 				"id": "http://jlrevilla.micro.blog/2023/04/15/thank-you-but.html",
@@ -263,14 +263,6 @@
 				"url": "https://canrith.eu/2022/12/28/yo-regresando-a.html"
 			},
 			{
-				"id": "http://jlrevilla.micro.blog/2022/12/27/jugando-con-el.html",
-				
-				"content_html": "<p>Jugando con el AI de Lensa para generar personajes de aventura en base a mi selfie 😅</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Jugando con el AI de Lensa para generar personajes de aventura en base a mi selfie 😅\n\n<img src=\"https://cdn.uploads.micro.blog/47617/2022/ba13370921.jpg\" width=\"600\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/47617/2022/5176b4e5ee.jpg\" width=\"600\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/47617/2022/ff8b4c7a37.jpg\" width=\"600\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/47617/2022/fecde865ae.jpg\" width=\"600\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/47617/2022/aa9417dfa1.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
-				"date_published": "2022-12-27T18:01:43+02:00",
-				"url": "https://canrith.eu/2022/12/27/jugando-con-el.html"
-			},
-			{
 				"id": "http://jlrevilla.micro.blog/2022/12/22/lima-es-una.html",
 				"title": "Lima es una ciudad que te agrede",
 				"content_html": "<p>La ciudad en sí, no los habitantes. Como una relación tóxica que no te permite notar el daño que te hace hasta que te alejas, me ha tocado estar fuera por casi un año y regresar unos días para darme cuenta.<br>\nEl tráfico, el ruido, el caos, la falta de áreas verdes, la ausencia de espacios para relajarse, el constante movimiento, lo difícil que es llegar de un punto a otro, la falta de consideración a los peatones, la falta de respeto a los vecinos, la basura, la policía, la arquitectura, la contaminación visual. Todo se complementa para que uno termine el día tenso, estresado, molesto.<br>\nEs una lástima porque hay mucho que amar en una ciudad como Lima, pero hoy todo eso se encuentra debajo de capas de caos.</p>\n",
@@ -441,8 +433,8 @@
 			{
 				"id": "http://jlrevilla.micro.blog/2022/10/15/necesito-una-maquina.html",
 				
-				"content_html": "<p>Necesito una maquina del tiempo para hacer un rápido viaje y darle un golpe al JL de la semana pasada que dijo “Meh, esto mejor lo hago el fin de semana”…</p>\n",
-				"content_text": "Necesito una maquina del tiempo para hacer un rápido viaje y darle un golpe al JL de la semana pasada que dijo “Meh, esto mejor lo hago el fin de semana”…\n",
+				"content_html": "<p>Necesito una maquina del tiempo para hacer un rápido viaje y darle un golpe al yo de la semana pasada que dijo “Meh, esto mejor lo hago el fin de semana”…</p>\n",
+				"content_text": "Necesito una maquina del tiempo para hacer un rápido viaje y darle un golpe al yo de la semana pasada que dijo “Meh, esto mejor lo hago el fin de semana”…\n",
 				"date_published": "2022-10-15T17:34:40+02:00",
 				"url": "https://canrith.eu/2022/10/15/necesito-una-maquina.html"
 			},
@@ -967,14 +959,6 @@
 				"url": "https://canrith.eu/2022/07/23/ms-bilbao.html"
 			},
 			{
-				"id": "http://jlrevilla.micro.blog/2022/07/23/aqu-casual-en.html",
-				
-				"content_html": "<p>Aquí casual, en el Guggenheim Bilbao</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Aquí casual, en el Guggenheim Bilbao\n\n<img src=\"https://cdn.uploads.micro.blog/47617/2022/ceb7efff4a.jpg\" width=\"600\" height=\"596\" alt=\"\" />\n",
-				"date_published": "2022-07-23T13:05:51+02:00",
-				"url": "https://canrith.eu/2022/07/23/aqu-casual-en.html"
-			},
-			{
 				"id": "http://jlrevilla.micro.blog/2022/07/22/ms-santander.html",
 				
 				"content_html": "<p>Más Santander</p>\n<!-- raw HTML omitted -->\n",
@@ -1117,14 +1101,6 @@
 				"content_text": "Hace casi 20 años, cuando publiqué mi primer blog (en Blogspot si no me equivoco), decidí ponerle de nombre “El Metaverso de JL” porque había justo leído a Neal Stephenson y la palabra me sonaba muy cool.\n\nPasaron los años y a pesar que cambié muchas veces de plataforma (Wordpress, Tumblr, Github Pages, Microblog) el nombre se mantuvo… hasta ahora.\n\nY es que la palabra Metaverso se ha convertido hoy en algo tan manoseado como Big Data o AI. No puedo seguir usándola. Y es por eso que ahora les doy la bienvenida al Scriptorium, que no será lo más original, pero al menos tiene sentido.\n",
 				"date_published": "2022-07-02T23:49:00+02:00",
 				"url": "https://canrith.eu/2022/07/02/a-rose-by.html"
-			},
-			{
-				"id": "http://jlrevilla.micro.blog/2022/06/29/no-se-ha.html",
-				
-				"content_html": "<p>No se ha regresado a la normalidad en la oficina hasta que no se encuentra uno con un colega de otro país en la máquina de café 😀</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "No se ha regresado a la normalidad en la oficina hasta que no se encuentra uno con un colega de otro país en la máquina de café 😀\n\n<img src=\"https://cdn.uploads.micro.blog/47617/2022/20cebb330b.jpg\" width=\"561\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2022-06-29T23:59:06+02:00",
-				"url": "https://canrith.eu/2022/06/29/no-se-ha.html"
 			},
 			{
 				"id": "http://jlrevilla.micro.blog/2022/06/18/malasaa.html",
