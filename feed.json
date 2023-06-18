@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://jlrevilla.micro.blog/2023/06/18/overthinking.html",
+				"title": "Overthinking",
+				"content_html": "<p>A veces uno pregunta algo de lo que ya sabe la respuesta sólo esperando que la otra persona diga la verdad. No siempre funciona, probablemente resulta en una decepción más frecuentemente que no.</p>\n<p>El problema luego no es solo la respuesta particular, sino que uno empieza, inconscientemente pero inevitablemente, a cuestionar qué otras cosas podrían no ser como uno pensaba. Las experiencias vividas se analiza bajo el ángulo de la nueva información, como cuando uno ve una película de misterio por segunda vez ya sabiendo quién es el asesino y observa cómo el personaje se comporta en sus escenas y dice “ajá, ahí estaba claro, cómo no lo noté”.</p>\n<p>Ese comentario que dió tanta risa, visto con esta nueva luz tal vez no se refería a lo que uno pensaba. Ese nuevo hobbie, ese repentino interés, esa recomendación, esa historia compartida, ese nuevo gusto descubierto que no existía antes… ¿eran inocentes o eran las señales del asesino en la película que no notaste porque te faltaba el contexto, pero ahora son obvias?</p>\n<p>La diferencia de una película con la vida real es que uno puede ver la película de nuevo conociendo la identidad del asesino y aún así disfrutarla, incluso tal vez más. En la vida real, eso no pasa.</p>\n",
+				"content_text": "A veces uno pregunta algo de lo que ya sabe la respuesta sólo esperando que la otra persona diga la verdad. No siempre funciona, probablemente resulta en una decepción más frecuentemente que no.\n\nEl problema luego no es solo la respuesta particular, sino que uno empieza, inconscientemente pero inevitablemente, a cuestionar qué otras cosas podrían no ser como uno pensaba. Las experiencias vividas se analiza bajo el ángulo de la nueva información, como cuando uno ve una película de misterio por segunda vez ya sabiendo quién es el asesino y observa cómo el personaje se comporta en sus escenas y dice “ajá, ahí estaba claro, cómo no lo noté”.\n\nEse comentario que dió tanta risa, visto con esta nueva luz tal vez no se refería a lo que uno pensaba. Ese nuevo hobbie, ese repentino interés, esa recomendación, esa historia compartida, ese nuevo gusto descubierto que no existía antes… ¿eran inocentes o eran las señales del asesino en la película que no notaste porque te faltaba el contexto, pero ahora son obvias?\n\nLa diferencia de una película con la vida real es que uno puede ver la película de nuevo conociendo la identidad del asesino y aún así disfrutarla, incluso tal vez más. En la vida real, eso no pasa.\n",
+				"date_published": "2023-06-18T20:19:36+02:00",
+				"url": "https://canrith.eu/2023/06/18/overthinking.html"
+			},
+			{
+				"id": "http://jlrevilla.micro.blog/2023/06/14/i-feel-you.html",
+				
+				"content_html": "<p><a href=\"https://m.youtube.com/watch?v=qiIZBzXBcZM\">I feel you Twelve, I really do</a></p>\n",
+				"content_text": "[I feel you Twelve, I really do](https://m.youtube.com/watch?v=qiIZBzXBcZM)\n",
+				"date_published": "2023-06-14T12:11:35+02:00",
+				"url": "https://canrith.eu/2023/06/14/i-feel-you.html"
+			},
+			{
 				"id": "http://jlrevilla.micro.blog/2023/06/11/recreando-posters-de.html",
 				
 				"content_html": "<p>Recreando posters de películas usando AI como parte de mis experimentos con Midjourney</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
@@ -34,7 +50,7 @@
 				"id": "http://jlrevilla.micro.blog/2023/05/12/un-excelente-da.html",
 				
 				"content_html": "<p>Un excelente día se merecía un gran atardecer</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Un excelente día se merecía un gran atardecer\n\n<img src=\"uploads/2023/94d6d0f447.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Un excelente día se merecía un gran atardecer\n\n<img src=\"https://cdn.uploads.micro.blog/47617/2023/94d6d0f447.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-05-12T13:29:09+02:00",
 				"url": "https://canrith.eu/2023/05/12/un-excelente-da.html"
 			},
@@ -50,7 +66,7 @@
 				"id": "http://jlrevilla.micro.blog/2023/04/30/granada.html",
 				
 				"content_html": "<p>Granada</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Granada\n\n<img src=\"https://cdn.uploads.micro.blog/47617/2023/bb3171dd9d.jpg\" width=\"600\" height=\"306\" alt=\"\">\n",
+				"content_text": "Granada\n\n<img src=\"uploads/2023/bb3171dd9d.jpg\" width=\"600\" height=\"306\" alt=\"\">\n",
 				"date_published": "2023-04-30T19:36:19+02:00",
 				"url": "https://canrith.eu/2023/04/30/granada.html"
 			},
@@ -58,7 +74,7 @@
 				"id": "http://jlrevilla.micro.blog/2023/04/15/thank-you-but.html",
 				
 				"content_html": "<p>Thank you, but the princess is in another castle!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Thank you, but the princess is in another castle!\n\n<img src=\"https://cdn.uploads.micro.blog/47617/2023/3509a5521b.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "Thank you, but the princess is in another castle!\n\n<img src=\"uploads/2023/3509a5521b.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-04-15T14:31:42+02:00",
 				"url": "https://canrith.eu/2023/04/15/thank-you-but.html"
 			},
