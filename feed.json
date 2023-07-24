@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://jlrevilla.micro.blog/2023/07/24/un-poco-de.html",
+				
+				"content_html": "<p>Un poco de peruanidad</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Un poco de peruanidad\n\n<img src=\"uploads/2023/e0f8b227dc.jpg\" width=\"600\" height=\"592\" alt=\"\">\n",
+				"date_published": "2023-07-24T22:13:31+02:00",
+				"url": "https://canrith.eu/2023/07/24/un-poco-de.html"
+			},
+			{
+				"id": "http://jlrevilla.micro.blog/2023/07/19/uno-de-los.html",
+				
+				"content_html": "<p>Uno de los errores más frecuentes en los que uno cae cuando intenta dar consejos a alguien más joven, es olvidar que esa persona no es uno mismo de joven, es otra persona totalmente diferente.</p>\n<p>Hay que esforzarse en recordar que no le estamos dando un consejo a una versión más joven de nosotros mismos, y enfocarse en recordar las experiencias de la otra persona.</p>\n",
+				"content_text": "Uno de los errores más frecuentes en los que uno cae cuando intenta dar consejos a alguien más joven, es olvidar que esa persona no es uno mismo de joven, es otra persona totalmente diferente.\n\nHay que esforzarse en recordar que no le estamos dando un consejo a una versión más joven de nosotros mismos, y enfocarse en recordar las experiencias de la otra persona.\n",
+				"date_published": "2023-07-19T18:25:08+02:00",
+				"url": "https://canrith.eu/2023/07/19/uno-de-los.html"
+			},
+			{
 				"id": "http://jlrevilla.micro.blog/2023/07/17/cuando-te-tatas.html",
 				
 				"content_html": "<p>Cuando te tatúas un dragón, pero luego sales al mundo 🤡</p>\n<!-- raw HTML omitted -->\n",
