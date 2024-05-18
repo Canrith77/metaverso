@@ -8,13 +8,13 @@ Uno podría erróneamente decir que todo comenzó en aquella Línea 3 del metro,
 
 Yo tenía la mirada fija en la ventana a pesar de que, siendo sinceros, no había nada que ver en los túneles oscuros por los que el metro se movía. Pero mi mente estaba llena de ideas e imágenes que me impedían relajarme. Entonces, el extraño giró la cabeza hacia mí y me dijo de improviso:
 
-\\-Sí, existe una respuesta, pero para conocerla tienes que hacer el viaje esta noche.
+\-Sí, existe una respuesta, pero para conocerla tienes que hacer el viaje esta noche.
 
 Por otro lado, tal vez sería más preciso, al menos cronológicamente, decir que realmente todo había comenzado mucho tiempo antes, hacía casi 15 años, la primera vez que se me presentó la oportunidad de hacer el viaje. En ese momento no me atreví a realizarlo porque sentí mucho miedo. Fue el primero de esos miedos que marcan la transición de niño a adolescente, cuando uno se da cuenta de que el mundo no es mágico, que sus habitantes son seres humanos y que la muerte es algo real.
 
 Recuerdo habérselo comentado a quien era mi mejor amigo en ese entonces, contarle que la noche anterior, con un estado de consciencia alterado por el humo, había tenido pesadillas, había visto sombras, personas, luces. Un color naranja como el de las puestas de sol, un cuervo volando entre esferas de luz. Pensé que iba a reírse de mí, de su amigo novato en un mal viaje. Pero lo que me dijo me sorprendió.
 
-\\-¿Tú también has visto las luces? –Preguntó, con la voz de alguien que no ha terminado de despertar- Yo las vi una vez y acepté el viaje. No pude con todo, me dejé manipular, especialmente por las risas. Escuchas muchas risas. Es como si te retaran y tú sabes que a mí no me gustan los retos. Casi sientes que se burlan de lo perdido que estás.
+\-¿Tú también has visto las luces? –Preguntó, con la voz de alguien que no ha terminado de despertar- Yo las vi una vez y acepté el viaje. No pude con todo, me dejé manipular, especialmente por las risas. Escuchas muchas risas. Es como si te retaran y tú sabes que a mí no me gustan los retos. Casi sientes que se burlan de lo perdido que estás.
 
 Sabía que mi amigo no se había recuperado del todo de la noche anterior. Las últimas palabras habían sido casi murmullos y luego se había dormido. Decidí olvidar esa conversación tan extraña y mis ideas y regresar a dormir al igual que él. Ya totalmente despiertos unas horas después, cuando hablé nuevamente con él, me dijo que no recordaba nada. Y yo pasé a olvidarlo también.
 
@@ -24,21 +24,21 @@ Pero ¿en realidad fue así? ¿O era que yo había aprendido a ignorarlas? Debe 
 
 Cuando pienso al respecto, no puedo recordar qué sentimientos fueron los que me inspiró al inicio esa persona que parecía haber leído mi mente. El Flaco –porque he decidido llamarlo “El Flaco” a falta de otra característica saltante que lo describa– había soltado su frase de la manera más incidental, mientras miraba su reloj, casi como quien comenta sobre el frío en el invierno. Yo, recuerdo, volteé a mirarlo y le mentí:
 
-\\-¿Qué me dice, señor? No tengo idea de lo que está hablando.
+\-¿Qué me dice, señor? No tengo idea de lo que está hablando.
 
-\\-Hablo de la respuesta a tus preguntas, las que te tenían tan preocupado hoy en la mañana mientras leías la misma página de un libro por veinte minutos. Y las que te tienen preocupado ahora que miras por la ventana, pero sin ver en realidad lo que pasa afuera. Esa comezón que no te puedes alcanzar porque no es el cuerpo lo que te pica. Si haces el viaje que debiste haber hecho hace años, lo tendrás claro.
+\-Hablo de la respuesta a tus preguntas, las que te tenían tan preocupado hoy en la mañana mientras leías la misma página de un libro por veinte minutos. Y las que te tienen preocupado ahora que miras por la ventana, pero sin ver en realidad lo que pasa afuera. Esa comezón que no te puedes alcanzar porque no es el cuerpo lo que te pica. Si haces el viaje que debiste haber hecho hace años, lo tendrás claro.
 
-\\-No se ofenda señor pero creo que usted está un poco loc…
+\-No se ofenda señor pero creo que usted está un poco loc…
 
-\\-No. Loco te volverás tú si continúas esquivando tu destino.
+\-No. Loco te volverás tú si continúas esquivando tu destino.
 
-\\-¿Pero cómo diablos es que sabes eso? Dime quién eres.
+\-¿Pero cómo diablos es que sabes eso? Dime quién eres.
 
-\\-Yo solo soy un mensajero. Así que, como siempre, mi identidad no importa. Me gusta ayudar a los que son como tú a darse cuenta de lo que deben hacer. No tengo las respuestas, esas las tienes solo tú..
+\-Yo solo soy un mensajero. Así que, como siempre, mi identidad no importa. Me gusta ayudar a los que son como tú a darse cuenta de lo que deben hacer. No tengo las respuestas, esas las tienes solo tú..
 
-\\-¿Y qué debo hacer?
+\-¿Y qué debo hacer?
 
-\\- Primero, el viaje. ¿Qué camino puedes tomar si no sabes a dónde quieres llegar? El viaje te mostrará tu destino y una vez que lo conozcas, lo demás será fácil. Ah, mira que esta es mi estación, me voy moviendo. Uno debe tener cuidado de no introducir el pie entre el coche y el andén, tú sabes.
+\- Primero, el viaje. ¿Qué camino puedes tomar si no sabes a dónde quieres llegar? El viaje te mostrará tu destino y una vez que lo conozcas, lo demás será fácil. Ah, mira que esta es mi estación, me voy moviendo. Uno debe tener cuidado de no introducir el pie entre el coche y el andén, tú sabes.
 
 El Flaco se movió entre la gente pidiendo permiso y bajó en el último momento antes del cierre de puertas. Mientras tanto, yo me quedé sentado en un asiento que repentinamente se sentía mucho más incómodo, mirando por la ventana cómo El Flaco se alejaba por la estación sin mirar atrás. No me arrepentí de no reaccionar a tiempo para preguntarle algo más. De alguna manera sabía que eso era todo lo que me diría.
 
