@@ -2,7 +2,7 @@
 
 "And those who were seen dancing were thought to be insane by those who could not hear the music". - Atribuido a Friedrich Nietzsche
 
-\### Uno
+### Uno
 
 Uno podría erróneamente decir que todo comenzó en aquella Línea 3 del metro, cuando yo aún era solo uno y no tenía idea que debía ser tres. Cuando el hombre delgado con unos jeans y unas Converse que viajaba junto a mí ese miércoles después de clases puso todo en marcha. Podríamos decir que fue él la gota que llenó el sozu y que fui yo arrastrado por el sonido que provocó al vaciarse nuevamente.
 
@@ -58,7 +58,7 @@ Finalmente podríamos decir que fue aquí donde todo comenzó realmente. Si la v
 
 Y luego luz.
 
-\### Dos
+### Dos
 
 Mis ojos se abrieron para ver un cielo azul, sin nubes pero carente de una fuente de iluminación aparente. Me encontraba recostado sobre una superficie fría con el dolor de cabeza más fuerte que había sentido en toda mi vida. De hecho me dolía todo el cuerpo, y lo sentía tosco y pesado a comparación del instante anterior en el vacío. Era penosamente consciente de mi respiración y del contacto con el incómodo suelo.
 
@@ -184,7 +184,7 @@ Para este momento, yo ya estaba aceptando mi nueva situación como parte de un e
 
 \-Pelear no, pero competir sí. Y la primera competencia es conmigo.
 
-\### Tres
+### Tres
 
 En ese momento dudé de mi elección. El anciano encapuchado decididamente era muy sabio. Tal vez hubiera podido ser más fuerte que el, con suerte, pero ¿qué esperanza tenía yo contra él en una prueba de talentos musicales o de palabra? Al menos, pensé, de algo podrían servir la gran cantidad de libros y revistas sobre fantasía y ciencia que leía desde niño.
 
