@@ -2,7 +2,7 @@
 
 "And those who were seen dancing were thought to be insane by those who could not hear the music". - Atribuido a Friedrich Nietzsche
 
-\### Uno
+### Uno
 
 Uno podría erróneamente decir que todo comenzó en aquella Línea 3 del metro, cuando yo aún era solo uno y no tenía idea que debía ser tres. Cuando el hombre delgado con unos jeans y unas Converse que viajaba junto a mí ese miércoles después de clases puso todo en marcha. Podríamos decir que fue él la gota que llenó el sozu y que fui yo arrastrado por el sonido que provocó al vaciarse nuevamente.
 
@@ -58,7 +58,7 @@ Finalmente podríamos decir que fue aquí donde todo comenzó realmente. Si la v
 
 Y luego luz.
 
-\### Dos
+### Dos
 
 Mis ojos se abrieron para ver un cielo azul, sin nubes pero carente de una fuente de iluminación aparente. Me encontraba recostado sobre una superficie fría con el dolor de cabeza más fuerte que había sentido en toda mi vida. De hecho me dolía todo el cuerpo, y lo sentía tosco y pesado a comparación del instante anterior en el vacío. Era dolorosamente consciente de mi respiración y del contacto con el incómodo suelo.
 
@@ -184,7 +184,7 @@ Para este momento, yo ya estaba aceptando mi nueva situación como parte de un e
 
 \-Pelear no, pero competir sí. Y la primera competencia es conmigo.
 
-\### Tres
+### Tres
 
 En ese momento dudé de mi elección. El anciano encapuchado decididamente era muy sabio. Tal vez hubiera podido ser más fuerte que él, con suerte, pero ¿qué esperanza tenía yo contra él en una prueba de talentos musicales o de palabra? Al menos, pensé, de algo podrían servir la gran cantidad de libros y revistas sobre fantasía y ciencia que leía desde niño.
 
@@ -232,7 +232,7 @@ Debo decir que me encontraba confundido pero también contento. Al parecer habí
 
 No podía saberlo en ese momento, pero mientras yo partía hacia el bosque, una pequeña sombra se movía sola, alejándose del lugar desde el que había observado todo lo acontecido en el templo.
 
-\### Cuatro
+### Cuatro
 
 Siendo un hombre totalmente urbano y citadino, no tenía mucha experiencia a la cual remitirme al comparar, pero el bosque al que había entrado me parecía más hermoso que los bosques tradicionales. No era una de esas junglas impenetrables, con calor asfixiante. Era un bosque acogedor, un bosque de cuentos de fantasía, un bosque donde no sería sorpresa encontrar a un elfo detrás de un árbol o donde uno podría esconderse con su grupo de bandidos luego de robarle al alguacil.
 
@@ -294,7 +294,7 @@ En este mundo el concepto del tiempo sería anormal, pero sin duda había difere
 
 No hubo respuesta, solamente una sonrisa. De alguna manera supe que había pasado la prueba. Fue mucho después que tuve mi siguiente encuentro, luego de comer, descansar y reir, ilusamente pensando que todas las pruebas iban a ser así de fáciles.
 
-\### Cinco
+### Cinco
 
 El bosque se había tupido mucho, casi no dejaba entrar la luz, así que decidí probar la piedra negra. Al sacarla del bolsillo noté cómo comenzaba a emitir un brillo azul que poco a poco fue aumentando de intensidad hasta iluminar lo suficiente para permitirme ver bien a unos metros.
 
@@ -380,7 +380,7 @@ Otra vez tenía ante mí la opción de usar un arma. ¿Era también una prueba? 
 
 Dicho esto se dio media vuelta y comenzó a caminar hacia la parte densa del bosque. Hasta ahora no lo puedo recordar con claridad, pero estoy casi seguro que la vi fusionarse con el tronco de un gran árbol.
 
-\### Seis
+### Seis
 
 Tomé el camino que se me había indicado, mientras tarareaba la melodía que había compuesto sin querer. Desde ese momento, cada vez que me siento triste o cansado, la recuerdo. El sonido del alma alivia cualquier malestar físico.
 
