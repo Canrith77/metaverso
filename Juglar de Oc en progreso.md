@@ -1,8 +1,8 @@
-# El juglar de Oc (en progreso)
+# El juglar de Oc
 
 "And those who were seen dancing were thought to be insane by those who could not hear the music". - Atribuido a Friedrich Nietzsche
 
-### Uno
+\### Uno
 
 Uno podría erróneamente decir que todo comenzó en aquella Línea 3 del metro, cuando yo aún era solo uno y no tenía idea que debía ser tres. Cuando el hombre delgado con unos jeans y unas Converse que viajaba junto a mí ese miércoles después de clases puso todo en marcha. Podríamos decir que fue él la gota que llenó el sozu y que fui yo arrastrado por el sonido que provocó al vaciarse nuevamente.
 
@@ -58,7 +58,7 @@ Finalmente podríamos decir que fue aquí donde todo comenzó realmente. Si la v
 
 Y luego luz.
 
-### Dos
+\### Dos
 
 Mis ojos se abrieron para ver un cielo azul, sin nubes pero carente de una fuente de iluminación aparente. Me encontraba recostado sobre una superficie fría con el dolor de cabeza más fuerte que había sentido en toda mi vida. De hecho me dolía todo el cuerpo, y lo sentía tosco y pesado a comparación del instante anterior en el vacío. Era dolorosamente consciente de mi respiración y del contacto con el incómodo suelo.
 
@@ -114,7 +114,7 @@ Llegamos a un colosal patio circular en cuyo centro se podía divisar una especi
 
 Hacia allí nos dirigimos y a medida que nos acercábamos pude distinguir lo que parecían ser algunas espadas, escudos y armaduras, similares a las que uno ve en museos. También noté algo que podía ser una lanza y algunas otras cosas que nunca había visto, pero que parecían aquellas que uno imagina encontrar en el laboratorio de algún alquimista o brujo.
 
-\-Esto no es una prueba en si misma –me dijo mi compañero- pero debo advertirte que lo que elijas ahora influirá en el tipo de pruebas que encuentres luego en tu viaje.
+\-Esta no es una lección en si misma –me dijo mi compañero- pero debo advertirte que lo que elijas ahora influirá en el tipo de lecciones que encuentres luego en tu viaje.
 
 \-¿Es decir que tengo que escoger una de estas cosas?
 
@@ -178,21 +178,21 @@ Para este momento, yo ya estaba aceptando mi nueva situación como parte de un e
 
 \-Eso es… como un trovador, ¿no?
 
-\-Algo así. La habilidad del juglar no está en la fuerza física o en la destreza manual, sino en el dominio de la palabra, la retórica y la música. Las pruebas que te esperan reflejarán eso.
+\-Algo así. La habilidad del juglar no está en la fuerza física o en la destreza manual, sino en el dominio de la palabra, la retórica y la música. Las lecciones que te esperan reflejarán eso.
 
 \-Mira tú. ¿Eso quiere decir que no tendré que enfrentarme a nadie?
 
-\-Pelear no, pero competir sí. Y la primera competencia es conmigo.
+\-Pelear no, pero aprender de muchos sí. Y gracias a tu elección la primera lección será mía.
 
-### Tres
+\### Tres
 
-En ese momento dudé de mi elección. El anciano encapuchado decididamente era muy sabio. Tal vez hubiera podido ser más fuerte que él, con suerte, pero ¿qué esperanza tenía yo contra él en una prueba de talentos musicales o de palabra? Al menos, pensé, de algo podrían servir la gran cantidad de libros y revistas sobre fantasía y ciencia que leía desde niño.
+En ese momento dudé. El anciano encapuchado decididamente era muy sabio y por lo tanto debía tener muchas lecciones que enseñarme. Pero de la manera en que había venido desenvolviéndose la conversación entre nosotros tal vez una lección con el podría tomar una eternidad.
 
 \-No estoy listo, encapuchado, pero vamos. No he llegado hasta aquí para arrepentirme.
 
-\-Hablas con verdad y con coraje. Lamentablemente no debo evaluarte en ninguno de esos dos aspectos.
+\-Hablas con verdad y con coraje. Lamentablemente mi lección no cubre ninguno de esos dos aspectos.
 
-\-¿En qué me vas a evaluar entonces anciano?
+\-¿De qué trata tu lección entonces anciano?
 
 Aquel rostro que era realmente solo una sombra debajo de la capucha se centró en el mio, como pensativo. El anciano habló, pero ya no más con voz de anciano, sino con una voz joven y extrañamente familiar.
 
@@ -200,13 +200,13 @@ Aquel rostro que era realmente solo una sombra debajo de la capucha se centró e
 
 \-Supongo que algunas cosas se tienen que experimentar sin palabras. Otras se tienen que experimentar sin lógica.
 
-\-No estaríamos aquí si no tuvieras dentro de ti esa respuesta. Era, sin embargo, necesario hacer la pregunta.
+\-No estaríamos aquí si no tuvieras dentro de ti esa respuesta. Era, sin embargo, necesario hacer la pregunta. Puedes irte.
 
-\-Espera… ¿Eso es todo? ¿Aquí termina la prueba?
+\-Espera… ¿Eso es todo? ¿Aquí termina la lección? Esto va a ser mucho más fácil de lo que pensé.
 
 \-La mía sí, solo tenía que apuntarte en la dirección adecuada. Pero vendrán más. El universo está lleno de fuerzas que no entendemos, solo vemos la representación de esas fuerzas en nuestro riguroso mundo de cuatro dimensiones, al cual tus sentidos tienen acceso.
 
-\-Afortunadamente ya pasé la prueba porque ahora realmente no estoy entendiendo nada.
+\-Afortunadamente ya terminamos la lección porque ahora realmente no estoy entendiendo nada.
 
 \-Todo lo que te digo, tú ya lo sabes, créeme. Me refería a no poder percibir todo lo que realmente existe, sino sólo lo que nuestros sentidos pueden alcanzar.
 
@@ -214,9 +214,9 @@ Aquel rostro que era realmente solo una sombra debajo de la capucha se centró e
 
 \-Es lo que te dice la lógica, pero recuerda que debes dejar la lógica de lado, tú mismo lo dijiste hace unos segundos. Reflexiona sobre esto y las siguientes pruebas serán más sencillas.
 
-Debo decir que me encontraba confundido pero también contento. Al parecer había superado con éxito la primera prueba. Si las cosas seguían así, tal vez terminar el viaje no sería tan difícil. Noté que se relajaban algunos músculos de mi cuello que hasta ese momento no sabía que estaban tensos o siquiera que existían. Fue como liberarme de una carga que había estado allí hacía semanas. El encapuchado, que ya no era anciano, también lo notó enseguida.
+Debo decir que me encontraba confundido pero también contento. Si las cosas seguían así, tal vez terminar el viaje no sería tan difícil. Noté que se relajaban algunos músculos de mi cuello que hasta ese momento no sabía que estaban tensos o siquiera que existían. Fue como liberarme de una carga que había estado allí hacía semanas. El encapuchado, que ya no era anciano, también lo notó enseguida.
 
-\-A medida que pases las pruebas te irás sintiendo mejor. Al final de todo, cuando encuentres el camino, esa picazón del alma desaparecerá.
+\-A medida que avances en este viaje te irás sintiendo mejor. Al final de todo, cuando encuentres el camino, esa picazón del alma desaparecerá.
 
 \-Esa expresión ya la había oído antes… ¿no serás tú El Flaco, encapuchado? Tu voz es mucho más joven ahora.
 
@@ -232,7 +232,7 @@ Debo decir que me encontraba confundido pero también contento. Al parecer habí
 
 No podía saberlo en ese momento, pero mientras yo partía hacia el bosque, una pequeña sombra se movía sola, alejándose del lugar desde el que había observado todo lo acontecido en el templo.
 
-### Cuatro
+\### Cuatro
 
 Siendo un hombre totalmente urbano y citadino, no tenía mucha experiencia a la cual remitirme al comparar, pero el bosque al que había entrado me parecía más hermoso que los bosques tradicionales. No era una de esas junglas impenetrables, con calor asfixiante. Era un bosque acogedor, un bosque de cuentos de fantasía, un bosque donde no sería sorpresa encontrar a un elfo detrás de un árbol o donde uno podría esconderse con su grupo de bandidos luego de robarle al alguacil.
 
@@ -264,19 +264,19 @@ Esta conversación me estaba resultando divertida. Además ese enano inspiraba c
 
 Yo no estaba entendiendo nada y mi rostro lo estaba haciendo evidente.
 
-\-Mira, quédate con la piedra. Se llama unsen y puede ayudarte. Y vaya que vas a necesitar toda la ayuda posible, con esa expresión en la cara. Te dará luz en los momentos en los que se te haga difícil ver lo que se encuentra a tu alrededor. No te será muy útil contra la Sombra, eso tenlo por seguro, pero el bosque no entrega regalos en vano.
+\-Mira, quédate con la piedra. Se llama Unsen y puede ayudarte. Y vaya que vas a necesitar toda la ayuda posible, con esa expresión en la cara. Te dará luz en los momentos en los que se te haga difícil ver lo que se encuentra a tu alrededor. No te será muy útil contra la Sombra, eso tenlo por seguro, pero el bosque no entrega regalos en vano.
 
 \-Gracias, supongo.
 
-\-De nada. Ahora tu prueba.
+\-De nada. Ahora tu lección.
 
 Me puse de cuclillas para estar a la altura del rostro del enano.
 
-\-¿Prueba? –pregunté mientras guardaba la piedra en el bolsillo- Me hubieras avisado de la prueba desde un principio. Hemos hablado de tonterías perdiendo el tiempo y yo la verdad busco terminar con todas las pruebas rápido para regresar a mi casa.
+\-¿Lección? –pregunté mientras guardaba la piedra en el bolsillo- Me hubieras avisado de la lección desde un principio. Hemos hablado de tonterías perdiendo el tiempo y yo la verdad busco terminar con todas las lecciones rápido para regresar a mi casa.
 
 \-Regresarás oportunamente. ¿No has entendido que aquí no puedes desaprovechar el tiempo? No lo puedes perder.
 
-\-Pues eso explica por qué aquí todos se desvían del tema cuando uno intenta tener una conversación. ¿Y si me dices cuál es la prueba… por favor?
+\-Pues eso explica por qué aquí todos se desvían del tema cuando uno intenta tener una conversación. ¿Y si me dices cuál es la lección… por favor?
 
 \-Pues responde a esto, viajero: ¿Crees que pertenecer a una sociedad es algo positivo o negativo?
 
@@ -290,11 +290,11 @@ Recuerdo que esta fue la etapa más divertida del viaje. En ese momento, mientra
 
 En este mundo el concepto del tiempo sería anormal, pero sin duda había diferencia entre el día y la noche. A medida que comíamos pude ver llegar un atardecer muy hermoso.
 
-\-Sabes qué -le dije finalmente al enano, sabiendo ya que las respuestas nunca eran sencillas con estas pruebas- Tal vez la respuesta a tu pregunta anterior es que siempre es bueno ver las cosas desde diversos puntos de vista. Un idioma, una cultura o un ideal común unen a las personas en sociedades, pero separan a las sociedades entre sí. Supongo que algo puede ser bueno y malo al mismo tiempo.
+\-Sabes qué -le dije finalmente al enano, sabiendo ya que las respuestas nunca eran sencillas con estas lecciones- Tal vez la respuesta a tu pregunta anterior es que siempre es bueno ver las cosas desde diversos puntos de vista. Un idioma, una cultura o un ideal común unen a las personas en sociedades, pero separan a las sociedades entre sí. Supongo que algo puede ser bueno y malo al mismo tiempo.
 
-No hubo respuesta, solamente una sonrisa. De alguna manera supe que había pasado la prueba. Fue mucho después que tuve mi siguiente encuentro, luego de comer, descansar y reir, ilusamente pensando que todas las pruebas iban a ser así de fáciles.
+No hubo respuesta, solamente una sonrisa. De alguna manera supe que ya podía seguir mi camino. Fue mucho después que tuve mi siguiente encuentro, luego de comer, descansar y reir, ilusamente pensando que todas las lecciones iban a ser así de fáciles.
 
-### Cinco
+\### Cinco
 
 El bosque se había tupido mucho, casi no dejaba entrar la luz, así que decidí probar la piedra negra. Al sacarla del bolsillo noté cómo comenzaba a emitir un brillo azul que poco a poco fue aumentando de intensidad hasta iluminar lo suficiente para permitirme ver bien a unos metros.
 
@@ -302,7 +302,7 @@ Me quedé fascinado un momento por la piedra y le daba vueltas en la mano tratan
 
 \-No es algo natural lo que le da luz, viajero. Es un encantamiento sencillo pero posible sólo para iniciados.
 
-Di un salto del susto. A mi lado se encontraba una mujer alta y esbelta, de cabellos cobrizos muy largos y ojos tan verdes que era imposible evitar el quedarse cautivado por ellos. Pero en lugar de asombrarme, me sentí molesto por no haberme dado cuenta de su presencia antes. Además ya me estaba cansando el que todos en este lugar parecieran leer la mente. Le pregunté con voz de pocos amigos:
+Di un salto del susto. La voz provenía de una mariposa. Una mariposa que habla, por qué no. Pero en lugar de asombrarme, me sentí molesto por no haberme dado cuenta de su presencia antes. Además ya me estaba cansando el que todos en este lugar parecieran leer la mente. Le pregunté con voz de pocos amigos:
 
 \-¿Y quién eres tú?
 
@@ -326,17 +326,25 @@ Resignado me senté en una piedra para estar más cómodo y me puse a tocar en T
 
 \-Mira –confesé- La verdad no ha sido obra mía sino de Tensón. Yo no sé tocar tan bien y esa canción no la había escuchado antes.
 
-\-¡Ah querido viajero! –me dijo riendo- Tensón sólo emite la melodía que está en el espíritu de quien la toca. Y tu espíritu es de poeta. Una melodía de ese tipo merece mi admiración y la de todos los Sidhe. Hemos decidido darte la opción a un obsequio. Pero todo obsequio necesita una prueba.
+\-¡Ah querido viajero! –me dijo riendo- Tensón sólo emite la melodía que está en el espíritu de quien la toca. Y tu espíritu es de poeta. Una melodía de ese tipo merece mi admiración y la de todos los Sidhe. Hemos decidido que si vamos a impartirte una lección después de todo. Permíteme además ahora mostrarme como realmente soy.
 
-\-Sí, ya me estoy acostumbrando. Muchas gracias, solo dime qué tengo que hacer.
+A mi lado se encontraba ahora una mujer alta y esbelta, de cabellos cobrizos muy largos y ojos tan verdes que era imposible evitar el quedarse cautivado por ellos. Había oído historias de seres mágicos que hechizaban a los hombres con su belleza y estos quedaban atrapados para siempre realizando cualquier labor que se les pidiera. Algo en mi cerebro me decía que tenía que luchar, resistirme, pero era tan fácil solamente dejarme llevar...
 
-\-Responder a una pregunta que nos hacemos los Sidhe hace mucho tiempo. Escucha, amigo poeta: La poesía es más antigua que la prosa, es el leguaje original. El ser humano tardó mucho tiempo en expresarse en términos abstractos, ya que mucho más fácil y más hermoso era asignarle vida a las palabras y de esta manera asignarle también vida a las cosas que ellas definen. El niño le asigna vida e inteligencia a todos los objetos, pero luego se le olvida. ¿Por qué reprime ahora el hombre ese tipo de expresión?
+\-Déjame por favor -atiné a decir- Necesito continuar mi viaje, no puedo quedarme aquí embrujado por un hada o lo que seas. Déjame libre.
 
-Me quedé pensando un instante. Recordé que, cuando niño, yo siempre había pensado que mis juguetes tenían vida, y que si no jugaba con todos por igual algunos podían sentirse mal. En la adolescencia, había descubierto que las palabras podían tener vida propia en manos de ciertos autores de poemas e historias. Años después, la carrera de ingeniería me había enseñado a hablar pensando en términos técnicos y en estándares.
+\-Querido viajero, la libertad es solo una ilusión y la libertad absoluta no existe. Ninguno de nosotros elige el momento en el que nacemos o dónde o nuestra apariencia física. No podemos cambiar estos cuerpos que mueren cuando su temperatura es muy alta o muy baja, solo podemos movernos dentro de una fracción del universo conocido. ¿En verdad te crees libre?
 
-\-Eso es algo que yo también he notado –respondí- Lo que sucede es que vivimos en un mundo donde el lenguaje científico y técnico es considerado más valioso, más avanzado, más erudito. Y algo de razón tienen los que piensan así porque gracias a este lenguaje hemos llegado hasta donde estamos. Pero si algo aprendí en la prueba pasada es que, supongo, lo importante está en manejar ambos lenguajes. Hoy en día, los poetas siguen hablándole al mar o la luna como si fueran entes con personalidad y espíritu.
+\-Bueno, tal vez existen muchas circunstancias que no puedo cambiar, pero al menos si puedo decidir a quien amar.
 
-\-Pero ya ves, es que lo son. Y si logran entenderlo podrán ganar su favor, como ha sido ahora. En el comienzo de su historia, nosotros compartimos muchas cosas con ustedes. El hombre primitivo sabía que todas las cosas tenían vida y es así que las palabras como árbol, sol, piedra, luna o serpiente designaban a espíritus y no a objetos.
+La Sidhe rió entonces y fue la risa más hermosa que vi jamás. Sonriendo continuó:
+
+\-Decidir a quien amar dices. Intenta entonces obligarte a amar a alguien, o a dejar de amar a alguien. O tal vez intenta obligar a alguien a amarte. ¿No ves que es imposible? No podemos elegir a quién amar así como no elegimos quiénes y qué somos. Para engañarnos a nosotros mismos nos aferramos a ideas artificiales de elección, pero eso no es libertad.
+
+Me quedé pensando un instante y me di cuenta que aquello que estaba sintiendo era parte de la lección. Y en ese momento pude sentir que el efecto se desvanecía.
+
+\-He aprendido algo, lo sé, pero me cuesta expresarlo. No tengo las palabras. A mí me enseñaron toda la vida que el lenguaje técnico era más valioso, más avanzado, más erudito. Y algo de razón tienen los que piensan así porque gracias a este lenguaje hemos llegado hasta donde estamos. Pero no encuentro ahora las palabras para describir lo que dentro de mí yo sé que estoy pensando.
+
+\-Por eso fue que les dimos el don de la poesía. Hoy en día tus poetas siguen hablándole al mar o la luna como si fueran entes con personalidad y espíritu. Y es que lo son. Y si logras entenderlo podrás ganar su favor. En el comienzo de su historia, nosotros compartimos muchas cosas con ustedes. El hombre primitivo sabía que todas las cosas tenían vida y es así que las palabras como árbol, sol, piedra, luna o serpiente designaban a espíritus y no a objetos.
 
 Vinieron a mi mente algunos poemas mitológicos europeos, los que solía leer cuando estaba en el colegio. Las historias que contaban eran apasionantes, pero nunca antes había reparado en el lenguaje tan particular que usaban.
 
@@ -346,7 +354,7 @@ Vinieron a mi mente algunos poemas mitológicos europeos, los que solía leer cu
 
 \-¿Debido a que no podemos explicarlo?
 
-\-El hombre, al igual que nosotros, no puede soportar el sufrimiento sin motivo, el sufrimiento absurdo. Sabe que el estado natural de las cosas es el bien.Y cuando todo va mal busca a quien culpar. Puede ser culpa propia o culpa de un hombre malo. O en todo caso puede ser cólera divina, venganza por alguna ofensa… pero no soy yo quien debe hablarte de lo divino. Lo fundamental es que no olvides lo que has visto aquí. Ahora mereces tu obsequio.
+\-El hombre, al igual que nosotros, no puede soportar el sufrimiento sin motivo, el sufrimiento absurdo. Sabe que el estado natural de las cosas es el bien.Y cuando todo va mal busca a quien culpar. Puede ser culpa propia o culpa de un hombre malo. O en todo caso puede ser cólera divina, venganza por alguna ofensa… pero no soy yo quien debe hablarte de lo divino. Lo fundamental es que no olvides lo que has visto aquí. Ahora mereces un obsequio.
 
 Descolgó de su cinto una espada y la puso en frente de mí.
 
@@ -354,7 +362,7 @@ Descolgó de su cinto una espada y la puso en frente de mí.
 
 Otra vez tenía ante mí la opción de usar un arma. ¿Era también una prueba? No sabía si aceptar o no la oferta. ¿Sería capaz de usar una espada? Jamás en mi vida había empuñado un arma de ese tipo.
 
-\-Muchas gracias. Tu regalo viene del corazón, pero no puedo aceptarlo. He decidido seguir el camino de juglar y no hay lugar en él para este tipo de armas.
+\-Muchas gracias. Tu regalo viene del corazón, pero no puedo aceptarlo. Para empezar yo creo que lo más importante ha sido la lección que me has ayudado a descubrir. Pero por otro lado, yo he decidido seguir el camino de juglar y no hay lugar en él para este tipo de armas.
 
 \-Piénsalo bien, viajero. La espada ya ha sido liberada por mí y no puede ser recuperada a menos que alguien la acepte primero. Si no la quieres tú, alguien más… sombrío… podría usarla.
 
@@ -380,7 +388,7 @@ Otra vez tenía ante mí la opción de usar un arma. ¿Era también una prueba? 
 
 Dicho esto se dio media vuelta y comenzó a caminar hacia la parte densa del bosque. Hasta ahora no lo puedo recordar con claridad, pero estoy casi seguro que la vi fusionarse con el tronco de un gran árbol.
 
-### Seis
+\### Seis
 
 Tomé el camino que se me había indicado, mientras tarareaba la melodía que había compuesto sin querer. Desde ese momento, cada vez que me siento triste o cansado, la recuerdo. El sonido del alma alivia cualquier malestar físico.
 
